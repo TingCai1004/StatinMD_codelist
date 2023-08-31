@@ -1,7 +1,0 @@
-medcode	readcode	readterm
-14362	44LA.00	Serum vitamin D
-102482	4QB4.00	Vitamin D level
-102416	4QB4400	Combined total vitamin D2 and D3 level
-103737	4QB4500	25-Hydroxyvitamin D level
-103439	4QB4600	Total 25-hydroxyvitamin D level
-108915	4QB4700	Serum total 25-hydroxy vitamin D level

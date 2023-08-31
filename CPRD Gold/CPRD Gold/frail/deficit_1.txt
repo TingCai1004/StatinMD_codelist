@@ -1,6 +1,0 @@
-Deficit	medcode
-Activitylimitation	6680
-Activitylimitation	17052
-Activitylimitation	298
-Activitylimitation	29104
-Activitylimitation	6924

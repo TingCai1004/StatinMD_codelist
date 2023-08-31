@@ -1,5 +1,0 @@
-Deficit	medcode
-Heart valve disease	2977
-Heart valve disease	31839
-Heart valve disease	9591
-Heart valve disease	12312

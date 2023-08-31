@@ -1,9 +1,0 @@
-Deficit	medcode
-Sleep disturbance	21305
-Sleep disturbance	7725
-Sleep disturbance	7819
-Sleep disturbance	24894
-Sleep disturbance	8997
-Sleep disturbance	8084
-Sleep disturbance	1244
-Sleep disturbance	750
