@@ -1,0 +1,10 @@
+Deficit	medcode
+Falls	6008
+Falls	8694
+Falls	58988
+Falls	42670
+Falls	93574
+Falls	13561
+Falls	6815
+Falls	15112
+Falls	6835

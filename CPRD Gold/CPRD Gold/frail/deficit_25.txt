@@ -1,0 +1,27 @@
+Deficit	medcode
+Thyroid disease	6245
+Thyroid disease	3611
+Thyroid disease	27278
+Thyroid disease	18598
+Thyroid disease	95885
+Thyroid disease	28822
+Thyroid disease	85955
+Thyroid disease	62116
+Thyroid disease	46057
+Thyroid disease	1882
+Thyroid disease	677
+Thyroid disease	3290
+Thyroid disease	28852
+Thyroid disease	50275
+Thyroid disease	11322
+Thyroid disease	51706
+Thyroid disease	34221
+Thyroid disease	25913
+Thyroid disease	38976
+Thyroid disease	50860
+Thyroid disease	31971
+Thyroid disease	24748
+Thyroid disease	3941
+Thyroid disease	11146
+Thyroid disease	65175
+Thyroid disease	73107

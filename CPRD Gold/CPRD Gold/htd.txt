@@ -1,0 +1,37 @@
+medcode	readcode	readterm
+10097	C03..00	Congenital hypothyroidism
+67513	C03..11	Cretinism
+11892	C030.00	Pendred's syndrome
+47449	C031.00	Goitrous cretin
+69290	C03y.00	Other specified congenital hypothyroidism
+31612	C03y000	Congenital hypothyroidism with diffuse goitre
+93159	C03y100	Congenital hypothyroidism without goitre
+51481	C03z.00	Congenital hypothyroidism NOS
+93323	C03z.11	Congenital thyroid insufficiency
+27533	C03z.12	Cretinism
+3290	C04..00	Acquired hypothyroidism
+1619	C04..11	Myxoedema
+14704	C04..12	Thyroid deficiency
+273	C04..13	Hypothyroidism
+28852	C040.00	Postsurgical hypothyroidism
+47521	C040.11	Post ablative hypothyroidism
+50275	C041.00	Other postablative hypothyroidism
+11322	C041000	Irradiation hypothyroidism
+51706	C041z00	Postablative hypothyroidism NOS
+34221	C042.00	Iodine hypothyroidism
+25913	C043.00	Other iatrogenic hypothyroidism
+15743	C043000	Hypothyroidism resulting from para-aminosalicylic acid
+97090	C043100	Hypothyroidism resulting from phenylbutazone
+94915	C043200	Hypothyroidism resulting from resorcinol
+38976	C043z00	Iatrogenic hypothyroidism NOS
+50860	C044.00	Postinfectious hypothyroidism
+46345	C045.00	Acquired atrophy of thyroid
+31971	C046.00	Autoimmune myxoedema
+95830	C047.00	Subclinical hypothyroidism
+24748	C04y.00	Other acquired hypothyroidism
+3941	C04z.00	Hypothyroidism NOS
+20310	C04z.11	Pretibial myxoedema - hypothyroid
+23014	C04z.12	Thyroid insufficiency
+18282	C04z.13	Hypothyroid goitre, acquired
+56722	C04z000	Premature puberty due to hypothyroidism
+59702	C04z100	Myxoedema coma

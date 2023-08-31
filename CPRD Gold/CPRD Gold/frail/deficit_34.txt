@@ -1,0 +1,17 @@
+Deficit	medcode
+Dizziness	16229
+Dizziness	20963
+Dizziness	6262
+Dizziness	9911
+Dizziness	14681
+Dizziness	16504
+Dizziness	1957
+Dizziness	5270
+Dizziness	37336
+Dizziness	16214
+Dizziness	38414
+Dizziness	97369
+Dizziness	15909
+Dizziness	132
+Dizziness	1114
+Dizziness	393
