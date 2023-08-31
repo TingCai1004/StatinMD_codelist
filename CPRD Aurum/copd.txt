@@ -1,0 +1,55 @@
+MedCodeId	Term	CleansedReadCode	OriginalReadCode
+9337016	Panlobular emphysema	H321.00	H321
+13306011	Chronic tracheitis	H31y000	H31y0
+27096010	Giant bullous emphysema	H320200	H3202
+87480013	Chronic tracheobronchitis	H31y100	H31y1
+78013015	Smokers' cough	H310100	H3101
+216596014	End stage chronic obstructive airways disease	H3A..00	H3A
+105519017	Chronic bronchitis	H31..00	H31
+285100019	Emphysematous bronchitis	H312100	H3121
+301450011	Chronic asthmatic bronchitis	H312000	H3120
+301451010	Chronic wheezy bronchitis	H312011	H3120-1
+301453013	Acute exacerbation of chronic obstructive airways disease	H312200	H3122
+301456017	Mixed simple and mucopurulent chronic bronchitis	H313.00	H313
+301460019	Chronic bullous emphysema	H320.00	H320
+301463017	Segmental bullous emphysema	H320000	H3200
+301464011	Zonal bullous emphysema	H320100	H3201
+301470017	Acute vesicular emphysema	H32y000	H32y0
+113497011	Centrilobular emphysema	H322.00	H322
+396108018	Bullous emphysema with collapse	H320300	H3203
+396109014	Atrophic (senile) emphysema	H32y100	H32y1
+457168017	Mild chronic obstructive pulmonary disease	H36..00	H36
+457169013	Moderate chronic obstructive pulmonary disease	H37..00	H37
+457171013	Severe chronic obstructive pulmonary disease	H38..00	H38
+475431013	Chronic obstructive pulmonary disease	H3...00	H3
+492443010	Bronchiolitis obliterans	H312300	H3123
+506053014	Purulent chronic bronchitis	H311000	H3110
+508561017	Simple chronic bronchitis	H310.00	H310
+508562012	Chronic catarrhal bronchitis	H310000	H3100
+1230190015	MacLeod's unilateral emphysema	H32y200	H32y2
+123588010	Mucopurulent chronic bronchitis	H311.00	H311
+516801000000112	Very severe chronic obstructive pulmonary disease	H39..00	H39
+1765681000000110	History of chronic obstructive pulmonary disease	14B3.12	14B3-2
+139979010	Fetid chronic bronchitis	H311100	H3111
+285104011	Obstructive chronic bronchitis	H312.00	H312
+301444018	Simple chronic bronchitis NOS	H310z00	H310z
+301448015	Mucopurulent chronic bronchitis NOS	H311z00	H311z
+301455018	Obstructive chronic bronchitis NOS	H312z00	H312z
+301457014	Other chronic bronchitis	H31y.00	H31y
+301458016	Other chronic bronchitis NOS	H31yz00	H31yz
+301459012	Chronic bronchitis NOS	H31z.00	H31z
+301468014	Chronic bullous emphysema NOS	H320z00	H320z
+301477019	Emphysema NOS	H32z.00	H32z
+301539010	Other specified chronic obstructive airways disease	H3y..00	H3y
+301545019	Chronic obstructive airways disease NOS	H3z..00	H3z
+1222334016	Other specified chronic obstructive pulmonary disease	H3y..11	H3y-1
+1222335015	Chronic obstructive pulmonary disease NOS	H3z..11	H3z-1
+109301000006114	Tension pneumatocoele	H320311	H3203-1
+457581000006111	Acute interstitial emphysema	H32y111	H32y1-1
+553211000006119	Chron obstruct pulmonary dis wth acute exacerbation, unspec	H3y1.00	H3y1
+555461000006119	Chronic obstruct pulmonary dis with acute lower resp infectn	H3y0.00	H3y0
+555471000006114	Chronic obstructive airways disease	H3...11	H3-1
+640491000006111	Emphysema	H32..00	H32
+1699821000006113	At risk of chronic obstructive pulmonary diseas exacerbation	14OX.00	14OX
+301469018	Other emphysema	H32y.00	H32y
+396110016	Other emphysema NOS	H32yz00	H32yz

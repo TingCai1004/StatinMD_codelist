@@ -1,0 +1,5 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode
+556651000000116	Alcohol units per week	136V	136V.00
+1221271018	Alcohol consumption	136	136..00
+476411000006118	Alcohol consumption NOS	136Z	136Z.00
+750721000000118	Alcohol units consumed on heaviest drinking day	136X	136X.00

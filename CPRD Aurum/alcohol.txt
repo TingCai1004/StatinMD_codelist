@@ -1,0 +1,90 @@
+MedCodeId	Term	CleansedReadCode	OriginalReadCode	level	label
+15243013	Alcohol withdrawal delirium	E010.00	E010	2	High-risk drinker
+15244019	Delirium tremens	E010.12	E010-2	2	High-risk drinker
+250312016	Light drinker - 1-2u/day	1363.00	1363	1	General drinker
+250313014	Moderate drinker - 3-6u/day	1364.00	1364	2	High-risk drinker
+250314015	Heavy drinker - 7-9u/day	1365.00	1365	2	High-risk drinker
+250316018	Very heavy drinker - >9u/day	1366.00	1366	2	High-risk drinker
+250317010	Stopped drinking alcohol	1367.00	1367	0	Non/Ex drinker
+250321015	Ex-trivial drinker (<1u/day)	136A.00	136A	0	Non/Ex drinker
+250322010	Ex-light drinker - (1-2u/day)	136B.00	136B	0	Non/Ex drinker
+250323017	Ex-moderate drinker - (3-6u/d)	136C.00	136C	0	Non/Ex drinker
+250324011	Ex-heavy drinker - (7-9u/day)	136D.00	136D	0	Non/Ex drinker
+250329018	Ex-very heavy drinker-(>9u/d)	136E.00	136E	0	Non/Ex drinker
+250331010	Spirit drinker	136F.00	136F	1	General drinker
+250332015	Beer drinker	136G.00	136G	1	General drinker
+250333013	Drinks beer and spirits	136H.00	136H	1	General drinker
+250334019	Drinks wine	136I.00	136I	1	General drinker
+250335018	Alcohol intake above recommended sensible limits	136K.00	136K	2	High-risk drinker
+250340014	Alcohol intake within recommended sensible limits	136L.00	136L	1	General drinker
+254305017	O/E - breath - alcohol smell	2577.00	2577	1	General drinker
+254306016	O/E - alcoholic breath	2577.11	2577-1	1	General drinker
+47085011	Social drinker	136J.00	136J	1	General drinker
+73012011	Moderate drinker	136O.00	136O	2	High-risk drinker
+144179014	Heavy drinker	136P.00	136P	2	High-risk drinker
+291352018	Non-drinker alcohol	1361.12	1361-2	0	Non/Ex drinker
+291355016	Teetotaller	1361.00	1361	0	Non/Ex drinker
+294669014	Alcohol withdrawal hallucinosis	E013.00	E013	2	High-risk drinker
+294670010	Drunkenness - pathological	E014.11	E014-1	2	High-risk drinker
+294671014	Pathological alcohol intoxication	E014.00	E014	2	High-risk drinker
+294674018	Alcohol withdrawal syndrome	E01y000	E01y0	2	High-risk drinker
+295126010	Alcohol dependence with acute alcoholic intoxication	E230.11	E230-1	2	High-risk drinker
+295127018	Acute alcoholic intoxication in alcoholism	E230.00	E230	2	High-risk drinker
+295129015	Continuous acute alcoholic intoxication in alcoholism	E230100	E2301	2	High-risk drinker
+295130013	Episodic acute alcoholic intoxication in alcoholism	E230200	E2302	2	High-risk drinker
+295131012	Acute alcoholic intoxication in remission, in alcoholism	E230300	E2303	2	High-risk drinker
+295139014	Continuous chronic alcoholism	E231100	E2311	2	High-risk drinker
+295141010	Episodic chronic alcoholism	E231200	E2312	2	High-risk drinker
+295142015	Chronic alcoholism in remission	E231300	E2313	2	High-risk drinker
+295252010	Nondependent alcohol abuse, continuous	E250100	E2501	2	High-risk drinker
+295253017	Nondependent alcohol abuse, episodic	E250200	E2502	2	High-risk drinker
+295254011	Nondependent alcohol abuse in remission	E250300	E2503	2	High-risk drinker
+110629012	Chronic alcoholism	E231.00	E231	2	High-risk drinker
+342320016	Light drinker	136N.00	136N	1	General drinker
+342322012	Very heavy drinker	136Q.00	136Q	2	High-risk drinker
+342366014	Binge drinker	136R.00	136R	2	High-risk drinker
+251626014	H/O: alcoholism	1462.00	1462	2	High-risk drinker
+397729013	Trivial drinker - <1u/day	1362.00	1362	1	General drinker
+401797010	Nondependent alcohol abuse	E250.00	E250	2	High-risk drinker
+459715013	Pain in lymph nodes after alcohol consumption	1D19.00	1D19	1	General drinker
+500478011	Alcohol dependence syndrome	E23..00	E23	2	High-risk drinker
+507053019	DTs - delirium tremens	E010.11	E010-1	2	High-risk drinker
+299061000000117	Hazardous alcohol use	136S.00	136S	2	High-risk drinker
+299081000000114	Harmful alcohol use	136T.00	136T	2	High-risk drinker
+480271000000113	Disqualified from driving due to excess alcohol	13ZY.00	13ZY	2	High-risk drinker
+606991000000117	Alcohol misuse	136W.00	136W	2	High-risk drinker
+502016018	Dipsomania	E231.11	E231-1	2	High-risk drinker
+502017010	Alcohol problem drinking	E23..12	E23-2	2	High-risk drinker
+12878014	Alcoholism	E23..11	E23-1	2	High-risk drinker
+295128011	Acute alcoholic intoxication, unspecified, in alcoholism	E230000	E2300	2	High-risk drinker
+295132017	Acute alcoholic intoxication in alcoholism NOS	E230z00	E230z	2	High-risk drinker
+295136019	Unspecified chronic alcoholism	E231000	E2310	2	High-risk drinker
+295143013	Chronic alcoholism NOS	E231z00	E231z	2	High-risk drinker
+295144019	Alcohol dependence syndrome NOS	E23z.00	E23z	2	High-risk drinker
+295251015	Nondependent alcohol abuse, unspecified	E250000	E2500	2	High-risk drinker
+295255012	Nondependent alcohol abuse NOS	E250z00	E250z	2	High-risk drinker
+317636014	[D]Alcohol blood level excessive	R103.00	R103	1	General drinker
+346930019	Inebriety NOS	E250.13	E250-3	1	General drinker
+346931015	Drunkenness NOS	E250.11	E250-1	1	General drinker
+217461000000118	Current non drinker	136M.00	136M	0	Non/Ex drinker
+223671000000110	Hangover (alcohol)	E250.12	E250-2	1	General drinker
+315091000000117	[X]Alcohol withdrawal-induced seizure	Eu10800	Eu108	2	High-risk drinker
+362251000006117	[X]Acute alcoholic drunkenness	Eu10011	Eu100-1	2	High-risk drinker
+362921000006118	[X]Alcohol addiction	Eu10211	Eu102-1	2	High-risk drinker
+370971000006114	[X]Chronic alcoholism	Eu10212	Eu102-2	2	High-risk drinker
+376451000006113	[X]Delirium tremens, alcohol induced	Eu10411	Eu104-1	2	High-risk drinker
+380031000006116	[X]Evid of alcohol involv determind by level of intoxication	U81..00	U81	1	General drinker
+397211000006118	[X]Men & behav dis due alcohl: withdrawl state with delirium	Eu10400	Eu104	2	High-risk drinker
+397811000006119	[X]Mental and behav dis due to use alcohol: withdrawal state	Eu10300	Eu103	2	High-risk drinker
+587231000006111	Non drinker alcohol	1361.11	1361-1	0	Non/Ex drinker
+629811000006113	Drinks occasionally	1362.12	1362-2	1	General drinker
+629821000006117	Drinks rarely	1362.11	1362-1	1	General drinker
+769451000006111	Intoxication - alcohol	E250.14	E250-4	1	General drinker
+460276013	[V]Personal history of alcoholism	ZV11300	ZV113	2	High-risk drinker
+346501000006111	[V]Problems related to lifestyle alcohol use	ZV11311	ZV113-1	2	High-risk drinker
+251195015	Alcoholics anonymous	13Y8.00	13Y8	2	High-risk drinker
+1738421000000111	Lower risk drinking	136d.00	136d	1	General drinker
+1738341000000110	Increasing risk drinking	136a.00	136a	2	High-risk drinker
+1738381000000119	Higher risk drinking	136c.00	136c	2	High-risk drinker
+342361016	Drinks in morning to get rid of hangover	136Y.00	136Y	1	General drinker
+342421016	Feels should cut down drinking	136b.00	136b	2	High-risk drinker

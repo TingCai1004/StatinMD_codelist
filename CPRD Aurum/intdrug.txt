@@ -1,0 +1,200 @@
+ProdCodeId	dmdid	Term.from.EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	Release
+145841000033113	319940007	Bezafibrate 200mg tablets	Bezafibrate 200mg tablets	Tablet	Oral	Bezafibrate	200.000mg	2120000	NA
+144941000033118	130711000001102	Bezalip 200mg tablets (Teva UK Ltd)	Bezalip 200mg tablets	Tablet	Oral	Bezafibrate	200.000mg	2120000	NA
+2055241000033119	68411000001107	Liparol 400 XL tablets (Ashbourne Pharmaceuticals Ltd)	Liparol 400 XL tablets	Modified-release tablet	Oral	Bezafibrate	400.000mg		NA
+145041000033118	349711000001104	Bezalip Mono 400mg modified-release tablets (Teva UK Ltd)	Bezalip Mono 400mg modified-release tablets	Modified-release tablet	Oral	Bezafibrate	400.000mg	2120000	NA
+2192041000033117	880511000001105	Zimbacol XL 400mg tablets (Archimedes Pharma UK Ltd)	Zimbacol XL 400mg tablets	Modified-release tablet	Oral	Bezafibrate	400.000mg	2120000	NA
+1578041000033115	888111000001104	Bezagen XL 400mg tablets (Mylan)	Bezagen XL 400mg tablets	Modified-release tablet	Oral	Bezafibrate	400.000mg		NA
+6453641000033112	7531411000001106	Fibrazate XL 400mg tablets (Sandoz Ltd)	Fibrazate XL 400mg tablets	Modified-release tablet	Oral	Bezafibrate	400.000mg		NA
+145941000033117	319941006	Bezafibrate 400mg modified-release tablets	Bezafibrate 400mg modified-release tablets	Modified-release tablet	Oral	Bezafibrate	400.000mg	2120000	NA
+851541000033119	389111000001109	Lopid 600mg tablets (Pfizer Ltd)	Lopid 600mg tablets	Tablet	Oral	Gemfibrozil	600.000mg	2120000	NA
+634541000033110	319964008	Gemfibrozil 600mg tablets	Gemfibrozil 600mg tablets	Tablet	Oral	Gemfibrozil	600.000mg	2120000	NA
+627841000033118	319966005	Gemfibrozil 300mg capsules	Gemfibrozil 300mg capsules	Capsule	Oral	Gemfibrozil	300.000mg	2120000	NA
+838941000033115	383511000001102	Lopid 300mg capsules (Pfizer Ltd)	Lopid 300mg capsules	Capsule	Oral	Gemfibrozil	300.000mg	2120000	NA
+3188941000033114	319988005	Fenofibrate micronised 200mg capsules	Fenofibrate micronised 200mg capsules	Capsule	Oral	Fenofibrate micronised	200.000mg	2120000	NA
+1862741000033111	2952311000001100	Lipantil Micro 200 capsules (Mylan)	Lipantil Micro 200 capsules	Capsule	Oral	Fenofibrate micronised	200.000mg	2120000	NA
+836941000033116	2957011000001101	Lipantil Micro 67 capsules (Mylan)	Lipantil Micro 67 capsules	Capsule	Oral	Fenofibrate micronised	67.000mg	2120000	NA
+564641000033113	319990006	Fenofibrate micronised 67mg capsules	Fenofibrate micronised 67mg capsules	Capsule	Oral	Fenofibrate micronised	67.000mg	2120000	NA
+1862541000033115	319992003	Fenofibrate micronised 267mg capsules	Fenofibrate micronised 267mg capsules	Capsule	Oral	Fenofibrate micronised	267.000mg	2120000	NA
+1862641000033119	2957911000001102	Lipantil Micro 267 capsules (Mylan)	Lipantil Micro 267 capsules	Capsule	Oral	Fenofibrate micronised	267.000mg	2120000	NA
+2214841000033115	2950911000001103	Supralip 160mg tablets (Mylan)	Supralip 160mg tablets	Tablet	Oral	Fenofibrate micronised	160.000mg	2120000	NA
+2214741000033113	319994002	Fenofibrate micronised 160mg tablets	Fenofibrate micronised 160mg tablets	Tablet	Oral	Fenofibrate micronised	160.000mg	2120000	NA
+258541000033118	320018007	Ciprofibrate 100mg tablets	Ciprofibrate 100mg tablets	Tablet	Oral	Ciprofibrate	100.000mg	2120000	NA
+936941000033113	16207911000001106	Modalim 100mg tablets (Lexon (UK) Ltd)	Modalim 100mg tablets	Tablet	Oral	Ciprofibrate	100.000mg		NA
+1183741000033110	235411000001103	Rommix 250 EC tablets (Ashbourne Pharmaceuticals Ltd)	Rommix 250 EC tablets	Gastro-resistant tablet	Oral	Erythromycin	250.000mg	5010500	NA
+1924941000033118	324178009	Erythromycin 250mg gastro-resistant tablets	Erythromycin 250mg gastro-resistant tablets	Gastro-resistant tablet	Oral	Erythromycin	250.000mg	5010500	NA
+538841000033112	324179001	Erythromycin ethyl succinate 500mg tablets	Erythromycin ethyl succinate 500mg tablets	Tablet	Oral	Erythromycin ethyl succinate	500.000mg	5010500	NA
+540141000033115	580811000001109	Erythroped A 500mg tablets (Advanz Pharma)	Erythroped A 500mg tablets	Tablet	Oral	Erythromycin ethyl succinate	500.000mg	13060200	NA
+539541000033115	274611000001103	Erythrocin 250 tablets (Advanz Pharma)	Erythrocin 250 tablets	Tablet	Oral	Erythromycin stearate	250.000mg	13060200	NA
+536941000033117	324180003	Erythromycin stearate 250mg tablets	Erythromycin stearate 250mg tablets	Tablet	Oral	Erythromycin stearate	250.000mg	5010500	NA
+536841000033113	324181004	Erythromycin stearate 500mg tablets	Erythromycin stearate 500mg tablets	Tablet	Oral	Erythromycin stearate	500.000mg	5010500	NA
+539641000033119	30611000001101	Erythrocin 500 tablets (Advanz Pharma)	Erythrocin 500 tablets	Tablet	Oral	Erythromycin stearate	500.000mg	13060200	NA
+537341000033119	108811000001104	Erythroped SF 250mg/5ml oral suspension (Advanz Pharma)	Erythroped SF 250mg/5ml oral suspension	Oral suspension	Oral	Erythromycin ethyl succinate	50.000mg/1.000ml	5010500	NA
+537541000033114	324192003	Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free	Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free	Oral suspension	Oral	Erythromycin ethyl succinate	50.000mg/1.000ml	5010500	NA
+537941000033115	324203007	Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free	Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free	Oral suspension	Oral	Erythromycin ethyl succinate	100.000mg/1.000ml	5010500	NA
+537241000033112	178911000001100	Erythroped Forte SF 500mg/5ml oral suspension (Advanz Pharma)	Erythroped Forte SF 500mg/5ml oral suspension	Oral suspension	Oral	Erythromycin ethyl succinate	100.000mg/1.000ml	5010500	NA
+535241000033119	4693611000001103	Erythrocin IV lactobionate 1g powder for solution for infusion vials (Advanz Pharma)	Erythrocin IV lactobionate 1g powder for solution for infusion vials	 Powder for solution for infusion	Intravenous	Erythromycin lactobionate	1.000gram		NA
+535441000033118	324215006	Erythromycin 1g powder for solution for infusion vials	Erythromycin 1g powder for solution for infusion vials	 Powder for solution for infusion	Intravenous	Erythromycin lactobionate	1.000gram	5010500	NA
+537641000033110	324232005	Erythromycin ethyl succinate 125mg/5ml oral suspension	Erythromycin ethyl succinate 125mg/5ml oral suspension	Oral suspension	Oral	Erythromycin ethyl succinate	25.000mg/1.000ml	5010500	NA
+537741000033118	324233000	Erythromycin ethyl succinate 250mg/5ml oral suspension	Erythromycin ethyl succinate 250mg/5ml oral suspension	Oral suspension	Oral	Erythromycin ethyl succinate	50.000mg/1.000ml	5010500	NA
+537841000033111	324234006	Erythromycin ethyl succinate 500mg/5ml oral suspension	Erythromycin ethyl succinate 500mg/5ml oral suspension	Oral suspension	Oral	Erythromycin ethyl succinate	100.000mg/1.000ml	5010500	NA
+287441000033111	324238009	Clarithromycin 250mg tablets	Clarithromycin 250mg tablets	Tablet	Oral	Clarithromycin	250.000mg	5010500	NA
+805741000033118	220811000001105	Klaricid 250mg tablets (Abbott Laboratories Ltd)	Klaricid 250mg tablets	Tablet	Oral	Clarithromycin	250.000mg	5010500	NA
+804841000033112	27011000001106	Klaricid IV 500mg powder for solution for infusion vials (Mylan)	Klaricid IV 500mg powder for solution for infusion vials	 Powder for solution for infusion	Intravenous	Clarithromycin	500.000mg	5010500	NA
+274641000033111	324242007	Clarithromycin 500mg powder for solution for infusion vials	Clarithromycin 500mg powder for solution for infusion vials	 Powder for solution for infusion	Intravenous	Clarithromycin	500.000mg	5010500	NA
+285341000033110	324244008	Clarithromycin 500mg tablets	Clarithromycin 500mg tablets	Tablet	Oral	Clarithromycin	500.000mg	5010500	NA
+805441000033113	463111000001102	Klaricid 500 tablets (Abbott Laboratories Ltd)	Klaricid 500 tablets	Tablet	Oral	Clarithromycin	500.000mg	1030500	NA
+805341000033119	3253811000001107	Klaricid Adult 250mg granules sachets (Mylan)	Klaricid Adult 250mg granules sachets	Granules	Oral	Clarithromycin	250.000mg	5010500	NA
+282141000033118	324248006	Clarithromycin 250mg granules sachets	Clarithromycin 250mg granules sachets	Granules	Oral	Clarithromycin	250.000mg	5010500	NA
+1830541000033112	324250003	Clarithromycin 250mg/5ml oral suspension	Clarithromycin 250mg/5ml oral suspension	Oral suspension	Oral	Clarithromycin	50.000mg/1.000ml	5010500	NA
+1830641000033113	211000001101	Klaricid Paediatric 250mg/5ml oral suspension (Mylan)	Klaricid Paediatric 250mg/5ml oral suspension	Oral suspension	Oral	Clarithromycin	50.000mg/1.000ml	5010500	NA
+1364841000033111	324316009	Sodium fusidate 250mg tablets	Sodium fusidate 250mg tablets	Tablet	Oral	Sodium fusidate	250.000mg	5010700	NA
+618941000033118	3670711000001108	Fucidin 250mg tablets (LEO Pharma)	Fucidin 250mg tablets	Tablet	Oral	Sodium fusidate	250.000mg	5010700	NA
+910941000033115	324682007	Miconazole 20mg/g oromucosal gel sugar free	Miconazole 20mg/g oromucosal gel sugar free	Oromucosal gel	Oral/ Oromucosal	Miconazole	20.000mg/1.000gram	5020000	NA
+403841000033117	14718011000001108	Daktarin 20mg/g oromucosal gel (Janssen-Cilag Ltd)	Daktarin 20mg/g oromucosal gel	Oromucosal gel	Oral/ Oromucosal	Miconazole	20.000mg/1.000gram	12030200	NA
+579441000033119	324697005	Fluconazole 50mg capsules	Fluconazole 50mg capsules	Capsule	Oral	Fluconazole	50.000mg	5020100	NA
+438041000033111	165411000001105	Diflucan 50mg capsules (Pfizer Ltd)	Diflucan 50mg capsules	Capsule	Oral	Fluconazole	50.000mg	5020100	NA
+2616941000033115	230911000001102	Diflucan One 150mg capsules (McNeil Products Ltd)	Diflucan One 150mg capsules	Capsule	Oral	Fluconazole	150.000mg	5020000	NA
+437941000033113	696511000001104	Diflucan 150mg capsules (Pfizer Ltd)	Diflucan 150mg capsules	Capsule	Oral	Fluconazole	150.000mg	5020100	NA
+579341000033113	324698000	Fluconazole 150mg capsules	Fluconazole 150mg capsules	Capsule	Oral	Fluconazole	150.000mg	5020100	NA
+579641000033117	324702001	Fluconazole 200mg capsules	Fluconazole 200mg capsules	Capsule	Oral	Fluconazole	200.000mg	5020100	NA
+439241000033111	787611000001105	Diflucan 200mg capsules (Pfizer Ltd)	Diflucan 200mg capsules	Capsule	Oral	Fluconazole	200.000mg	5020100	NA
+455641000033111	705211000001101	Diflucan 50mg/5ml oral suspension (Pfizer Ltd)	Diflucan 50mg/5ml oral suspension	Oral suspension	Oral	Fluconazole	10.000mg/1.000ml	5020100	NA
+590141000033114	324709005	Fluconazole 50mg/5ml oral suspension	Fluconazole 50mg/5ml oral suspension	Oral suspension	Oral	Fluconazole	10.000mg/1.000ml	5020100	NA
+590041000033110	324710000	Fluconazole 200mg/5ml oral suspension	Fluconazole 200mg/5ml oral suspension	Oral suspension	Oral	Fluconazole	40.000mg/1.000ml	5020100	NA
+455541000033110	542711000001108	Diflucan 200mg/5ml oral suspension (Pfizer Ltd)	Diflucan 200mg/5ml oral suspension	Oral suspension	Oral	Fluconazole	40.000mg/1.000ml	5020100	NA
+656341000033114	19200811000001108	Gyno-Daktarin 2% vaginal cream (Janssen-Cilag Ltd)	Gyno-Daktarin 2% vaginal cream	Cream	Vaginal	Miconazole nitrate	20.000mg/1.000gram	7020200	NA
+912541000033113	326251002	Miconazole 2% vaginal cream	Miconazole 2% vaginal cream	Cream	Vaginal	Miconazole nitrate	20.000mg/1.000gram	7020200	NA
+916641000033113	326252009	Miconazole 100mg pessaries	Miconazole 100mg pessaries	Pessary	Vaginal	Miconazole nitrate	100.000mg		NA
+657241000033118	3358511000001106	Gyno-Daktarin 100mg pessaries (Janssen-Cilag Ltd)	Gyno-Daktarin 100mg pessaries	Pessary	Vaginal	Miconazole nitrate	100.000mg		NA
+6390741000033112	19377311000001100	Capsorin 25mg capsules (Morningside Healthcare Ltd)	Capsorin 25mg capsules	Capsule	Oral	Ciclosporin	25.000mg	8020200	NA
+9956641000033112	28335911000001108	Vanquoral 25mg capsules (Teva UK Ltd)	Vanquoral 25mg capsules	Capsule	Oral	Ciclosporin	25.000mg		NA
+3087041000033118	327082002	Ciclosporin 25mg capsules	Ciclosporin 25mg capsules	Capsule	Oral	Ciclosporin	25.000mg	10010300	NA
+958441000033115	660811000001100	Neoral 25mg capsules (Novartis Pharmaceuticals UK Ltd)	Neoral 25mg capsules	Capsule	Oral	Ciclosporin	25.000mg	10010300/ 13050300	NA
+1221841000033110	347811000001104	Sandimmun 25mg capsules (Novartis Pharmaceuticals UK Ltd)	Sandimmun 25mg capsules	Capsule	Oral	Ciclosporin	25.000mg	10010300/ 13050300	NA
+5891741000033118	17666911000001104	Capimune 25mg capsules (Mylan)	Capimune 25mg capsules	Capsule	Oral	Ciclosporin	25.000mg	8020200	NA
+5334841000033115	16306511000001108	Deximune 25mg capsules (Dexcel-Pharma Ltd)	Deximune 25mg capsules	Capsule	Oral	Ciclosporin	25.000mg	8020200	NA
+9956441000033114	28338911000001104	Vanquoral 100mg capsules (Teva UK Ltd)	Vanquoral 100mg capsules	Capsule	Oral	Ciclosporin	100.000mg		NA
+6390941000033110	19376911000001104	Capsorin 100mg capsules (Morningside Healthcare Ltd)	Capsorin 100mg capsules	Capsule	Oral	Ciclosporin	100.000mg	8020200	NA
+5334641000033116	16306911000001100	Deximune 100mg capsules (Dexcel-Pharma Ltd)	Deximune 100mg capsules	Capsule	Oral	Ciclosporin	100.000mg	8020200	NA
+5891641000033110	17665811000001108	Capimune 100mg capsules (Mylan)	Capimune 100mg capsules	Capsule	Oral	Ciclosporin	100.000mg	8020200	NA
+958341000033114	456811000001107	Neoral 100mg capsules (Novartis Pharmaceuticals UK Ltd)	Neoral 100mg capsules	Capsule	Oral	Ciclosporin	100.000mg	10010300	NA
+1221941000033119	172611000001109	Sandimmun 100mg capsules (Novartis Pharmaceuticals UK Ltd)	Sandimmun 100mg capsules	Capsule	Oral	Ciclosporin	100.000mg	10010300/ 13050300	NA
+3087141000033119	327083007	Ciclosporin 100mg capsules	Ciclosporin 100mg capsules	Capsule	Oral	Ciclosporin	100.000mg	10010300	NA
+6390841000033119	19377111000001104	Capsorin 50mg capsules (Morningside Healthcare Ltd)	Capsorin 50mg capsules	Capsule	Oral	Ciclosporin	50.000mg	8020200	NA
+9956541000033110	28337411000001104	Vanquoral 50mg capsules (Teva UK Ltd)	Vanquoral 50mg capsules	Capsule	Oral	Ciclosporin	50.000mg		NA
+3087241000033114	327085000	Ciclosporin 50mg capsules	Ciclosporin 50mg capsules	Capsule	Oral	Ciclosporin	50.000mg	10010300	NA
+958541000033119	319211000001101	Neoral 50mg capsules (Novartis Pharmaceuticals UK Ltd)	Neoral 50mg capsules	Capsule	Oral	Ciclosporin	50.000mg	10010300/ 13050300	NA
+1222041000033113	638611000001108	Sandimmun 50mg capsules (Novartis Pharmaceuticals UK Ltd)	Sandimmun 50mg capsules	Capsule	Oral	Ciclosporin	50.000mg	10010300/ 13050300	NA
+5891841000033111	17665611000001108	Capimune 50mg capsules (Mylan)	Capimune 50mg capsules	Capsule	Oral	Ciclosporin	50.000mg	8020200	NA
+5334741000033113	16306711000001102	Deximune 50mg capsules (Dexcel-Pharma Ltd)	Deximune 50mg capsules	Capsule	Oral	Ciclosporin	50.000mg	8020200	NA
+10615741000033116	29934611000001108	Vanquoral 10mg capsules (Teva UK Ltd)	Vanquoral 10mg capsules	Capsule	Oral	Ciclosporin	10.000mg		NA
+1657941000033110	303511000001103	Neoral 10mg capsules (Novartis Pharmaceuticals UK Ltd)	Neoral 10mg capsules	Capsule	Oral	Ciclosporin	10.000mg	13050300	NA
+3086941000033119	327090002	Ciclosporin 10mg capsules	Ciclosporin 10mg capsules	Capsule	Oral	Ciclosporin	10.000mg	10010300	NA
+377741000033118	330079002	Colchicine 500microgram tablets	Colchicine 500microgram tablets	Tablet	Oral	Colchicine	500.000microgram	10010400	NA
+3248941000033117	331740009	Hydrocortisone acetate 1% / Sodium fusidate 2% ointment	Hydrocortisone acetate 1% / Sodium fusidate 2% ointment	Ointment	Cutaneous	Hydrocortisone acetate/ Sodium fusidate	10.000mg/1.000gram + 20.000mg/1.000gram		NA
+618041000033119	2905011000001101	Fucidin H ointment (LEO Pharma)	Fucidin H ointment	Ointment	Cutaneous	Hydrocortisone acetate/ Sodium fusidate	10.000mg/1.000gram + 20.000mg/1.000gram		NA
+405841000033116	278911000001102	Daktacort ointment (Janssen-Cilag Ltd)	Daktacort ointment	Ointment	Cutaneous	Hydrocortisone/ Miconazole nitrate	10.000mg/1.000gram + 20.000mg/1.000gram	13040000	NA
+1846541000033114	331744000	Hydrocortisone 1% / Miconazole 2% ointment	Hydrocortisone 1% / Miconazole 2% ointment	Ointment	Cutaneous	Hydrocortisone/ Miconazole nitrate	10.000mg/1.000gram + 20.000mg/1.000gram	13040000	NA
+1846441000033113	331745004	Hydrocortisone 1% / Miconazole 2% cream	Hydrocortisone 1% / Miconazole 2% cream	Cream	Cutaneous	Hydrocortisone/ Miconazole nitrate	10.000mg/1.000gram + 20.000mg/1.000gram	13040000	NA
+400441000033113	859911000001101	Daktacort 2%/1% cream (Janssen-Cilag Ltd)	Daktacort 2%/1% cream	Cream	Cutaneous	Hydrocortisone/ Miconazole nitrate	10.000mg/1.000gram + 20.000mg/1.000gram	13040000	NA
+1384341000033117	276111000001104	Stiemycin 2% solution (Stiefel Laboratories (UK) Ltd)	Stiemycin 2% solution	Liquid	Cutaneous	Erythromycin	20.000mg/1.000ml	13060100	NA
+533841000033116	332346003	Erythromycin 2% solution	Erythromycin 2% solution	Liquid	Cutaneous	Erythromycin	20.000mg/1.000ml	13060100	NA
+1846041000033116	332347007	Erythromycin 40mg/ml / Zinc acetate 12mg/ml lotion	Erythromycin 40mg/ml / Zinc acetate 12mg/ml lotion	Liquid	Cutaneous	Erythromycin/ Zinc acetate	40.000mg/1.000ml + 12.000mg/1.000ml	13060100	NA
+1558541000033111	124211000001104	Zineryt lotion (LEO Pharma)	Zineryt lotion	Liquid	Cutaneous	Erythromycin/ Zinc acetate	40.000mg/1.000ml + 12.000mg/1.000ml	13060100	NA
+1607641000033114	3678811000001102	Eryacne 2 gel (Galderma (UK) Ltd)	Eryacne 2 gel	Gel	Cutaneous	Erythromycin	20.000mg/1.000gram		NA
+1797141000033114	332350005	Erythromycin 2% gel	Erythromycin 2% gel	Gel	Cutaneous	Erythromycin	20.000mg/1.000gram		NA
+1797241000033119	332351009	Erythromycin 4% gel	Erythromycin 4% gel	Gel	Cutaneous	Erythromycin	40.000mg/1.000gram		NA
+1607741000033117	3678511000001100	Eryacne 4 gel (Galderma (UK) Ltd)	Eryacne 4 gel	Gel	Cutaneous	Erythromycin	40.000mg/1.000gram		NA
+2186841000033110	3844611000001100	Aknemycin Plus solution (Almirall Ltd)	Aknemycin Plus solution	Liquid	Cutaneous	Erythromycin/ Tretinoin	40.000mg/1.000gram + 250.000microgram/1.000gram	13060100	NA
+3230941000033116	332355000	Tretinoin 0.025% / Erythromycin 4% solution	Tretinoin 0.025% / Erythromycin 4% solution	Liquid	Cutaneous	Erythromycin/ Tretinoin	40.000mg/1.000gram + 250.000microgram/1.000gram	13060100	NA
+778541000033114	288311000001106	Isotrexin gel (Stiefel Laboratories (UK) Ltd)	Isotrexin gel	Gel	Cutaneous	Erythromycin/ Isotretinoin	20.000mg/1.000gram + 500.000microgram/1.000gram	13060100	NA
+3257341000033117	332366007	Isotretinoin 0.05% / Erythromycin 2% gel	Isotretinoin 0.05% / Erythromycin 2% gel	Gel	Cutaneous	Erythromycin/ Isotretinoin	20.000mg/1.000gram + 500.000microgram/1.000gram	13060100	NA
+1860541000033119	332829008	Sodium fusidate 2% ointment	Sodium fusidate 2% ointment	Ointment	Cutaneous	Sodium fusidate	20.000mg/1.000gram	13100102	NA
+617741000033115	516611000001105	Fucidin 20mg/g ointment (LEO Pharma)	Fucidin 20mg/g ointment	Ointment	Cutaneous	Sodium fusidate	20.000mg/1.000gram	13100102	NA
+4423441000033117	3458711000001106	Daktarin Aktiv 2% cream (McNeil Products Ltd)	Daktarin Aktiv 2% cream	Cream	Cutaneous	Miconazole nitrate	20.000mg/1.000gram	13100200	NA
+3189641000033111	8002011000001107	Acorvio 2% cream (Ferndale Pharmaceuticals Ltd)	Acorvio 2% cream	Cream	Cutaneous	Miconazole nitrate	20.000mg/1.000gram	13100200	NA
+906741000033118	332908003	Miconazole 2% cream	Miconazole 2% cream	Cream	Cutaneous	Miconazole nitrate	20.000mg/1.000gram	7020200	NA
+400541000033114	14717811000001100	Daktarin 2% cream (Janssen-Cilag Ltd)	Daktarin 2% cream	Cream	Cutaneous	Miconazole nitrate	20.000mg/1.000gram	7020200	NA
+917241000033113	332918008	Miconazole 0.16% dry powder spray	Miconazole 0.16% dry powder spray	Spray	Cutaneous	Miconazole nitrate	1.600mg/1.000gram	13100200	NA
+4089641000033119	3778811000001108	Daktarin Aktiv 0.16% spray powder (McNeil Products Ltd)	Daktarin Aktiv 0.16% spray powder	Spray	Cutaneous	Miconazole nitrate	1.600mg/1.000gram	13100200	NA
+2906841000033112	4495611000001102	Ezetrol 10mg tablets (Merck Sharp & Dohme Ltd)	Ezetrol 10mg tablets	Tablet	Oral	Ezetimibe	10.000mg	2120000	NA
+2906741000033119	408060004	Ezetimibe 10mg tablets	Ezetimibe 10mg tablets	Tablet	Oral	Ezetimibe	10.000mg	2120000	NA
+3292441000033116	414177002	Simvastatin 20mg / Ezetimibe 10mg tablets	Simvastatin 20mg / Ezetimibe 10mg tablets	Tablet	Oral	Ezetimibe/ Simvastatin	10.000mg + 20.000mg	2120000	NA
+3292741000033111	9309911000001100	Inegy 10mg/20mg tablets (Merck Sharp & Dohme Ltd)	Inegy 10mg/20mg tablets	Tablet	Oral	Ezetimibe/ Simvastatin	10.000mg + 20.000mg	2120000	NA
+3292841000033118	9310311000001108	Inegy 10mg/40mg tablets (Merck Sharp & Dohme Ltd)	Inegy 10mg/40mg tablets	Tablet	Oral	Ezetimibe/ Simvastatin	10.000mg + 40.000mg	2120000	NA
+3292541000033115	414178007	Simvastatin 40mg / Ezetimibe 10mg tablets	Simvastatin 40mg / Ezetimibe 10mg tablets	Tablet	Oral	Ezetimibe/ Simvastatin	10.000mg + 40.000mg	2120000	NA
+3292641000033119	414179004	Simvastatin 80mg / Ezetimibe 10mg tablets	Simvastatin 80mg / Ezetimibe 10mg tablets	Tablet	Oral	Ezetimibe/ Simvastatin	10.000mg + 80.000mg	2120000	NA
+3292941000033114	9310611000001104	Inegy 10mg/80mg tablets (Merck Sharp & Dohme Ltd)	Inegy 10mg/80mg tablets	Tablet	Oral	Ezetimibe/ Simvastatin	10.000mg + 80.000mg	2120000	NA
+3189741000033119	8014911000001100	Acorvio Plus cream (Ferndale Pharmaceuticals Ltd)	Acorvio Plus cream	Cream	Cutaneous	Fluprednidene acetate/ Miconazole nitrate	1.000mg/1.000gram + 20.000mg/1.000gram		NA
+3836941000033110	414695000	Miconazole 2% / Fluprednidene 0.1% cream	Miconazole 2% / Fluprednidene 0.1% cream	Cream	Cutaneous	Fluprednidene acetate/ Miconazole nitrate	1.000mg/1.000gram + 20.000mg/1.000gram		NA
+5566541000033116	443311001	Dronedarone 400mg tablets	Dronedarone 400mg tablets	Tablet	Oral	Dronedarone hydrochloride	400.000mg	2030200	NA
+5566641000033115	17066411000001106	Multaq 400mg tablets (Sanofi)	Multaq 400mg tablets	Tablet	Oral	Dronedarone hydrochloride	400.000mg	2030200	NA
+449941000033115	8111000001100	Diflucan 200mg/100ml solution for infusion vials (Pfizer Ltd)	Diflucan 200mg/100ml solution for infusion vials	Solution for infusion	Intravenous	Fluconazole	2.000mg/1.000ml	5020100	NA
+588141000033113	3458511000001101	Fluconazole 200mg/100ml solution for infusion vials	Fluconazole 200mg/100ml solution for infusion vials	Solution for infusion	Intravenous	Fluconazole	2.000mg/1.000ml	5020100	NA
+3087441000033110	9404611000001104	Ciclosporin 0.2% eye ointment	Ciclosporin 0.2% eye ointment	Eye ointment	Ocular	Ciclosporin	2.000mg/1.000gram		NA
+3087541000033111	9404811000001100	Ciclosporin 2% eye drops preservative free	Ciclosporin 2% eye drops preservative free	Eye drops	Ocular	Ciclosporin	20.000mg/1.000ml		NA
+3838841000033115	9739611000001100	Clarosip 125mg granules for oral suspension straws (Grunenthal Ltd)	Clarosip 125mg granules for oral suspension straws	Granules	Oral	Clarithromycin	125.000mg	5010500	NA
+3838541000033117	9742311000001104	Clarithromycin 125mg granules straws	Clarithromycin 125mg granules straws	Granules	Oral	Clarithromycin	125.000mg	5010500	NA
+3838641000033116	9742411000001104	Clarithromycin 187.5mg granules straws	Clarithromycin 187.5mg granules straws	Granules	Oral	Clarithromycin	187.500mg	5010500	NA
+3838941000033111	9739911000001106	Clarosip 187.5mg granules for oral suspension straws (Grunenthal Ltd)	Clarosip 187.5mg granules for oral suspension straws	Granules	Oral	Clarithromycin	187.500mg	5010500	NA
+3839041000033119	9740211000001104	Clarosip 250mg granules for oral suspension straws (Grunenthal Ltd)	Clarosip 250mg granules for oral suspension straws	Granules	Oral	Clarithromycin	250.000mg	5010500	NA
+3838741000033113	9742511000001108	Clarithromycin 250mg granules straws	Clarithromycin 250mg granules straws	Granules	Oral	Clarithromycin	250.000mg	5010500	NA
+2801141000033116	9835611000001100	Fenogal 200mg capsules (Genus Pharmaceuticals Ltd)	Fenogal 200mg capsules	Capsule	Oral	Fenofibrate	200.000mg	2120000	NA
+564541000033112	9843611000001100	Fenofibrate 200mg capsules	Fenofibrate 200mg capsules	Capsule	Oral	Fenofibrate	200.000mg	2120000	NA
+3939741000033112	10606711000001104	Fluconazole 200mg/100ml infusion bags	Fluconazole 200mg/100ml infusion bags	Infusion	Intravenous	Fluconazole	2.000mg/1.000ml		NA
+3914441000033113	10808111000001106	Oftalmolosa Cusi Eritromicina 0.5% eye ointment (Imported (Spain))	Oftalmolosa Cusi Eritromicina 0.5% eye ointment	Ointment		Erythromycin	5.000mg/1.000gram		NA
+4500841000033112	13533111000001108	Miconazole 50mg muco-adhesive buccal tablets sugar free	Miconazole 50mg muco-adhesive buccal tablets sugar free	Muco-adhesive buccal tablet	Buccal	Miconazole	50.000mg	12030200	NA
+4500941000033116	13505811000001106	Loramyc 50mg muco-adhesive buccal tablets (Laboratoires BioAlliance Pharma)	Loramyc 50mg muco-adhesive buccal tablets	Muco-adhesive buccal tablet	Buccal	Miconazole	50.000mg	12030200	NA
+4088641000033111	15140711000001100	Restasis 0.05% eye drops 0.4ml unit dose (Imported (United States))	Restasis 0.05% eye drops 0.4ml unit dose	Eye drops		Ciclosporin	500.000microgram/1.000ml		NA
+9173641000033116	15148011000001100	Ciclosporin 0.05% eye drops 0.4ml unit dose preservative free	Ciclosporin 0.05% eye drops 0.4ml unit dose preservative free	Eye drops	Ocular	Ciclosporin	500.000microgram/1.000ml		NA
+8047741000033110	21147811000001108	Ciclosporin 0.06% eye drops preservative free	Ciclosporin 0.06% eye drops preservative free	Eye drops	Ocular	Ciclosporin	600.000microgram/1.000ml		NA
+8180541000033116	21514711000001108	Ciclosporin 0.2% eye ointment preservative free	Ciclosporin 0.2% eye ointment preservative free	Eye ointment	Ocular	Ciclosporin	2.000mg/1.000ml		NA
+8618441000033119	23107711000001104	Fluconazole 100mg/50ml solution for infusion bottles	Fluconazole 100mg/50ml solution for infusion bottles	Solution for infusion	Intravenous	Fluconazole	2.000mg/1.000ml		NA
+8618541000033118	23108011000001104	Fluconazole 200mg/100ml solution for infusion bottles	Fluconazole 200mg/100ml solution for infusion bottles	Solution for infusion	Intravenous	Fluconazole	2.000mg/1.000ml		NA
+10541941000033120	29950811000001104	Ikervis 0.1% eye drops 0.3ml unit dose (Santen UK Ltd)	Ikervis 0.1% eye drops 0.3ml unit dose	Eye drops	Ocular	Ciclosporin	1.000mg/1.000ml	11040200	NA
+10541841000033110	29951011000001100	Ciclosporin 0.1% eye drops 0.3ml unit dose	Ciclosporin 0.1% eye drops 0.3ml unit dose	Eye drops	Ocular	Ciclosporin	1.000mg/1.000ml	11040200	NA
+12667741000033116	35840311000001104	Verkazia 0.1% eye drops 0.3ml unit dose (Santen UK Ltd)	Verkazia 0.1% eye drops 0.3ml unit dose	Eye drops	Ocular	Ciclosporin	1.000mg/1.000ml		NA
+10943641000033116	31142011000001104	Sacubitril 24mg / Valsartan 26mg tablets	Sacubitril 24mg / Valsartan 26mg tablets	Tablet	Oral	Sacubitril/ Valsartan	24.000mg + 26.000mg	2050502	NA
+10943941000033112	31136811000001108	Entresto 24mg/26mg tablets (Novartis Pharmaceuticals UK Ltd)	Entresto 24mg/26mg tablets	Tablet	Oral	Sacubitril/ Valsartan	24.000mg + 26.000mg	2050502	NA
+10944041000033114	31136411000001108	Entresto 49mg/51mg tablets (Novartis Pharmaceuticals UK Ltd)	Entresto 49mg/51mg tablets	Tablet	Oral	Sacubitril/ Valsartan	49.000mg + 51.000mg	2050502	NA
+10943741000033114	31142111000001104	Sacubitril 49mg / Valsartan 51mg tablets	Sacubitril 49mg / Valsartan 51mg tablets	Tablet	Oral	Sacubitril/ Valsartan	49.000mg + 51.000mg	2050502	NA
+10943841000033116	31142211000001108	Sacubitril 97mg / Valsartan 103mg tablets	Sacubitril 97mg / Valsartan 103mg tablets	Tablet	Oral	Sacubitril/ Valsartan	97.000mg + 103.000mg	2050502	NA
+10944141000033112	31138011000001104	Entresto 97mg/103mg tablets (Novartis Pharmaceuticals UK Ltd)	Entresto 97mg/103mg tablets	Tablet	Oral	Sacubitril/ Valsartan	97.000mg + 103.000mg	2050502	NA
+11241941000033116	32170911000001100	Cholib 145mg/20mg tablets (Mylan)	Cholib 145mg/20mg tablets	Tablet	Oral	Fenofibrate/ Simvastatin	145.000mg + 20.000mg	2120000	NA
+11241741000033120	32234211000001100	Fenofibrate 145mg / Simvastatin 20mg tablets	Fenofibrate 145mg / Simvastatin 20mg tablets	Tablet	Oral	Fenofibrate/ Simvastatin	145.000mg + 20.000mg	2120000	NA
+11241841000033112	32234311000001108	Fenofibrate 145mg / Simvastatin 40mg tablets	Fenofibrate 145mg / Simvastatin 40mg tablets	Tablet	Oral	Fenofibrate/ Simvastatin	145.000mg + 40.000mg	2120000	NA
+11242041000033110	32169911000001104	Cholib 145mg/40mg tablets (Mylan)	Cholib 145mg/40mg tablets	Tablet	Oral	Fenofibrate/ Simvastatin	145.000mg + 40.000mg	2120000	NA
+12361841000033112	34680711000001100	Ciclosporin 0.06% eye drops 0.4ml unit dose preservative free	Ciclosporin 0.06% eye drops 0.4ml unit dose preservative free	Eye drops	Ocular	Ciclosporin	600.000microgram/1.000ml		NA
+12395941000033116	34769711000001100	Fluconazole 400mg/200ml infusion bags	Fluconazole 400mg/200ml infusion bags	Infusion	Intravenous	Fluconazole	2.000mg/1.000ml		NA
+278241000033118	35368711000001104	Clarithromycin 125mg/5ml oral suspension	Clarithromycin 125mg/5ml oral suspension	Oral suspension	Oral	Clarithromycin	25.000mg/1.000ml	5010500	NA
+805141000033117	917411000001101	Klaricid Paediatric 125mg/5ml oral suspension (Mylan)	Klaricid Paediatric 125mg/5ml oral suspension	Oral suspension	Oral	Clarithromycin	25.000mg/1.000ml	5010500	NA
+3231841000033119	35910511000001104	Benzoyl peroxide 5% / Erythromycin 3% gel	Benzoyl peroxide 5% / Erythromycin 3% gel	Gel	Cutaneous	Benzoyl peroxide/ Erythromycin	50.000mg/1.000gram + 30.000mg/1.000gram		NA
+127941000033110	784911000001105	Benzamycin gel (Schwarz Pharma Ltd)	Benzamycin gel	Gel	Cutaneous	Benzoyl peroxide/ Erythromycin	50.000mg/1.000gram + 30.000mg/1.000gram		NA
+2958441000033116	35927411000001108	Sodium fusidate 500mg powder and solvent for solution for infusion vials	Sodium fusidate 500mg powder and solvent for solution for infusion vials	Powder and solvent for solution for infusion	Intravenous	Sodium fusidate	500.000mg		NA
+916341000033117	36036011000001104	Miconazole 1.2g vaginal capsules	Miconazole 1.2g vaginal capsules	Capsule	Vaginal	Miconazole nitrate	1.200gram	7020200	NA
+656941000033113	3357711000001102	Gyno-Daktarin 1200mg vaginal capsules (Janssen-Cilag Ltd)	Gyno-Daktarin 1200mg vaginal capsules	Capsule	Vaginal	Miconazole nitrate	1.200gram	7020200	NA
+534241000033118	36064711000001104	Erythromycin 250mg gastro-resistant capsules	Erythromycin 250mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Erythromycin	250.000mg	5010500	NA
+2890541000033117	4227311000001109	Kerymax 250mg gastro-resistant capsules (Kent Pharmaceuticals Ltd)	Kerymax 250mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Erythromycin	250.000mg		NA
+534141000033113	759811000001108	Erymax 250mg gastro-resistant capsules (Teva UK Ltd)	Erymax 250mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Erythromycin	250.000mg	5010500	NA
+1436941000033111	165611000001108	Tiloryth 250mg gastro-resistant capsules (Tillomed Laboratories Ltd)	Tiloryth 250mg gastro-resistant capsules	Gastro-resistant capsule	Oral	Erythromycin	250.000mg	5010500	NA
+588041000033114	36067611000001104	Fluconazole 50mg/25ml solution for infusion vials	Fluconazole 50mg/25ml solution for infusion vials	Solution for infusion	Intravenous	Fluconazole	2.000mg/1.000ml	5020100	NA
+450141000033111	524111000001102	Diflucan 50mg/25ml solution for infusion vials (Pfizer Ltd)	Diflucan 50mg/25ml solution for infusion vials	Solution for infusion	Intravenous	Fluconazole	2.000mg/1.000ml	5020100	NA
+3087341000033116	36139311000001112	Ciclosporin 100mg/ml oral solution sugar free	Ciclosporin 100mg/ml oral solution sugar free	Oral solution	Oral	Ciclosporin	100.000mg/1.000ml	10010300	NA
+964241000033115	3490411000001109	Neoral 100mg/ml oral solution (Novartis Pharmaceuticals UK Ltd)	Neoral 100mg/ml oral solution	Oral solution	Oral	Ciclosporin	100.000mg/1.000ml	10010300/ 13050300	NA
+1247941000033110	3490711000001103	Sandimmun 100mg/ml oral solution (Novartis Pharmaceuticals UK Ltd)	Sandimmun 100mg/ml oral solution	Oral solution	Oral	Ciclosporin	100.000mg/1.000ml	10010300/ 13050300	NA
+3156941000033117	36139511000001104	Ciclosporin 250mg/5ml solution for infusion ampoules	Ciclosporin 250mg/5ml solution for infusion ampoules	Solution for infusion	Intravenous	Ciclosporin	50.000mg/1.000ml	8020200	NA
+3157141000033117	88611000001108	Sandimmun 250mg/5ml concentrate for solution for infusion ampoules (Novartis Pharmaceuticals UK Ltd)	Sandimmun 250mg/5ml concentrate for solution for infusion ampoules	Solution for infusion	Intravenous	Ciclosporin	50.000mg/1.000ml	8020200	NA
+3156841000033113	36140311000001104	Ciclosporin 50mg/1ml solution for infusion ampoules	Ciclosporin 50mg/1ml solution for infusion ampoules	Solution for infusion	Intravenous	Ciclosporin	50.000mg/1.000ml	8020200	NA
+3157041000033116	911911000001101	Sandimmun 50mg/1ml concentrate for solution for infusion ampoules (Novartis Pharmaceuticals UK Ltd)	Sandimmun 50mg/1ml concentrate for solution for infusion ampoules	Solution for infusion	Intravenous	Ciclosporin	50.000mg/1.000ml	8020200	NA
+8243841000033116	21708211000001104	Febzin XL 500mg tablets (Actavis UK Ltd)	Febzin XL 500mg tablets	Modified-release tablet	Oral	Clarithromycin	500.000mg		NA
+8246541000033111	21667211000001100	Mycifor XL 500mg tablets (Forum Products Ltd)	Mycifor XL 500mg tablets	Modified-release tablet	Oral	Clarithromycin	500.000mg		NA
+277841000033115	36142611000001104	Clarithromycin 500mg modified-release tablets	Clarithromycin 500mg modified-release tablets	Modified-release tablet	Oral	Clarithromycin	500.000mg	5010500	NA
+11809941000033116	33656011000001108	Xetinin XL 500mg tablets (Morningside Healthcare Ltd)	Xetinin XL 500mg tablets	Modified-release tablet	Oral	Clarithromycin	500.000mg		NA
+804941000033116	40811000001101	Klaricid XL 500mg tablets (Mylan)	Klaricid XL 500mg tablets	Modified-release tablet	Oral	Clarithromycin	500.000mg	5010500	NA
+6030241000033111	18149211000001104	Clarie XL 500mg tablets (Teva UK Ltd)	Clarie XL 500mg tablets	Modified-release tablet	Oral	Clarithromycin	500.000mg		NA
+537441000033113	36564711000001104	Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free	Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free	Oral suspension	Oral	Erythromycin ethyl succinate	25.000mg/1.000ml	5010500	NA
+536141000033119	294211000001105	Erythroped PI SF 125mg/5ml oral suspension (Advanz Pharma)	Erythroped PI SF 125mg/5ml oral suspension	Oral suspension	Oral	Erythromycin ethyl succinate	25.000mg/1.000ml	5010500	NA
+907341000033117	36566211000001104	Miconazole 2% powder	Miconazole 2% powder	Powder	Cutaneous	Miconazole nitrate	20.000mg/1.000gram	13100200	NA
+402641000033114	3779411000001103	Daktarin 2% powder (McNeil Products Ltd)	Daktarin 2% powder	Powder	Cutaneous	Miconazole nitrate	20.000mg/1.000gram	13100200	NA
+4593541000033117	3779611000001100	Daktarin Aktiv 2% powder (McNeil Products Ltd)	Daktarin Aktiv 2% powder	Powder	Cutaneous	Miconazole nitrate	20.000mg/1.000gram	13100200	NA

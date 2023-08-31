@@ -1,0 +1,100 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	Deficit
+6875014	Chronic peptic ulcer with perforation	J1312	J131200	3483000	6875014	NA	Peptic ulcer
+33419017	Acute gastric ulcer with perforation	J1102	J110200	19850005	33419017	NA	Peptic ulcer
+206556016	Chronic duodenal ulcer	J121	J121.00	128286008	206556016	NA	Peptic ulcer
+206557013	Chronic peptic ulcer	J131	J131.00	128287004	206557013	NA	Peptic ulcer
+52347016	Chronic gastric ulcer with perforation	J1112	J111200	31301004	52347016	NA	Peptic ulcer
+83140013	Chronic duodenal ulcer with perforation	J1212	J121200	49916007	83140013	NA	Peptic ulcer
+86362013	Duodenal ulcer disease	J122	J122.00	51868009	86362013	NA	Peptic ulcer
+269309011	Operations on gastric ulcer	761J	761J.00	173841001	269309011	NA	Peptic ulcer
+269310018	Closure of perforated gastric ulcer	761J0	761J000	173842008	269310018	NA	Peptic ulcer
+269371013	Operations on duodenal ulcer	7627	7627.00	173887007	269371013	NA	Peptic ulcer
+269374017	Closure of perforated duodenal ulcer	76270	7627000	173889005	269374017	NA	Peptic ulcer
+101926016	Acute duodenal ulcer with perforation	J1202	J120200	61347001	101926016	NA	Peptic ulcer
+302470015	Acute gastric ulcer with obstruction	J1104	J110400	196632005	302470015	NA	Peptic ulcer
+302481017	Chronic gastric ulcer with obstruction	J1114	J111400	196639001	302481017	NA	Peptic ulcer
+302502012	Acute duodenal ulcer	J120	J120.00	196652006	302502012	NA	Peptic ulcer
+302525013	Chronic duodenal ulcer with obstruction	J1214	J121400	196666001	302525013	NA	Peptic ulcer
+302530012	Recurrent duodenal ulcer	J124	J124.00	196671008	302530012	NA	Peptic ulcer
+302546016	Acute peptic ulcer	J130	J130.00	196682000	302546016	NA	Peptic ulcer
+302675019	Healed gastric ulcer leaving a scar	J17y8	J17y800	196775009	302675019	NA	Peptic ulcer
+303358012	Primary ulcer of intestine	J57y8	J57y800	197252006	303358012	NA	Peptic ulcer
+361430016	Acute peptic ulcer with haemorrhage and perforation	J1303	J130300	111353003	361430016	NA	Peptic ulcer
+397833011	H/O: peptic ulcer	14C1	14C1.00	266998003	397833011	NA	Peptic ulcer
+459010010	Endoscopic injection haemostasis of duodenal ulcer	761D5	761D500	314627002	459010010	NA	Peptic ulcer
+459013012	Endoscopic injection haemostasis of gastric ulcer	761D6	761D600	314629004	459013012	NA	Peptic ulcer
+470365013	Acute peptic ulcer with haemorrhage	J1301	J130100	12274003	470365013	NA	Peptic ulcer
+474430017	Acute duodenal ulcer with haemorrhage	J1201	J120100	12847006	474430017	NA	Peptic ulcer
+486596015	Chronic duodenal ulcer with haemorrhage AND perforation	J1213	J121300	36975000	486596015	NA	Peptic ulcer
+495273013	Acute gastric ulcer with haemorrhage AND perforation	J1103	J110300	48974009	495273013	NA	Peptic ulcer
+495344012	Chronic peptic ulcer with haemorrhage	J1311	J131100	49232000	495344012	NA	Peptic ulcer
+497833010	Chronic gastric ulcer with haemorrhage	J1111	J111100	57246001	497833010	NA	Peptic ulcer
+498970016	Ulcerative oesophagitis	J1016	J101600	439955006	2792529018	NA	Peptic ulcer
+499719010	Acute gastrojejunal ulcer with haemorrhage	J1401	J140100	63954007	499719010	NA	Peptic ulcer
+507303017	Acute duodenal ulcer with haemorrhage AND perforation	J1203	J120300	86895006	507303017	NA	Peptic ulcer
+508524014	Chronic duodenal ulcer with haemorrhage	J1211	J121100	89469000	508524014	NA	Peptic ulcer
+508664015	Acute gastric ulcer with haemorrhage	J1101	J110100	89748001	508664015	NA	Peptic ulcer
+158227015	Acute gastric ulcer	J110	J110.00	95529005	158227015	NA	Peptic ulcer
+158231014	Chronic gastric ulcer	J111	J111.00	95530000	158231014	NA	Peptic ulcer
+252563014	Peptic ulcer symptoms	1956	1956.00	162033007	252563014	NA	Peptic ulcer
+2649532016	Anti-platelet induced gastric ulcer	J112	J112.00	424301005	2649532016	NA	Peptic ulcer
+2649534015	Anti-platelet induced duodenal ulcer	J125	J125.00	423643000	2649534015	NA	Peptic ulcer
+362951000000115	Oversew of blood vessel of duodenal ulcer	76272	7627200	226891000000104	362951000000115	NA	Peptic ulcer
+131281018	Acute peptic ulcer with perforation	J1302	J130200	79118000	131281018	NA	Peptic ulcer
+498969017	Peptic ulcer of oesophagus	J1020	J102000	6129004	498969017	NA	Peptic ulcer
+269314010	Other specified operation on gastric ulcer	761Jy	761Jy00	173841001	269307013	NA	Peptic ulcer
+269315011	Operation on gastric ulcer NOS	761Jz	761Jz00	173841001	269307013	NA	Peptic ulcer
+269376015	Other specified operation on duodenal ulcer	7627y	7627y00	173887007	269370014	NA	Peptic ulcer
+269377012	Operation on duodenal ulcer NOS	7627z	7627z00	173887007	269370014	NA	Peptic ulcer
+302463015	Acute gastric ulcer without mention of complication	J1100	J110000	95529005	158227015	NA	Peptic ulcer
+302471016	Acute gastric ulcer unspecified	J110y	J110y00	95529005	158227015	NA	Peptic ulcer
+302472011	Acute gastric ulcer NOS	J110z	J110z00	95529005	158227015	NA	Peptic ulcer
+302473018	Chronic gastric ulcer without mention of complication	J1110	J111000	95530000	158231014	NA	Peptic ulcer
+302482012	Chronic gastric ulcer unspecified	J111y	J111y00	95530000	158231014	NA	Peptic ulcer
+302483019	Chronic gastric ulcer NOS	J111z	J111z00	95530000	158231014	NA	Peptic ulcer
+302485014	Unspecified gastric ulcer	J11y	J11y.00	397825006	1777426014	NA	Peptic ulcer
+302486010	Unspecified gastric ulcer without mention of complication	J11y0	J11y000	397825006	1777426014	NA	Peptic ulcer
+302487018	Unspecified gastric ulcer with haemorrhage	J11y1	J11y100	15902003	477573015	NA	Peptic ulcer
+302489015	Unspecified gastric ulcer with perforation	J11y2	J11y200	9829001	17164015	NA	Peptic ulcer
+302495019	Unspecified gastric ulcer NOS	J11yz	J11yz00	397825006	1777426014	NA	Peptic ulcer
+302504013	Acute duodenal ulcer without mention of complication	J1200	J120000	196652006	302502012	NA	Peptic ulcer
+302512017	Acute duodenal ulcer unspecified	J120y	J120y00	196652006	302502012	NA	Peptic ulcer
+302513010	Acute duodenal ulcer NOS	J120z	J120z00	196652006	302502012	NA	Peptic ulcer
+302514016	Chronic duodenal ulcer without mention of complication	J1210	J121000	128286008	206556016	NA	Peptic ulcer
+302526014	Chronic duodenal ulcer unspecified	J121y	J121y00	128286008	206556016	NA	Peptic ulcer
+302527017	Chronic duodenal ulcer NOS	J121z	J121z00	128286008	206556016	NA	Peptic ulcer
+302531011	Unspecified duodenal ulcer	J12y	J12y.00	51868009	86362013	NA	Peptic ulcer
+302532016	Unspecified duodenal ulcer without mention of complication	J12y0	J12y000	51868009	86362013	NA	Peptic ulcer
+302535019	Unspecified duodenal ulcer with perforation	J12y2	J12y200	88968005	147516013	NA	Peptic ulcer
+302537010	Unspecified duodenal ulcer with haemorrhage and perforation	J12y3	J12y300	51868009	86362013	NA	Peptic ulcer
+302538017	Unspecified duodenal ulcer with obstruction	J12y4	J12y400	849601000000109	2201691000000117	NA	Peptic ulcer
+302541014	Unspecified duodenal ulcer NOS	J12yz	J12yz00	51868009	86362013	NA	Peptic ulcer
+302542019	Duodenal ulcer NOS	J12z	J12z.00	51868009	1231048015	NA	Peptic ulcer
+302547013	Acute peptic ulcer without mention of complication	J1300	J130000	196682000	302546016	NA	Peptic ulcer
+302554019	Acute peptic ulcer unspecified	J130y	J130y00	196682000	302546016	NA	Peptic ulcer
+302555018	Acute peptic ulcer NOS	J130z	J130z00	196682000	302546016	NA	Peptic ulcer
+302556017	Chronic peptic ulcer without mention of complication	J1310	J131000	128287004	206557013	NA	Peptic ulcer
+302563017	Chronic peptic ulcer unspecified	J131y	J131y00	128287004	206557013	NA	Peptic ulcer
+302564011	Chronic peptic ulcer NOS	J131z	J131z00	128287004	206557013	NA	Peptic ulcer
+302565012	Unspecified peptic ulcer	J13y	J13y.00	13200003	22592012	NA	Peptic ulcer
+302566013	Unspecified peptic ulcer without mention of complication	J13y0	J13y000	13200003	22592012	NA	Peptic ulcer
+302568014	Unspecified peptic ulcer with haemorrhage	J13y1	J13y100	13200003	22592012	NA	Peptic ulcer
+302569018	Unspecified peptic ulcer with perforation	J13y2	J13y200	13200003	22592012	NA	Peptic ulcer
+302575010	Unspecified peptic ulcer NOS	J13yz	J13yz00	13200003	22592012	NA	Peptic ulcer
+302576011	Peptic ulcer NOS	J13z	J13z.00	13200003	22592012	NA	Peptic ulcer
+302604016	Unspecified gastrojejunal ulcer	J14y	J14y.00	16121001	27283019	NA	Peptic ulcer
+302615014	Gastrojejunal ulcer NOS	J14z	J14z.00	16121001	27283019	NA	Peptic ulcer
+394133018	Open excision of lesion of stomach NEC	76121	7612100	16453004	27843017	NA	Peptic ulcer
+394147019	Closure of gastric ulcer NEC	761J1	761J100	173841001	269307013	NA	Peptic ulcer
+396345015	Gastric ulcer NOS	J11z	J11z.00	397825006	1777426014	NA	Peptic ulcer
+396346019	Peptic ulcer - (PU) site unspecified	J13	J13..00	13200003	22592012	NA	Peptic ulcer
+81301000006118	Unspec duodenal ulcer; unspec haemorrhage and/or perforation	J12yy	J12yy00	51868009	86362013	NA	Peptic ulcer
+118251000006114	Suture of duodenal ulcer not elsewhere classified	76271	7627100	307260009	450480019	NA	Peptic ulcer
+221001000000111	Gastric ulcer - (GU)	J11	J11..00	397825006	1777426014	NA	Peptic ulcer
+221011000000113	Gastrojejunal ulcer (GJU)	J14	J14..00	16121001	27283019	NA	Peptic ulcer
+632091000006116	Duodenal ulcer - (DU)	J12	J12..00	51868009	1231048015	NA	Peptic ulcer
+1562921000006116	Non steroidal anti inflammatory drug induced gastric ulcer	J113	J113.00	248891000000103	407821000000113	NA	Peptic ulcer
+1562931000006118	Non steroidal anti inflammatory drug induced gastric ulc NOS	J113z	J113z00	248891000000103	407821000000113	NA	Peptic ulcer
+302534015	Unspecified duodenal ulcer with haemorrhage	J12y1	J12y100	27281001	483490017	NA	Peptic ulcer
+1562941000006111	Non steroidal anti inflammatory drug induced duodenal ulcer	J126	J126.00	722200003	3331126014	NA	Peptic ulcer
+454252012	[V] Personal history of gastric ulcer	ZV12C	ZV12C00	275548000	411542014	NA	Peptic ulcer

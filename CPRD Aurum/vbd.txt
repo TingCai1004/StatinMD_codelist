@@ -1,0 +1,24 @@
+MedCodeId	Term	CleansedReadCode	OriginalReadCode
+293008012	Vitamin B12 deficiency	C262100	C2621
+293948018	Combined B12 and folate deficiency anaemia	D013000	D0130
+297018015	Cerebral degeneration due to vitamin B12 deficiency	F11x600	F11x6
+351104011	Vegan's anaemia	D011013	D0110-3
+356607016	Transcobalamin II deficiency	D011200	D0112
+399201018	Vitamin B12 deficiency anaemia due to dietary causes	D011000	D0110
+452074010	Intramuscular injection of vitamin B12	7L18500	7L185
+264780013	B12 deficiency monitoring	66E..00	66E
+264783010	B12 injections started	66E3.00	66E3
+264784016	B12 injections - at home	66E4.00	66E4
+264785015	B12 injections - at surgery	66E5.00	66E5
+293924010	Other vitamin B12 deficiency anaemia NOS	D011z00	D011z
+294571016	[X]Other vitamin B12 deficiency anaemias	Dyu0200	Dyu02
+294579019	[X]Vitamin B12 deficiency anaemia, unspecified	Dyu0600	Dyu06
+399198011	Other vitamin B12 deficiency anaemias	D011.00	D011
+62031000006117	Vit B12 defic anaemia due to malabsorption with proteinuria	D011100	D0111
+62261000006118	Vitamin B12 deficiency anaemia	D011.11	D011-1
+62281000006111	Vitamin B12 deficiency anaemia, unspecified	D011X00	D011X
+223501000000118	Imerslund - Grasbeck syndrome	D011011	D0110-1
+501121000006110	B12 defic. monitoring NOS	66EZ.00	66EZ
+294568012	[X]Other dietary vitamin B12 deficiency anaemia	Dyu0100	Dyu01
+251614016	H/O: Anaemia vit.B12 deficient	1452.00	1452
+264786019	Reticulcytosis after B12	66E6.00	66E6

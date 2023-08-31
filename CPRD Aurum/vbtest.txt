@@ -1,0 +1,9 @@
+MedCodeId	Term	CleansedReadCode	OriginalReadCode
+257552018	Serum vitamin B12 normal	42T1.00	42T1
+257553011	Serum vitamin B12 low	42T2.00	42T2
+2159281019	Plasma vitamin B12 level	44Le.00	44Le
+110211000006111	Test request : Vitamin B12	42T..00	EMISREQ|42T..
+836101000006119	Vitamin B12 level	44Lc.00	44Lc
+257554017	Serum vit B12 borderline	42T3.00	42T3
+257555016	Serum vitamin B12 NOS	42TZ.00	42TZ
+145701000006116	Serum vitamin B12	42T..00	42T

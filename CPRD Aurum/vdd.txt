@@ -1,0 +1,18 @@
+MedCodeId	Term	CleansedReadCode	OriginalReadCode
+7912010	Osteomalacia	C28..11	C28-1
+57937016	Vitamin D deficiency	C28..00	C28
+68966019	Rickets	C28..12	C28-2
+293021017	Active rickets	C280.00	C280
+293022012	Late effect of rickets	C281.00	C281
+293025014	Senile osteomalacia	C284.00	C284
+293026010	Adult osteomalacia due to malabsorption	C285.00	C285
+293027018	Adult osteomalacia due to malnutrition	C286.00	C286
+113443011	Vitamin D-dependent rickets	C28A.00	C28A
+354575019	Aluminium bone disease	C287.00	C287
+1736721000000115	Injection of vitamin D	85D0.00	85D0
+2241511000000119	Vitamin D insufficiency	C2B..00	C2B
+2284791000000110	Vitamin D deficiency monitoring	66p..00	66p
+2284831000000115	Vitamin D deficiency annual review	66p0.00	66p0
+293023019	Osteomalacia unspecified	C282.00	C282
+293031012	Avitaminosis D NOS	C28z.00	C28z
+149651000006112	Sequelae of unspecified nutritional deficiency	C28X.00	C28X

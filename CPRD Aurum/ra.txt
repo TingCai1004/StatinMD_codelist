@@ -1,0 +1,44 @@
+MedCodeId	Term	CleansedReadCode	OriginalReadCode
+95067016	Felty's syndrome	N041.00	N041
+297544012	Polyneuropathy in rheumatoid arthritis	F371200	F3712
+309787016	Rheumatoid arthritis of cervical spine	N040000	N0400
+309789018	Rheumatoid arthritis of shoulder	N040200	N0402
+309792019	Rheumatoid arthritis of elbow	N040500	N0405
+309794018	Rheumatoid arthritis of wrist	N040700	N0407
+309798015	Rheumatoid arthritis of hip	N040B00	N040B
+309800010	Rheumatoid arthritis of knee	N040D00	N040D
+309802019	Rheumatoid arthritis of ankle	N040F00	N040F
+309803012	Rheumatoid arthritis of subtalar joint	N040G00	N040G
+309804018	Rheumatoid arthritis of talonavicular joint	N040H00	N040H
+309816012	Flare of rheumatoid arthritis	N040T00	N040T
+116082011	Rheumatoid arthritis	N040.00	N040
+359292012	Seronegative rheumatoid arthritis	N040P00	N040P
+251794010	H/O: rheumatoid arthritis	14G1.00	14G1
+426510015	Rheumatoid arthritis - multiple joint	N040S00	N040S
+485614018	Rheumatoid nodule	N042200	N0422
+1786545019	Rheumatoid lung	N04y000	N04y0
+255925015	O/E-hands-rheumatoid spindling	2G27.00	2G27
+1778239014	Rheumatoid lung disease	N042100	N0421
+1779323014	Rheumatoid vasculitis	N040N00	N040N
+1786505011	Caplan's syndrome	N04y011	N04y0-1
+149911000006117	Seropositive rheumatoid arthritis, unspecified	N04X.00	N04X
+162041000006117	Rheumatoid arthritis of DIP joint of finger	N040A00	N040A
+162051000006115	Rheumatoid arthritis of distal radio-ulnar joint	N040600	N0406
+162111000006117	Rheumatoid arthritis of MCP joint	N040800	N0408
+162131000006111	Rheumatoid arthritis of PIP joint of finger	N040900	N0409
+162231000006117	Rheumatoid arthropathy + visceral/systemic involvement NOS	N042z00	N042z
+162301000006117	Rheumatoid lung	H570.00	H570
+162341000006115	Rheumatoid nodule	N040R00	N040R
+219021000000114	Rheumatoid arthrit. monitoring	66H..13	66H-3
+168761000006118	Rheumatoid arthritis of 1st MTP joint	N040K00	N040K
+463281000006113	Adult Still's Disease	N005.00	N005
+463301000006112	Adult-onset Still's disease	N04y200	N04y2
+309788014	Other rheumatoid arthritis of spine	N040100	N0401
+309805017	Rheumatoid arthritis of other tarsal joint	N040J00	N040J
+16911000006114	Other rheumatoid arthropathy + visceral/systemic involvement	N042.00	N042
+309812014	Rheumatoid bursitis	N040Q00	N040Q
+451461014	Seropositive errosive rheumatoid arthritis	N047.00	N047
+311496011	Fibrosing alveolitis associated with rheumatoid arthritis	N04y012	N04y0-2
+312518013	[X]Other seropositive rheumatoid arthritis	Nyu1100	Nyu11
+312520011	[X]Other specified rheumatoid arthritis	Nyu1200	Nyu12
+312534011	[X]Seropositive rheumatoid arthritis, unspecified	Nyu1G00	Nyu1G

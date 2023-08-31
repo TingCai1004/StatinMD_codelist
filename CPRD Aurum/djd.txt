@@ -1,0 +1,187 @@
+MedCodeId	Term	CleansedReadCode	OriginalReadCode
+19006012	Thoracic spondylosis with myelopathy	N113.00	N113
+108431018	Cervical spondylosis with myelopathy	N111.00	N111
+297150011	Myelopathy due to spondylosis	F163200	F1632
+297465015	Nerve root and plexus compressions in spondylosis	F337200	F3372
+309876015	Secondary multiple arthrosis	N050500	N0505
+309877012	Erosive osteoarthrosis	N050600	N0506
+309878019	Heberden's nodes with arthropathy	N050700	N0507
+309881012	Localised, primary osteoarthritis	N051.00	N051
+309885015	Localised, primary osteoarthritis of the shoulder region	N051100	N0511
+309892013	Localised, primary osteoarthritis of the hand	N051400	N0514
+309898012	Localised, primary osteoarthritis of the ankle and foot	N051700	N0517
+309901013	Primary coxarthrosis, bilateral	N051900	N0519
+309902018	Coxarthrosis resulting from dysplasia, bilateral	N051A00	N051A
+309903011	Primary gonarthrosis, bilateral	N051B00	N051B
+309904017	Primary arthrosis of first carpometacarpal joints, bilateral	N051C00	N051C
+309914014	Localised, secondary osteoarthritis	N052.00	N052
+309918012	Localised, secondary osteoarthritis of the shoulder region	N052100	N0521
+309923012	Localised, secondary osteoarthritis of the hand	N052400	N0524
+309933016	Localised, secondary osteoarthritis of the ankle and foot	N052700	N0527
+309936012	Post-traumatic coxarthrosis, bilateral	N052900	N0529
+309937015	Post-traumatic gonarthrosis, bilateral	N052A00	N052A
+311055019	Single-level cervical spondylosis without myelopathy	N110000	N1100
+311056018	Two-level cervical spondylosis without myelopathy	N110100	N1101
+311057010	Multiple-level cervical spondylosis without myelopathy	N110200	N1102
+311061016	Single-level cervical spondylosis with myelopathy	N111000	N1110
+311062011	Two-level cervical spondylosis with myelopathy	N111100	N1111
+311063018	Multiple-level cervical spondylosis with myelopathy	N111200	N1112
+311068010	Single-level thoracic spondylosis without myelopathy	N112000	N1120
+311069019	Two-level thoracic spondylosis without myelopathy	N112100	N1121
+311070018	Multiple-level thoracic spondylosis without myelopathy	N112200	N1122
+311072014	Single-level thoracic spondylosis with myelopathy	N113000	N1130
+311074010	Multiple-level thoracic spondylosis with myelopathy	N113200	N1132
+311079017	Single-level lumbosacral spondylosis without myelopathy	N114000	N1140
+311080019	Two-level lumbosacral spondylosis without myelopathy	N114100	N1141
+311081015	Multiple-level lumbosacral spondylosis without myelopathy	N114200	N1142
+311082010	Lumbosacral spondylosis with myelopathy	N115.00	N115
+311083017	Single-level lumbosacral spondylosis with myelopathy	N115000	N1150
+311084011	Two-level lumbosacral spondylosis with myelopathy	N115100	N1151
+311085012	Multiple-level lumbosacral spondylosis with myelopathy	N115200	N1152
+311091014	Cervical spondylosis with radiculopathy	N119.00	N119
+311093012	Single-level cervical spondylosis with radiculopathy	N119000	N1190
+311094018	Two-level cervical spondylosis with radiculopathy	N119100	N1191
+311095017	Multiple-level cervical spondylosis with radiculopathy	N119200	N1192
+311096016	Cervical spondylosis with vascular compression	N11A.00	N11A
+311097013	Thoracic spondylosis with radiculopathy	N11B.00	N11B
+311099011	Single-level thoracic spondylosis with radiculopathy	N11B000	N11B0
+311103018	Multiple-level thoracic spondylosis with radiculopathy	N11B200	N11B2
+311106014	Lumbosacral spondylosis with radiculopathy	N11C.00	N11C
+311108010	Single-level lumbosacral spondylosis with radiculopathy	N11C000	N11C0
+311109019	Two-level lumbosacral spondylosis with radiculopathy	N11C100	N11C1
+311110012	Multiple-level lumbosacral spondylosis with radiculopathy	N11C200	N11C2
+359432012	Lumbar spondylosis	N114.12	N114-2
+359433019	Osteoarthritis of lumbar spine	N11D200	N11D2
+251795011	H/O: osteoarthritis	14G2.00	14G2
+400175010	Generalised osteoarthritis of the hand	N050100	N0501
+400266016	Spondylosis and allied disorders	N11..00	N11
+400267013	Cervical spondylosis without myelopathy	N110.00	N110
+400268015	Thoracic spondylosis without myelopathy	N112.00	N112
+400269011	Dorsal spondylosis without myelopathy	N112300	N1123
+453242017	Post-traumatic gonarthrosis, unilateral	N052C00	N052C
+457118013	Localised, primary osteoarthritis of the wrist	N051D00	N051D
+457121010	Localised, primary osteoarthritis of toe	N051E00	N051E
+457122015	Localised, primary osteoarthritis of elbow	N051F00	N051F
+508047017	Osteoarthritis of spine	N11D.00	N11D
+1481870016	Cervical spondylosis	N110.11	N110-1
+1481872012	Thoracic spondylosis	N112.11	N112-1
+255924016	O/E - hands - Heberden's nodes	2G26.00	2G26
+240071000006115	Patellofemoral osteoarthritis	N053611	N0536-1
+1492276018	Osteoarthritis of cervical spine	N11D000	N11D0
+1492281010	Osteoarthritis of thoracic spine	N11D100	N11D1
+1776248011	Osteoarthritis	N05..11	N05-1
+80324016	Lumbosacral spondylosis without myelopathy	N114.00	N114
+359383011	Toe osteoarthritis NOS	N05z713	N05z7-3
+359384017	Foot osteoarthritis NOS	N05z712	N05z7-2
+359385016	Ankle osteoarthritis NOS	N05z711	N05z7-1
+359388019	Thumb osteoarthritis NOS	N05z412	N05z4-2
+359389010	Finger osteoarthritis NOS	N05z411	N05z4-1
+359399017	Primary generalized osteoarthrosis	N050400	N0504
+400181019	Localised osteoarthritis, unspecified, of the lower leg	N053600	N0536
+400182014	Osteoarthritis NOS	N05zz00	N05zz
+400183016	Osteoarthritis NOS, of the upper arm	N05z200	N05z2
+400184010	Osteoarthritis NOS, of the forearm	N05z300	N05z3
+400185011	Osteoarthritis NOS, of the hand	N05z400	N05z4
+400186012	Osteoarthritis NOS, pelvic region/thigh	N05z500	N05z5
+400187015	Osteoarthritis NOS, of the lower leg	N05z600	N05z6
+400188013	Osteoarthritis NOS, of ankle and foot	N05z700	N05z7
+400271011	Spondylosis NOS	N11zz00	N11zz
+400355013	[X]Other primary gonarthrosis	Nyu2500	Nyu25
+1209790019	Arthritis of spine	N11..11	N11-1
+2476044012	Osteoarthritis of spine NOS	N11D300	N11D3
+18051000006110	Osteoarthritis NOS, of PIP joint of finger	N05zG00	N05zG
+18061000006112	Osteoarthritis NOS, of sacro-iliac joint	N05zK00	N05zK
+18121000006117	Osteoarthritis NOS, of tibio-fibular joint	N05zM00	N05zM
+18181000006118	Osteoarthritis of spine	N11..12	N11-2
+18191000006115	Osteoarthritis spine	N11z.11	N11z-1
+31031000006115	Osteoarthritis NOS, of DIP joint of finger	N05zH00	N05zH
+31041000006113	Osteoarthritis NOS, of distal radio-ulnar joint	N05zD00	N05zD
+31071000006117	Osteoarthritis NOS, of IP joint of toe	N05zU00	N05zU
+31091000006116	Osteoarthritis NOS, of lesser MTP joint	N05zT00	N05zT
+31101000006110	Osteoarthritis NOS, of MCP joint	N05zF00	N05zF
+41261000006115	Osteoarthritis and allied disorders	N05..00	N05
+41281000006113	Osteoarthritis NOS	N05z.00	N05z
+41301000006112	Osteoarthritis NOS, of 1st MTP joint	N05zS00	N05zS
+54641000006115	Wrist osteoarthritis NOS	N05z311	N05z3-1
+130001000006111	Spondylosis NOS	N11z.00	N11z
+217381000006112	Post-traumatic arthrosis of first carpometacarpal jt bilat	N052B00	N052B
+219611000000112	Osteoarthritis cervical spine	N110.12	N110-2
+221491000000111	Elbow osteoarthritis NOS	N05z211	N05z2-1
+221511000000115	Hip osteoarthritis NOS	N05z511	N05z5-1
+221521000000114	Knee osteoarthritis NOS	N05z611	N05z6-1
+264471000006113	Oligoarticular osteoarthritis, unspecified, of pelvis/thigh	N054500	N0545
+264481000006111	Oligoarticular osteoarthritis, unspecified, of shoulder	N054100	N0541
+264501000006118	Oligoarticular osteoarthritis, unspecified, other spec sites	N054800	N0548
+265841000006115	Oligoarticular osteoarthritis, unspec, of unspecified sites	N054000	N0540
+265861000006116	Oligoarticular osteoarthritis, unspecified, multiple sites	N054900	N0549
+265871000006111	Oligoarticular osteoarthritis, unspecified, of ankle/foot	N054700	N0547
+359211000006118	[X] Unilateral primary gonarthrosis	Nyu2511	Nyu25-1
+309862016	Generalised osteoarthritis of unspecified site	N050000	N0500
+309880013	Generalised osteoarthritis NOS	N050z00	N050z
+309884016	Localised, primary osteoarthritis of unspecified site	N051000	N0510
+309888018	Localised, primary osteoarthritis of the upper arm	N051200	N0512
+309889014	Localised, primary osteoarthritis of the forearm	N051300	N0513
+309896011	Localised, primary osteoarthritis of the lower leg	N051600	N0516
+309899016	Localised, primary osteoarthritis of other specified site	N051800	N0518
+309911018	Localised, primary osteoarthritis NOS	N051z00	N051z
+309915010	Localised, secondary osteoarthritis of unspecified site	N052000	N0520
+309919016	Localised, secondary osteoarthritis of the upper arm	N052200	N0522
+309922019	Localised, secondary osteoarthritis of the forearm	N052300	N0523
+309930018	Localised, secondary osteoarthritis of the lower leg	N052600	N0526
+309934010	Localised, secondary osteoarthritis of other specified site	N052800	N0528
+523461000006116	Bouchard's nodes with arthropathy	N050300	N0503
+523471000006111	Bouchards' nodes	N050112	N0501-2
+611421000006111	Degeneration of lumbar spine	N114.11	N114-1
+309941016	Localised, secondary osteoarthritis NOS	N052z00	N052z
+309942011	Localised osteoarthritis, unspecified	N053.00	N053
+309945013	Localised osteoarthritis, unspecified, of unspecified site	N053000	N0530
+309949019	Localised osteoarthritis, unspecified, of the upper arm	N053200	N0532
+309950019	Localised osteoarthritis, unspecified, of the forearm	N053300	N0533
+309953017	Localised osteoarthritis, unspecified, of the hand	N053400	N0534
+309965018	Localised osteoarthritis, unspecified, of the ankle and foot	N053700	N0537
+309969012	Arthrosis of first carpometacarpal joint, unspecified	N053900	N0539
+309971012	Localised osteoarthritis, unspecified, NOS	N053z00	N053z
+309972017	Oligoarticular osteoarthritis, unspecified	N054.00	N054
+309975015	Oligoarticular osteoarthritis, unspecified, of upper arm	N054200	N0542
+309977011	Oligoarticular osteoarthritis, unspecified, of hand	N054400	N0544
+309979014	Oligoarticular osteoarthritis, unspecified, of lower leg	N054600	N0546
+309983014	Osteoarthritis of more than one site, unspecified, NOS	N054z00	N054z
+309987010	Osteoarthritis NOS, of unspecified site	N05z000	N05z0
+309988017	Osteoarthritis NOS, of shoulder region	N05z100	N05z1
+310010015	Osteoarthritis NOS, other specified site	N05z800	N05z8
+310011016	Osteoarthritis NOS, of shoulder	N05z900	N05z9
+310012011	Osteoarthritis NOS, of sternoclavicular joint	N05zA00	N05zA
+310013018	Osteoarthritis NOS, of acromioclavicular joint	N05zB00	N05zB
+310014012	Osteoarthritis NOS, of elbow	N05zC00	N05zC
+310016014	Osteoarthritis NOS, of wrist	N05zE00	N05zE
+310020013	Osteoarthritis NOS, of hip	N05zJ00	N05zJ
+310024016	Osteoarthritis NOS, of knee	N05zL00	N05zL
+310026019	Osteoarthritis NOS, of ankle	N05zN00	N05zN
+310027011	Osteoarthritis NOS, of subtalar joint	N05zP00	N05zP
+310028018	Osteoarthritis NOS, of talonavicular joint	N05zQ00	N05zQ
+310029014	Osteoarthritis NOS, of other tarsal joint	N05zR00	N05zR
+736171000006110	Localised, secondary osteoarthritis of pelvic region/thigh	N052500	N0525
+736701000006117	Localised osteoarthritis, unspecified, of other spec site	N053800	N0538
+736711000006119	Localised osteoarthritis, unspecified, of shoulder region	N053100	N0531
+736911000006116	Localised, primary osteoarthritis of the pelvic region/thigh	N051500	N0515
+757071000006113	Joint degeneration	N05z.11	N05z-1
+800731000006117	Generalised osteoarthritis - OA	N050.00	N050
+800751000006112	Generalised osteoarthritis of multiple sites	N050200	N0502
+819391000006114	Heberdens' nodes	N050111	N0501-1
+823951000006111	Hip osteoarthitis NOS	N053512	N0535-2
+1705871000006118	Cervical spondylosis	N11E.00	N11E
+312553018	[X]Other specified arthrosis	Nyu2D00	Nyu2D
+736781000006114	Localised osteoarthritis, unspecified, pelvic region/thigh	N053500	N0535
+311119013	Spondylosis with myelopathy, NOS	N11z100	N11z1
+312535012	[X]Arthrosis	Nyu2.00	Nyu2
+312537016	[X]Other primary coxarthrosis	Nyu2100	Nyu21
+312540016	[X]Other secondary coxarthrosis, bilateral	Nyu2400	Nyu24
+312545014	[X]Other secondary gonarthrosis, bilateral	Nyu2700	Nyu27
+312557017	[X]Post-traumatic arthrosis of other joints	Nyu2F00	Nyu2F
+400356014	[X]Other secondary gonarthrosis	Nyu2800	Nyu28
+359221000006114	[X] Unilateral secondary coxarthrosis	Nyu2E11	Nyu2E-1
+359231000006112	[X] Unilateral secondary gonarthrosis	Nyu2811	Nyu28-1
+311118017	Spondylosis without myelopathy, NOS	N11z000	N11z0
+312536013	[X]Other polyarthrosis	Nyu2000	Nyu20
+312613012	[X]Other spondylosis with radiculopathy	Nyu6300	Nyu63
+312614018	[X]Other spondylosis	Nyu6400	Nyu64

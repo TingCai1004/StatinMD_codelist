@@ -1,0 +1,351 @@
+MedCodeId	Term	CleansedReadCode	OriginalReadCode
+4031011	Old myocardial infarction	G32..00	G32
+4032016	Healed myocardial infarction	G32..11	G32-1
+7845011	Unstable angina	G311100	G3111
+18472010	Acute congestive heart failure	G580000	G5800
+32122016	Status anginosus	G33z000	G33z0
+36036010	Syncope anginosa	G33z200	G33z2
+39773018	Coronary artery spasm	G332.00	G332
+206703015	Right heart failure	G580.12	G580-2
+208365015	Postoperative myocardial infarction	G38..00	G38
+216185010	Peripheral vascular disease monitoring	662U.00	662U
+59952018	Nocturnal angina	G330000	G3300
+94251011	Acute heart failure	G582.00	G582
+94884017	Acute myocardial infarction	G30..00	G30
+98087016	Angina decubitus	G330.00	G330
+72934016	Rheumatic left ventricular failure	G1yz100	G1yz1
+139475013	Heart failure	G58..00	G58
+139482012	Cardiac failure	G58..11	G58-1
+271087015	Allograft bypass of coronary artery	7922.11	7922-1
+271097012	Prosthetic bypass of coronary artery	7923.11	7923-1
+271105012	Revision of bypass for coronary artery	7924.00	7924
+271106013	Revision of bypass for one coronary artery	7924000	79240
+271107016	Revision of bypass for two coronary arteries	7924100	79241
+271108014	Revision of bypass for three coronary arteries	7924200	79242
+271109018	Revision of bypass for four or more coronary arteries	7924300	79243
+271111010	Revision of implantation of thoracic artery into heart	7924500	79245
+271114019	Connection of mammary artery to coronary artery	7925.00	7925
+271115018	Creation of bypass from mammary artery to coronary artery	7925.11	7925-1
+271126012	Single implantation of mammary artery into coronary artery	7925400	79254
+271139011	Exploration of coronary artery	7927400	79274
+271157012	Diagnostic transluminal operations on coronary artery	792A.00	792A
+271166011	Replacement of coronary arteries using multiple methods	792C000	792C0
+272117011	Rotary blade angioplasty	7A54500	7A545
+272295013	Peroperative angioplasty	7A6G100	7A6G1
+141306010	Left ventricular failure	G581.00	G581
+104563015	Cerebrovascular disease	G6...00	G6
+105536013	Intermittent claudication	G73z000	G73z0
+147247018	Chronic congestive heart failure	G580100	G5801
+108561012	Aneurysm of heart	G341.00	G341
+109916013	Dressler's syndrome	G310.11	G310-1
+299708014	Acute anteroapical infarction	G301000	G3010
+299712015	True posterior myocardial infarction	G306.00	G306
+299719012	Acute atrial infarction	G30y000	G30y0
+299742017	Coronary thrombosis not resulting in myocardial infarction	G312.00	G312
+299745015	Acute coronary insufficiency	G31y000	G31y0
+299757012	Angina pectoris	G33..00	G33
+299758019	Stenocardia	G33z100	G33z1
+299782012	Single coronary vessel disease	G340000	G3400
+299783019	Double coronary vessel disease	G340100	G3401
+299788011	Acquired atrioventricular fistula of heart	G341300	G3413
+299796018	Ischaemic cardiomyopathy	G343.00	G343
+299808017	Subsequent myocardial infarction	G35..00	G35
+299811016	Subsequent myocardial infarction of anterior wall	G350.00	G350
+299812011	Subsequent myocardial infarction of inferior wall	G351.00	G351
+300179017	Decompensated cardiac failure	G580200	G5802
+300180019	Compensated cardiac failure	G580300	G5803
+300190010	Acute left ventricular failure	G581000	G5810
+300276019	External capsule haemorrhage	G616.00	G616
+300277011	Intracerebral haemorrhage, intraventricular	G617.00	G617
+300312010	Cerebral infarct due to thrombosis of precerebral arteries	G63y000	G63y0
+300313017	Cerebral infarction due to embolism of precerebral arteries	G63y100	G63y1
+300321011	Cerebral infarction due to thrombosis of cerebral arteries	G640000	G6400
+300322016	Cerebral infarction due to embolism of cerebral arteries	G641000	G6410
+300344014	Carotid artery syndrome hemispheric	G653.00	G653
+300345010	Multiple and bilateral precerebral artery syndromes	G654.00	G654
+300352012	Impending cerebral ischaemia	G65z000	G65z0
+300353019	Intermittent cerebral ischaemia	G65z100	G65z1
+300362017	Middle cerebral artery syndrome	G660.00	G660
+300363010	Anterior cerebral artery syndrome	G661.00	G661
+300364016	Posterior cerebral artery syndrome	G662.00	G662
+300366019	Cerebellar stroke syndrome	G664.00	G664
+300370010	Left sided CVA	G667.00	G667
+300371014	Right sided CVA	G668.00	G668
+316833010	Congenital cardiac failure	Q48y100	Q48y1
+116992017	Acute subendocardial infarction	G307.00	G307
+118689010	Cerebral thrombosis	G640.00	G640
+338974012	Ischaemic chest pain	G33z400	G33z4
+348644016	Coronary artery bypass graft operations	792..11	792-1
+350346019	Triple vessel disease of the heart	G340.11	G340-1
+350348018	Stable angina	G33z700	G33z7
+350350014	New onset angina	G33z600	G33z6
+350354017	Silent myocardial ischaemia	G344.00	G344
+350376014	Silent myocardial infarction	G30..17	G30-7
+350379019	Cardiac syndrome X	G37..00	G37
+251679016	H/O: angina pectoris	14A5.00	14A5
+394286010	Double anastomosis of mammary arteries to coronary arteries	7925000	79250
+395783012	Transient ischaemic attack	G65..12	G65-2
+395788015	Transient cerebral ischaemia	G65..00	G65
+411159010	LIMA single anastomosis	7925311	79253-1
+411160017	RIMA single anastomosis	7925312	79253-2
+411212010	LIMA sequential anastomosis	7925011	79250-1
+411213017	RIMA sequential anastomosis	7925012	79250-2
+411503014	Mural cardiac aneurysm	G341111	G3411-1
+411506018	Impaired left ventricular function	G581.13	G581-3
+412678013	Neonatal cardiac failure	Q490.00	Q490
+442204010	Angina on effort	G33z300	G33z3
+447324018	Acute Q-wave infarct	G309.00	G309
+450322013	Acute non-Q wave infarction	G307000	G3070
+451123015	Cerebral palsy, not congenital or infantile, acute	G669.00	G669
+451133011	Left sided cerebral infarction	G64z200	G64z2
+451134017	Right sided cerebral infarction	G64z300	G64z3
+451369010	H/O: Myocardial infarction in last year	14AH.00	14AH
+451370011	H/O: Angina in last year	14AJ.00	14AJ
+455422014	Postoperative subendocardial myocardial infarction	G384.00	G384
+456362017	Prosthetic graft patch angioplasty	7A6H300	7A6H3
+456363010	Percutaneous transluminal angioplasty of vascular graft	7A6H400	7A6H4
+458410010	Post infarct angina	G33z500	G33z5
+459487012	Refractory angina	G311300	G3113
+459488019	Transient myocardial ischaemia	G31y300	G31y3
+459859010	Asymptomatic coronary heart disease	G34z000	G34z0
+484402013	Percutaneous transluminal laser coronary angioplasty	7929000	79290
+490972013	Right ventricular failure	G580.13	G580-3
+494260016	Impending infarction	G311.12	G311-2
+494261017	Worsening angina	G311400	G3114
+494438016	Subendocardial ischaemia	G31y200	G31y2
+495394013	Cortical haemorrhage	G610.00	G610
+496232015	Internal capsule haemorrhage	G611.00	G611
+498328016	Angina at rest	G311200	G3112
+502878012	Cerebellar haemorrhage	G613.00	G613
+503469016	Pontine haemorrhage	G614.00	G614
+1218860015	Acute papillary muscle infarction	G30y100	G30y1
+1221061012	Open angioplasty of coronary artery	7927500	79275
+1222398015	Cerebral arterial occlusion	G64..00	G64
+1229885017	Microinfarction of heart	G31y100	G31y1
+158118014	Cerebellar infarction	G64z.12	G64z-2
+1232666014	Cardiac aneurysm	G341.11	G341-1
+1234005010	Acute inferoposterior infarction	G303.00	G303
+1234306015	Acute septal infarction	G30y200	G30y2
+1235225010	Prinzmetal's angina	G331.00	G331
+1235573016	Ventricular cardiac aneurysm	G341000	G3410
+1235655012	Mural thrombosis	G30A.00	G30A
+1780491019	Acute ST segment elevation myocardial infarction	G30X000	G30X0
+1780501013	Acute non-ST segment elevation myocardial infarction	G307100	G3071
+1785743019	Rotary blade coronary angioplasty	7929300	79293
+1786197015	Coronary thrombosis	G30..12	G30-2
+1786198013	Thrombosis - coronary	G30..16	G30-6
+2160096015	Coronary artery bypass graft occlusion	SP07600	SP076
+2474651019	Infarction of basal ganglia	G64z400	G64z4
+2534664018	Ischaemic heart disease	G3...00	G3
+2534674015	Chronic myocardial ischaemia	G34y100	G34y1
+2536354015	Insertion of coronary artery stent	7929400	79294
+2537480011	IHD - Ischaemic heart disease	G3...13	G3-3
+2537483013	Chronic coronary insufficiency	G34y000	G34y0
+2619484018	MI - Myocardial infarction aborted	G311011	G3110-1
+311461000000116	Insertion of drug-eluting coronary artery stent	7929500	79295
+1488382011	Acute coronary syndrome	G311500	G3115
+354901000000117	Percutaneous transluminal atherectomy of coronary artery	7929600	79296
+125470015	Cerebral embolism	G641.00	G641
+595731000006114	Coronary atherosclerosis	G340.00	G340
+130375018	Lateral medullary syndrome	G64z111	G64z1-1
+1488804017	Heart failure confirmed	1O1..00	1O1
+1667741000000110	[V]Personal history of transient ischaemic attack	ZV12D00	ZV12D
+2115181000000110	Coronary microvascular disease	G39..00	G39
+7847015	Crescendo angina	G311.11	G311-1
+37443015	Heart attack	G30..14	G30-4
+70653017	Congestive heart failure	G580.00	G580
+84241012	Aneurysm of coronary vessels	G341200	G3412
+109915012	Postmyocardial infarction syndrome	G310.00	G310
+144819018	Variant angina pectoris	G331.11	G331-1
+271079016	Saphenous vein graft replacement coronary artery NOS	7920z00	7920z
+271080018	Other autograft replacement of coronary artery	7921.00	7921
+271081019	Autograft replacement of one coronary artery NEC	7921000	79210
+271082014	Autograft replacement of two coronary arteries NEC	7921100	79211
+271083016	Autograft replacement of three coronary arteries NEC	7921200	79212
+271084010	Autograft replacement of four of more coronary arteries NEC	7921300	79213
+271086012	Other autograft replacement of coronary artery NOS	7921z00	7921z
+271095016	Other specified allograft replacement of coronary artery	7922y00	7922y
+271096015	Allograft replacement of coronary artery NOS	7922z00	7922z
+271104011	Prosthetic replacement of coronary artery NOS	7923z00	7923z
+271112015	Other specified revision of bypass for coronary artery	7924y00	7924y
+271113013	Revision of bypass for coronary artery NOS	7924z00	7924z
+271128013	Connection of mammary artery to coronary artery NOS	7925z00	7925z
+271129017	Connection of other thoracic artery to coronary artery	7926.00	7926
+271132019	Single anastomosis of thoracic artery to coronary artery NEC	7926200	79262
+271135017	Connection of other thoracic artery to coronary artery NOS	7926z00	7926z
+271136016	Other open operations on coronary artery	7927.00	7927
+271138015	Transposition of coronary artery NEC	7927300	79273
+271140013	Other specified other open operation on coronary artery	7927y00	7927y
+271141012	Other open operation on coronary artery NOS	7927z00	7927z
+271148018	Transluminal balloon angioplasty of coronary artery NOS	7928z00	7928z
+271149014	Other therapeutic transluminal operations on coronary artery	7929.00	7929
+271160017	Diagnostic transluminal operation on coronary artery NOS	792Az00	792Az
+271161018	Repair of coronary artery NEC	792B.00	792B
+271162013	Endarterectomy of coronary artery NEC	792B000	792B0
+271163015	Other specified repair of coronary artery	792By00	792By
+271164014	Repair of coronary artery NOS	792Bz00	792Bz
+271165010	Other replacement of coronary artery	792C.00	792C
+271167019	Other specified replacement of coronary artery	792Cy00	792Cy
+271168012	Replacement of coronary artery NOS	792Cz00	792Cz
+271169016	Other bypass of coronary artery	792D.00	792D
+271170015	Other specified other bypass of coronary artery	792Dy00	792Dy
+271171016	Other bypass of coronary artery NOS	792Dz00	792Dz
+271172011	Other specified operations on coronary artery	792y.00	792y
+271173018	Coronary artery operations NOS	792z.00	792z
+299707016	Other specified anterior myocardial infarction	G301.00	G301
+299710011	Posterior myocardial infarction NOS	G304.00	G304
+299714019	Inferior myocardial infarction NOS	G308.00	G308
+299718016	Other acute myocardial infarction	G30y.00	G30y
+299720018	Other acute myocardial infarction NOS	G30yz00	G30yz
+299721019	Acute myocardial infarction NOS	G30z.00	G30z
+299723016	Other acute and subacute ischaemic heart disease	G31y.00	G31y
+299741012	Preinfarction syndrome NOS	G311z00	G311z
+299750014	Other acute and subacute ischaemic heart disease NOS	G31yz00	G31yz
+299763015	Angina decubitus NOS	G330z00	G330z
+299765010	Angina pectoris NOS	G33zz00	G33zz
+299776014	Other chronic ischaemic heart disease	G34..00	G34
+299790012	Aneurysm of heart NOS	G341z00	G341z
+299800012	Other specified chronic ischaemic heart disease	G34y.00	G34y
+299804015	Other specified chronic ischaemic heart disease NOS	G34yz00	G34yz
+299805019	Other chronic ischaemic heart disease NOS	G34z.00	G34z
+299813018	Subsequent myocardial infarction of other sites	G353.00	G353
+299834013	Other specified ischaemic heart disease	G3y..00	G3y
+299835014	Ischaemic heart disease NOS	G3z..00	G3z
+300287010	Intracerebral haemorrhage NOS	G61z.00	G61z
+300348012	Other transient cerebral ischaemia	G65y.00	G65y
+300349016	Transient cerebral ischaemia NOS	G65zz00	G65zz
+300515011	Peripheral vascular disease NOS	G73zz00	G73zz
+300874013	[X]Other forms of angina pectoris	Gyu3000	Gyu30
+300881018	[X]Subsequent myocardial infarction of other sites	Gyu3500	Gyu35
+300882013	[X]Subsequent myocardial infarction of unspecified site	Gyu3600	Gyu36
+345650013	Brainstem infarction NOS	G64z.11	G64z-1
+345655015	Pure motor lacunar syndrome	G665.00	G665
+345658018	Pure sensory lacunar syndrome	G666.00	G666
+395755010	Other cardiac wall aneurysm	G341100	G3411
+395772015	Heart failure NOS	G58z.00	G58z
+395780010	Cerebral infarction NOS	G64z.00	G64z
+395791015	Other peripheral vascular disease	G73..00	G73
+405092018	Single anastomosis of mammary artery to coronary artery NEC	7925300	79253
+405339016	Stroke and cerebrovascular accident unspecified	G66..00	G66
+455423016	Postoperative myocardial infarction, unspecified	G38z.00	G38z
+493287011	Congestive cardiac failure	G580.11	G580-1
+510016018	Biventricular failure	G580.14	G580-4
+1221554018	Other autograft bypass of coronary artery	7921.11	7921-1
+1495417010	Asthma - cardiac	G581.11	G581-1
+2536395017	Coronary artery disease	G340.12	G340-2
+36861000006113	Other autograft replacement of coronary artery OS	7921y00	7921y
+39111000006114	Other acute and subacute ischaemic heart disease	G31..00	G31
+57341000006119	Wallenberg syndrome	G64z100	G64z1
+67081000006119	Ventric septal defect/curr comp fol acut myocardal infarctn	G362.00	G362
+72571000006115	Unstable angina	G311.13	G311-3
+89711000006118	Transluminal balloon angioplasty of coronary artery	7928.00	7928
+89731000006112	Transluminal balloon angioplasty of coronary artery OS	7928y00	7928y
+95931000006111	Transient cerebral ischaemia NOS	G65z.00	G65z
+100681000006116	Thrombosis atrium,auric append&vent/curr comp foll acute MI	G366.00	G366
+118831000006118	Subsequent myocardial infarction of unspecified site	G35X.00	G35X
+122361000006113	Stroke due to cerebral arterial occlusion	G64..13	G64-3
+122371000006118	Stroke due to intracerebral haemorrhage	G61..12	G61-2
+122401000006115	Stroke unspecified	G66..12	G66-2
+142361000006111	Single anast mammary art to left ant descend coronary art	7925200	79252
+142431000006114	Single implantation thoracic artery into coronary artery NEC	7926300	79263
+158601000006116	Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI	G363.00	G363
+158611000006118	Ruptur chordae tendinae/curr comp fol acute myocard infarct	G364.00	G364
+159001000006119	Rupture papillary muscle/curr comp fol acute myocard infarct	G365.00	G365
+161451000006116	Saphenous vein graft bypass of coronary artery	7920.11	7920-1
+163261000006119	Right sided intracerebral haemorrhage, unspecified	G61X100	G61X1
+216351000006118	Post infarction pericarditis	G501.00	G501
+218511000000117	Infarction - cerebral	G64..12	G64-2
+219531000000117	MI - acute myocardial infarction	G30..15	G30-5
+220231000000118	Coronary artery operations	792..00	792
+223981000000118	Cardiac failure NOS	G58z.12	G58z-2
+230021000006115	Personal history of myocardial infarction	G32..12	G32-2
+235911000006116	Peripheral vascular disease NOS	G73z.00	G73z
+238561000006119	Percut translum balloon angioplasty bypass graft coronary a	7928200	79282
+238571000006114	Percut translum balloon angioplasty mult coronary arteries	7928100	79281
+238581000006112	Percut translum coronary thrombolytic therapy- streptokinase	7929111	79291-1
+238601000006119	Percut translum inject therap subst to coronary artery NEC	7929200	79292
+238641000006117	Percut transluminal balloon angioplasty one coronary artery	7928000	79280
+238651000006115	Percut transluminal coronary thrombolysis with streptokinase	7929100	79291
+238821000006111	Percutaneous balloon coronary angioplasty	7928.11	7928-1
+250931000006117	Other therapeutic transluminal op on coronary artery NOS	7929z00	7929z
+250941000006110	Other therapeutic transluminal op on coronary artery OS	7929y00	7929y
+362461000006119	[X]Acute transmural myocardial infarction of unspecif site	Gyu3400	Gyu34
+370701000006118	[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	Gyu6300	Gyu63
+455641000006112	Acute anterolateral infarction	G300.00	G300
+455651000006114	Acute anteroseptal infarction	G301100	G3011
+457531000006110	Acute inferolateral infarction	G302.00	G302
+460681000006116	Acute transmural myocardial infarction of unspecif site	G30X.00	G30X
+482811000006113	Angina at rest	G311.14	G311-4
+482941000006119	Angina pectoris NOS	G33z.00	G33z
+498031000006112	Atrial septal defect/curr comp folow acut myocardal infarct	G361.00	G361
+503791000006114	Basal nucleus haemorrhage	G612.00	G612
+524511000006116	Brain stem stroke syndrome	G663.00	G663
+524541000006117	Brainstem infarction	G64z000	G64z0
+537751000006115	Cardiac rupture following myocardial infarction (MI)	G30..13	G30-3
+542251000006112	Cereb infarct due cerebral venous thrombosis, nonpyogenic	G676000	G6760
+542831000006116	Cerebral embolus	G641.11	G641-1
+543141000006110	Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	G6X..00	G6X
+589721000006114	Connection of mammary artery to coronary artery OS	7925y00	7925y
+605461000006117	CVA - cerebral artery occlusion	G64..11	G64-1
+605471000006112	CVA - cerebrovascular accid due to intracerebral haemorrhage	G61..11	G61-1
+605491000006113	CVA - Cerebrovascular accident unspecified	G66..13	G66-3
+605501000006117	CVA unspecified	G66..11	G66-1
+619381000006119	Diagnostic transluminal operation on coronary artery OS	792Ay00	792Ay
+627951000006112	Double anastom thoracic arteries to coronary arteries NEC	7926000	79260
+628021000006118	Double implant of mammary arteries into coronary arteries	7925100	79251
+741701000006114	Hypertensive heart&renal dis wth (congestive) heart failure	G232.00	G232
+744901000006114	Intracerebral haemorrhage	G61..00	G61
+746571000006116	Intracerebral haemorrhage, multiple localized	G618.00	G618
+748941000006115	Left sided intracerebral haemorrhage, unspecified	G61X000	G61X0
+789941000006117	Hyperten heart&renal dis+both(congestv)heart and renal fail	G234.00	G234
+810811000006116	H/O: myocardial infarct <60	14A3.00	14A3
+810821000006112	H/O: myocardial infarct >60	14A4.00	14A4
+813961000006116	Haemopericardium/current comp folow acut myocard infarct	G360.00	G360
+967931000006114	Acute posterolateral myocardial infarction	G30B.00	G30B
+1547311000006116	Percut translum cutting balloon angioplasty coronary artery	7928300	79283
+1547631000006117	Perc translumin balloon angioplasty stenting coronary artery	793G.00	793G
+1547641000006110	Perc translum ball angio insert 1-2 drug elut stents cor art	793G000	793G0
+1547651000006112	Perc tran ball angio ins 3 or more drug elut stents cor art	793G100	793G1
+1547661000006114	Perc translum balloon angioplasty insert 1-2 stents cor art	793G200	793G2
+1547671000006119	Percutaneous cor balloon angiop 3 more stents cor art NEC	793G300	793G3
+1547691000006118	Perc translum balloon angioplasty stenting coronary art NOS	793Gz00	793Gz
+1547711000006115	Percutaneous transluminal balloon dilation cardiac conduit	793H000	793H0
+7844010	Preinfarction syndrome	G311.00	G311
+299709018	Anterior myocardial infarction NOS	G301z00	G301z
+299711010	Lateral myocardial infarction NOS	G305.00	G305
+300941014	[X]Other cerebral infarction	Gyu6400	Gyu64
+300942019	[X]Occlusion and stenosis of other precerebral arteries	Gyu6500	Gyu65
+300943012	[X]Occlusion and stenosis of other cerebral arteries	Gyu6600	Gyu66
+460687010	[V]Presence of coronary angioplasty implant and graft	ZV45800	ZV458
+483988011	Bulbar haemorrhage	G615.00	G615
+1490256017	Pulmonary oedema - acute	G581.12	G581-2
+219521000000119	Attack - heart	G30..11	G30-1
+370661000006114	[X]Cereb infarct due unsp occlus/stenos precerebr arteries	Gyu6G00	Gyu6G
+496991000006111	Atherosclerotic cardiovascular disease	G342.00	G342
+542261000006114	Cereb infarct due unsp occlus/stenos precerebr arteries	G6W..00	G6W
+271073015	Saphenous vein graft replacement of one coronary artery	7920000	79200
+271074014	Saphenous vein graft replacement of two coronary arteries	7920100	79201
+271075010	Saphenous vein graft replacement of three coronary arteries	7920200	79202
+271088013	Allograft replacement of coronary artery	7922.00	7922
+271089017	Allograft replacement of one coronary artery	7922000	79220
+271092018	Allograft replacement of two coronary arteries	7922100	79221
+271093011	Allograft replacement of three coronary arteries	7922200	79222
+271094017	Allograft replacement of four or more coronary arteries	7922300	79223
+271098019	Prosthetic replacement of coronary artery	7923.00	7923
+271099010	Prosthetic replacement of one coronary artery	7923000	79230
+271100019	Prosthetic replacement of two coronary arteries	7923100	79231
+271101015	Prosthetic replacement of three coronary arteries	7923200	79232
+271102010	Prosthetic replacement of four or more coronary arteries	7923300	79233
+451132018	[V]Presence of coronary artery bypass graft	ZV45K00	ZV45K
+460686018	[V]Presence of aortocoronary bypass graft	ZV45700	ZV457
+1228282017	Saphenous vein graft replacement of coronary artery	7920.00	7920
+300956017	[X]Intracerebral haemorrhage in hemisphere, unspecified	Gyu6F00	Gyu6F
+453269016	[V]Status following coronary angioplasty NOS	ZV45L00	ZV45L
+1227364015	[V]Presence of coronary artery bypass graft - CABG	ZV45K11	ZV45K-1
+161491000006110	Saphenous vein graft replacement of four+ coronary arteries	7920300	79203
+744921000006116	Intracerebral haemorrhage in hemisphere, unspecified	G61X.00	G61X
+161481000006112	Saphenous vein graft replacement of coronary artery OS	7920y00	7920y
+543291000006110	Certain current complication follow acute myocardial infarct	G36..00	G36
+212061000006119	Postoperative transmural myocardial infarction anterior wall	G380.00	G380
+212071000006114	Postoperative transmural myocardial infarction inferior wall	G381.00	G381
+212091000006110	Postoperative transmural myocardial infarction unspec site	G383.00	G383

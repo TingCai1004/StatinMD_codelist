@@ -1,0 +1,2 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release
+88771000006117	TSH - thyroid stim. hormone	442A	442A.00	1027151000000105	88771000006117	

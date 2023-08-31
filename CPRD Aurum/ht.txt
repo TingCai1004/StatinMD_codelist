@@ -1,0 +1,26 @@
+MedCodeId	Term	CleansedReadCode	OriginalReadCode
+3135013	Benign essential hypertension	G201.00	G201
+93494011	Systolic hypertension	G202.00	G202
+53452019	Secondary hypertension	G24..00	G24
+64168014	Hypertensive disease	G2...00	G2
+99042012	Essential hypertension	G20..00	G20
+80224019	Diastolic hypertension	G203.00	G203
+299676019	Secondary malignant renovascular hypertension	G240000	G2400
+299678018	Secondary benign hypertension	G241.00	G241
+299681011	Hypertension secondary to endocrine disorders	G244.00	G244
+299684015	Hypertension secondary to drug	G24z100	G24z1
+2478822013	Secondary benign renovascular hypertension	G241000	G2410
+131046010	Malignant essential hypertension	G200.00	G200
+64172013	High blood pressure	G20..11	G20-1
+299677011	Secondary malignant hypertension NOS	G240z00	G240z
+299680012	Secondary benign hypertension NOS	G241z00	G241z
+299682016	Secondary hypertension NOS	G24zz00	G24zz
+299683014	Secondary renovascular hypertension NOS	G24z000	G24z0
+299686018	Other specified hypertensive disease	G2y..00	G2y
+299687010	Hypertensive disease NOS	G2z..00	G2z
+300870016	[X]Other secondary hypertension	Gyu2000	Gyu20
+395751018	Essential hypertension NOS	G20z.00	G20z
+151161000006115	Secondary malignant hypertension	G240.00	G240
+158241000006117	Secondary hypertension NOS	G24z.00	G24z
+790121000006116	Hypertension NOS	G20z.11	G20z-1
+300869017	[X]Hypertensive diseases	Gyu2.00	Gyu2

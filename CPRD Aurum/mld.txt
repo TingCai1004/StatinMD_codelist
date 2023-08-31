@@ -1,0 +1,47 @@
+MedCodeId	Term	CleansedReadCode	OriginalReadCode
+17930015	Chronic viral hepatitis	A707.00	A707
+132070012	Congenital hepatic fibrosis	Q48yz11	Q48yz-1
+95368015	Chronic lobular hepatitis	J614400	J6144
+69895016	Chronic persistent hepatitis	J614000	J6140
+103853010	Hepatic fibrosis	J61y400	J61y4
+286879013	Chronic viral hepatitis B without delta-agent	A707100	A7071
+293605014	Alpha-1-antitrypsin hepatitis	C376100	C3761
+303389011	Subacute yellow atrophy	J601200	J6012
+303401012	Chronic active hepatitis	J614100	J6141
+303404016	Autoimmune chronic active hepatitis	J614111	J6141-1
+303407011	Recurrent hepatitis	J614300	J6143
+303458013	Portal fibrosis without cirrhosis	J61y300	J61y3
+353567019	Nonspecific reactive hepatitis	J63y100	J63y1
+353580016	Chronic viral hepatitis B with delta-agent	A707000	A7070
+353587018	Alcoholic hepatitis	J617.00	J617
+353594015	Alcoholic fibrosis and sclerosis of liver	J612000	J6120
+353625019	Hepatic sclerosis	J61y500	J61y5
+353627010	Hepatic fibrosis with hepatic sclerosis	J61y600	J61y6
+264367013	Viral hepatitis carrier	65Q7.00	65Q7
+451124014	Chronic alcoholic hepatitis	J617000	J6170
+2159899016	Autoimmune hepatitis	J63B.00	J63B
+2619492010	Acute yellow atrophy	J600200	J6002
+2693857014	History of hepatitis B	141E.00	141E
+2819666013	Nonalcoholic steatohepatitis	J61y800	J61y8
+127487019	Chronic hepatitis	J614.00	J614
+2157051000000119	On hepatitis C treatment plan	9NgR.00	9NgR
+286871011	Viral hepatitis C without mention of hepatic coma	A705000	A7050
+303409014	Chronic hepatitis unspecified	J614y00	J614y
+303410016	Chronic hepatitis NOS	J614z00	J614z
+303456012	Other non-alcoholic chronic liver disease	J61y.00	J61y
+303464018	Other non-alcoholic chronic liver disease NOS	J61yz00	J61yz
+303465017	Chronic liver disease NOS	J61z.00	J61z
+303491016	Hepatitis in viral diseases EC	J631.00	J631
+459860017	[V]Hepatitis B carrier	ZV02B00	ZV02B
+460192013	[V]Viral hepatitis carrier	ZV02600	ZV026
+2474329018	[V]Hepatitis C carrier	ZV02C00	ZV02C
+61061000006116	Viral (serum) hepatitis B	A703.00	A703
+555881000006114	Chronic passive liver congestion	J630.00	J630
+557071000006112	Chronic viral hepatitis C	A707200	A7072
+557081000006110	Chronic viral hepatitis, unspecified	A707X00	A707X
+582851000006119	Congenital hepatitis B infection	Q409100	Q4091
+806841000006117	Granulomatous hepatitis, not elsewhere classified	J63X.00	J63X
+820371000006114	Hepatic familial steatosis	C32y511	C32y5-1
+820381000006112	Hepatic fibrosis	J615z15	J615z-5
+1680591000006117	Chronic hepatitis annual review - enhanced services admin	9kR..00	9kR
+1680661000006114	Hepatitis C screening positive - enhanced services admin	9kV..00	9kV

@@ -1,0 +1,7 @@
+MedCodeId	Term	CleansedReadCode	OriginalReadCode
+1735171000000110	Vitamin D level	4QB4.00	4QB4
+1735451000000111	Combined total vitamin D2 and D3 level	4QB4400	4QB44
+1748901000000112	25-Hydroxyvitamin D level	4QB4500	4QB45
+2108191000000115	Total 25-hydroxyvitamin D level	4QB4600	4QB46
+2402891000000110	Serum total 25-hydroxy vitamin D level	4QB4700	4QB47
+145751000006117	Serum vitamin D	44LA.00	44LA

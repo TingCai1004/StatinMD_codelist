@@ -1,0 +1,17 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	Deficit
+250548015	Lives alone -no help available	13F3	13F3.00	160726006	250548015	NA	Social vulnerability
+250612012	Social worker involved	13G4	13G4.00	160770002	250612012	NA	Social vulnerability
+251261013	Social problem	13Z8	13Z8.00	161152002	251261013	NA	Social vulnerability
+397966011	Lonely	1B1K	1B1K.00	267076002	397966011	NA	Social vulnerability
+449191017	Referral to Social Services	8HHB	8HHB.00	306238000	449191017	NA	Social vulnerability
+451772017	Refer to social worker	8H75	8H75.00	308440001	451772017	NA	Social vulnerability
+485552011	Widowed	1335	1335.00	33553000	485552011	NA	Social vulnerability
+2533392014	Does not have a carer	918V	918V.00	414041006	2533392014	NA	Social vulnerability
+2548392010	Vulnerable adult	133P	133P.00	417430008	2548392010	NA	Social vulnerability
+306581000000116	Under care of social services	9NNV	9NNV.00	201481000000104	306581000000116	NA	Social vulnerability
+494151000000119	Widowed/surviving civil partner	133V	133V.00	286141000000107	494151000000119	NA	Social vulnerability
+504820019	Housing problems	13EH	13EH.00	105531004	3304570013	NA	Social vulnerability
+284180012	Care/help refused by patient	8I5	8I5..00	183944003	284168016	NA	Social vulnerability
+169507013	Death of spouse	13M1	13M1.00	739677000	3537367011	NA	Social vulnerability
+216633014	Death of partner	13MF	13MF.00	722228009	3331265017	NA	Social vulnerability
+460970010	[V]Person living alone	ZV603	ZV60300	105529008	291148014	NA	Social vulnerability

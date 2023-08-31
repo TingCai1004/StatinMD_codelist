@@ -1,0 +1,37 @@
+MedCodeId	Term	CleansedReadCode	OriginalReadCode	range	label
+293634015	Drug-induced obesity	C380100	C3801	3	Obese
+293635019	Extreme obesity with alveolar hypoventilation	C380200	C3802	4	Morbidly obese
+356966014	Generalised obesity	C380500	C3805	3	Obese
+356968010	Morbid obesity	C380300	C3803	4	Morbidly obese
+370698013	Central obesity	C380400	C3804	3	Obese
+411922013	O/E - overweight	22A4.11	22A4-1	2	Overweight
+453856012	Body mass index less than 20	22K6.00	22K6	1	Underweight
+264757017	Treatment of obesity changed	66C5.00	66C5	3	Obese
+264758010	Treatment of obesity started	66C6.00	66C6	3	Obese
+264768017	Reason for obesity therapy - occupational	66CE.00	66CE	3	Obese
+2160062010	Body mass index 40+ - severely obese	22K7.00	22K7	4	Morbidly obese
+2474325012	Body mass index 20-24 - normal	22K8.00	22K8	0	Normal
+2535065012	Obesity	C380.00	C380	3	Obese
+2537960015	Obesity due to excess calories	C380000	C3800	3	Obese
+558771000000115	Weight gain diet	8B5B.00	8B5B	1	Underweight
+567001000000116	Counterweight programme	6B4..11	6B4-1	3	Obese
+253576010	O/E - obese	22A5.11	22A5-1	3	Obese
+253687013	O/E - Underweight	22A6.00	22A6	1	Underweight
+253847018	Body mass index index 25-29 - overweight	22K4.00	22K4	2	Overweight
+253848011	Body mass index 30+ - obesity	22K5.00	22K5	3	Obese
+253844013	Body mass index normal K/M2	22K1.00	22K1	0	Normal
+253845014	Body mass index high K/M2	22K2.00	22K2	3	Obese
+253846010	Body mass index low K/M2	22K3.00	22K3	1	Underweight
+293631011	Obesity and other hyperalimentation	C38..00	C38	3	Obese
+293802014	[X]Obesity and other hyperalimentation	Cyu7.00	Cyu7	3	Obese
+293803016	[X]Other obesity	Cyu7000	Cyu70	3	Obese
+451432013	Simple obesity NOS	C38z000	C38z0	3	Obese
+2159952010	[D]Underweight	R034800	R0348	1	Underweight
+280881000006115	O/E - obese	222A.00	222A	3	Obese
+628891000000118	Counterweight weight management programme	6B4..00	6B4	3	Obese
+293650011	Obesity and other hyperalimentation NOS	C38z.00	C38z	3	Obese
+1808061000006114	Body mass index less than 18.5		EMISNQBO29	1	Underweight
+1808071000006119	Body mass index 18.5-24.9		JHCBO5	0	Normal
+1900331000006113	Obese class III (BMI equal to or greater than 40.0)	22KE.00	22KE	4	Morbidly obese
+981731000006117	Overweight: adult BMI 25.0; child BMI 95th percentile; or more		EMISCOV1	2	Overweight
+981741000006110	Underweight: adult BMI 18.5; child BMI 5th percentile; or less		EMISCUN18	1	Underweight

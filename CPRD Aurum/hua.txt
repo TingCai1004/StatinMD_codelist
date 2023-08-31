@@ -1,0 +1,55 @@
+MedCodeId	Term	CleansedReadCode	OriginalReadCode
+16455010	Gouty neuritis	C34y400	C34y4
+45604013	Gouty tophi of heart	G557300	G5573
+72069017	Gouty iritis	C34y300	C34y3
+80709010	Gouty arthritis	N023.00	N023
+293392012	Gouty arthropathy	C340.00	C340
+293394013	Gouty nephropathy	C341.00	C341
+293410018	Gouty tophi of hand	C34y500	C34y5
+309674019	Gouty arthritis of the shoulder region	N023100	N0231
+309677014	Gouty arthritis of the hand	N023400	N0234
+309680010	Gouty arthritis of the ankle and foot	N023700	N0237
+309681014	Gouty arthritis of multiple sites	N023x00	N023x
+354501012	Urate nephropathy	C372400	C3724
+354502017	Uric acid nephropathy	C372411	C3724-1
+354503010	Acute urate nephropathy	C372500	C3725
+359372019	Gout due to impairment of renal function	C345.00	C345
+359373012	Drug-induced gout	C344.00	C344
+150085018	Gout	C34..00	C34
+251601017	H/O: gout	1443.00	1443
+398876010	Uric acid nephrolithiasis	C341100	C3411
+404481017	Blood urate raised	44K2.00	44K2
+404564011	O/E-vesical uric acid calculus	4G82.00	4G82
+406707017	Uric acid bladder stone	4G82.11	4G82-1
+458336016	Calculus uric acid content	4G97.00	4G97
+264664010	Gout monitoring	669..00	669
+264665011	Initial gout assessment	6691.00	6691
+264666012	Follow-up gout assessment	6692.00	6692
+264667015	Joints gout affected	6693.00	6693
+264669017	Date gout treatment started	6695.00	6695
+264670016	Date of last gout attack	6696.00	6696
+264673019	Gout treatment changed	6699.00	6699
+264674013	Date gout treatment stopped	669A.00	669A
+481958014	Idiopathic gout	C342.00	C342
+486302011	Hyperuricaemia	44K2.11	44K2-1
+261022010	O/E: uric acid renal calculus	4G43.00	4G43
+261063016	Calculus = uric acid	4GA5.00	4GA5
+2695828012	Gouty arthritis of toe	N023800	N0238
+351821000000119	Hyperuricaemia drugs Band 1	7Q0B100	7Q0B1
+25080011	Gouty tophi of ear	C34y000	C34y0
+264675014	Gout monitoring NOS	669Z.00	669Z
+293400010	Gouty nephropathy NOS	C341z00	C341z
+293405017	Other specified gouty manifestation	C34y.00	C34y
+293407013	Gouty tophi of other sites	C34y200	C34y2
+293411019	Other specified gouty manifestation NOS	C34yz00	C34yz
+293412014	Gout NOS	C34z.00	C34z
+309675018	Gouty arthritis of the upper arm	N023200	N0232
+309676017	Gouty arthritis of the forearm	N023300	N0233
+309679012	Gouty arthritis of the lower leg	N023600	N0236
+309682019	Gouty arthritis of other specified site	N023y00	N023y
+309683012	Gouty arthritis NOS	N023z00	N023z
+177221000006111	Renal stone - uric acid	C341111	C3411-1
+806061000006113	Gouty tophi of heart	C34y100	C34y1
+264671017	Gout associated problems	6697.00	6697
+264672012	Gout drug side effects	6698.00	6698
+312525018	[X]Other secondary gout	Nyu1700	Nyu17

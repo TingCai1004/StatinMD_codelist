@@ -1,0 +1,334 @@
+MedCodeId	Term	CleansedReadCode	OriginalReadCode
+1409014	Benign hypertensive renal disease	G221.00	G221
+4074014	Renal tubular acidosis	K08y400	K08y4
+28321015	Renal osteodystrophy	K080.00	K080
+28322010	Renal rickets	K080300	K0803
+30043012	Mechanical complication of dialysis catheter	SP01500	SP015
+32619017	Acute glomerulonephritis	K00..00	K00
+35171019	Chronic glomerulonephritis	K02..00	K02
+39884018	Calculous pyelonephritis	K100600	K1006
+205225016	Diabetic nephropathy	C104.11	C104-1
+91216016	Hypokalaemic nephropathy	K08y000	K08y0
+47940012	Acute interstitial nephritis	K08y500	K08y5
+61206018	Acute pyelonephritis	K101.00	K101
+61575019	Renal dwarfism	K080100	K0801
+64282015	Hypertensive renal disease	G22..00	G22
+65241012	Xanthogranulomatous pyelonephritis	K104.00	K104
+98667016	Analgesic nephropathy	K0C0.00	K0C0
+81307015	Congenital nephrotic syndrome	K01w.00	K01w
+86957016	Nephrotic syndrome	K01..00	K01
+272320011	Allotransplantation of kidney from live donor	7B00111	7B001-1
+272389014	Exploration of renal transplant	7B06300	7B063
+102173012	Acute nephritis	K00..11	K00-1
+143003017	Hypertensive heart AND renal disease	G23..00	G23
+105227013	Chronic pyelonephritis	K100.00	K100
+108231015	Tuberculous pyelonephritis	A160200	A1602
+108730018	Malignant hypertensive renal disease	G220.00	G220
+109700019	Benign hypertensive heart AND renal disease	G231.00	G231
+278844014	Insertion of temporary peritoneal dialysis catheter	7L1C000	7L1C0
+284213011	Renal transplant planned	8L50.00	8L50
+286285014	Tuberculous nephropathy	A160000	A1600
+287143014	Plasmodium malariae malaria with nephropathy	A844100	A8441
+293394013	Gouty nephropathy	C341.00	C341
+110659019	Malignant hypertensive heart AND renal disease	G230.00	G230
+299673010	Hypertensive heart and renal disease with renal failure	G233.00	G233
+299885017	Acute pericarditis - uraemic	G500400	G5004
+303806010	Nephritis, nephrosis and nephrotic syndrome	K0...00	K0
+303812017	Acute proliferative glomerulonephritis	K000.00	K000
+303814016	Acute nephritis with lesions of necrotising glomerulitis	K001.00	K001
+303816019	Acute glomerulonephritis in diseases EC	K00y000	K00y0
+303817011	Acute exudative nephritis	K00y100	K00y1
+303818018	Acute focal nephritis	K00y200	K00y2
+303819014	Acute diffuse nephritis	K00y300	K00y3
+303825013	Nephrotic syndrome with proliferative glomerulonephritis	K010.00	K010
+303826014	Nephrotic syndrome with membranous glomerulonephritis	K011.00	K011
+303832016	Nephrotic syndrome, minor glomerular abnormality	K014.00	K014
+303833014	Nephrotic syndrome, focal and segmental glomerular lesions	K015.00	K015
+303834015	Nephrotic syndrome, diffuse membranous glomerulonephritis	K016.00	K016
+303838017	Nephrotic syndrome, dense deposit disease	K01A.00	K01A
+303839013	Nephrotic syndrome, diffuse crescentic glomerulonephritis	K01B.00	K01B
+303845017	Nephrotic syndrome in amyloidosis	K01x000	K01x0
+303846016	Nephrotic syndrome in diabetes mellitus	K01x100	K01x1
+303849011	Nephrotic syndrome in polyarteritis nodosa	K01x300	K01x3
+303867016	Chronic focal glomerulonephritis	K02y200	K02y2
+303868014	Chronic diffuse glomerulonephritis	K02y300	K02y3
+303877019	Focal membranoproliferative glomerulonephritis	K032000	K0320
+303881019	Anaphylactoid glomerulonephritis	K032300	K0323
+303884010	Berger's IgA or IgG nephropathy	K032600	K0326
+303943013	Impaired renal function disorder	K08..00	K08
+303944019	Phosphate-losing tubular disorders	K080000	K0800
+303951011	Renal function impairment with growth failure	K08y300	K08y3
+303977015	Rapidly progressive nephritic syndrome	K0A1.00	K0A1
+304004016	Chronic nephritic syndrome	K0A3.00	K0A3
+304005015	Chronic nephritic syndrome, minor glomerular abnormality	K0A3000	K0A30
+304011017	Chronic nephritic syndrome, dense deposit disease	K0A3600	K0A36
+304061014	Chronic pyelonephritis with medullary necrosis	K100100	K1001
+304068015	Acute pyelonephritis without medullary necrosis	K101000	K1010
+304087014	Pyelonephritis in diseases EC	K10y300	K10y3
+114310015	Lupus nephritis	K01x411	K01x4-1
+118218017	Peritoneal dialysis	7L1A100	7L1A1
+324973015	Kidney transplant failure and rejection	SP08300	SP083
+329116017	Failure of sterile precautions during kidney dialysis	TA22000	TA220
+354318012	Renal acidaemia	K08yz11	K08yz-1
+354330018	Chronic obstructive pyelonephritis	K100500	K1005
+354379014	IgA nephropathy	K0A2800	K0A28
+354406016	Renal impairment	K060.00	K060
+354407013	Impaired renal function	K060.11	K060-1
+354409011	Chronic renal impairment	1Z1..00	1Z1
+354413016	Acute drug-induced renal failure	K043.00	K043
+354514013	Henoch-Schonlein nephritis	D310100	D3101
+355552016	Uraemia in pregnancy without hypertension	L162.13	L162-3
+357219012	Continuous ambulatory peritoneal dialysis	7L1A500	7L1A5
+359372019	Gout due to impairment of renal function	C345.00	C345
+251763010	H/O: nephritis	14D1.00	14D1
+251956015	H/O: kidney dialysis	14V2.11	14V2-1
+251957012	H/O: renal dialysis	14V2.00	14V2
+394365013	Transplant nephrectomy	7B01500	7B015
+394639018	Compensation for renal failure	7L1A.00	7L1A
+394640016	Renal dialysis	7L1A000	7L1A0
+396706011	Nephrotic syndrome with minimal change glomerulonephritis	K013.00	K013
+400871016	Fibrocystic kidney disease	PD1y000	PD1y0
+402249011	Congenital renal failure	Q48y000	Q48y0
+403109016	Renal failure as a complication of care	SP15400	SP154
+403110014	Kidney failure as a complication of care	SP15411	SP154-1
+405116017	Acute renal medullary necrosis	K042.00	K042
+411547015	H/O: kidney disease	14D..11	14D-1
+422992018	Excision of rejected transplanted kidney	7B01511	7B015-1
+454255014	Anaemia secondary to renal failure	D215.00	D215
+499033018	Acute nephritic syndrome	K0A0.00	K0A0
+501594013	Transplantation of kidney	7B00.00	7B00
+505126019	Polycystic kidney disease	PD11.00	PD11
+509108014	Chronic uraemia	K05..11	K05-1
+509111010	Chronic renal failure	K05..00	K05
+1230634013	Nephropathic amyloidosis	C373600	C3736
+119846018	Nephrogenic diabetes insipidus	K081.00	K081
+2645965011	Stenosis of arteriovenous dialysis fistula	SP07G00	SP07G
+2675886019	Creation of graft fistula for dialysis	7A60600	7A606
+2692168016	Automated peritoneal dialysis	7L1A400	7L1A4
+304031000000117	Chronic kidney disease stage 1	1Z10.00	1Z10
+304051000000112	Chronic kidney disease stage 2	1Z11.00	1Z11
+304071000000115	Chronic kidney disease stage 3	1Z12.00	1Z12
+304091000000116	Chronic kidney disease stage 4	1Z13.00	1Z13
+304111000000114	Chronic kidney disease stage 5	1Z14.00	1Z14
+366671000000118	Interventions associated with transplantation of kidney	7B0F.00	7B0F
+386181000000111	Pre-transplantation of kidney work-up, recipient	7B0F100	7B0F1
+406821000000110	Chronic kidney disease monitoring administration	9Ot..00	9Ot
+407481000000111	Chronic kidney disease monitoring	66i..00	66i
+408261000000119	Chronic kidney disease monitoring first letter	9Ot0.00	9Ot0
+408281000000111	Chronic kidney disease monitoring second letter	9Ot1.00	9Ot1
+408301000000112	Chronic kidney disease monitoring third letter	9Ot2.00	9Ot2
+408321000000115	Chronic kidney disease monitoring verbal invite	9Ot3.00	9Ot3
+408341000000110	Chronic kidney disease monitoring telephone invite	9Ot4.00	9Ot4
+408381000000119	Chronic kidney disease annual review	6AA..00	6AA
+460081000006113	Acute renal cortical necrosis	K041.00	K041
+557811000000119	Chronic kidney disease stage 3A	1Z15.00	1Z15
+557831000000110	Chronic kidney disease stage 3B	1Z16.00	1Z16
+595541000000119	Chronic kidney disease stage 1 with proteinuria	1Z17.00	1Z17
+595601000000118	Chronic kidney disease stage 1 without proteinuria	1Z18.00	1Z18
+595661000000119	Chronic kidney disease stage 2 with proteinuria	1Z19.00	1Z19
+595721000000116	Chronic kidney disease stage 2 without proteinuria	1Z1A.00	1Z1A
+595811000000117	Chronic kidney disease stage 3 with proteinuria	1Z1B.00	1Z1B
+595871000000110	Chronic kidney disease stage 3 without proteinuria	1Z1C.00	1Z1C
+595931000000116	Chronic kidney disease stage 3A with proteinuria	1Z1D.00	1Z1D
+595991000000115	Chronic kidney disease stage 3A without proteinuria	1Z1E.00	1Z1E
+596051000000115	Chronic kidney disease stage 3B with proteinuria	1Z1F.00	1Z1F
+596131000000114	Chronic kidney disease stage 3B without proteinuria	1Z1G.00	1Z1G
+596191000000110	Chronic kidney disease stage 4 with proteinuria	1Z1H.00	1Z1H
+596261000000111	Chronic kidney disease stage 4 without proteinuria	1Z1J.00	1Z1J
+596321000000110	Chronic kidney disease stage 5 with proteinuria	1Z1K.00	1Z1K
+596401000000111	Chronic kidney disease stage 5 without proteinuria	1Z1L.00	1Z1L
+637771000000113	Ligation of arteriovenous dialysis fistula	7A61900	7A619
+136885015	Congenital cystic kidney disease	PD1..00	PD1
+150798017	Salt-losing nephritis	K13yz11	K13yz-1
+249896014	Haemorrhagic nephrosonephritis	A786.00	A786
+272326017	Other specified transplantation of kidney	7B00y00	7B00y
+272327014	Transplantation of kidney NOS	7B00z00	7B00z
+278832011	Haemodialysis NEC	7L1A200	7L1A2
+278835013	Compensation for renal failure NOS	7L1Az00	7L1Az
+292496015	Diabetes mellitis with nephropathy NOS	C104z00	C104z
+293400010	Gouty nephropathy NOS	C341z00	C341z
+299675015	Hypertensive heart and renal disease NOS	G23z.00	G23z
+300871017	[X]Hypertension secondary to other renal disorders	Gyu2100	Gyu21
+303815015	Other acute glomerulonephritis	K00y.00	K00y
+303820015	Other acute glomerulonephritis NOS	K00yz00	K00yz
+303824012	Acute glomerulonephritis NOS	K00z.00	K00z
+303854019	Nephrotic syndrome with other pathological kidney lesions	K01y.00	K01y
+303855018	Nephrotic syndrome NOS	K01z.00	K01z
+303864011	Other chronic glomerulonephritis	K02y.00	K02y
+303869018	Other chronic glomerulonephritis NOS	K02yz00	K02yz
+303870017	Chronic glomerulonephritis NOS	K02z.00	K02z
+303874014	Proliferative nephritis unspecified	K030.00	K030
+303875010	Membranous nephritis unspecified	K031.00	K031
+303876011	Membranoproliferative nephritis unspecified	K032.00	K032
+303883016	Other familial glomerulonephritis	K032500	K0325
+303894017	Rapidly progressive nephritis unspecified	K033.00	K033
+303895016	Renal cortical necrosis unspecified	K034.00	K034
+303896015	Renal medullary necrosis unspecified	K035.00	K035
+303902013	Other nephritis and nephrosis unspecified	K03y.00	K03y
+303903015	Other nephritis and nephrosis in diseases EC	K03y000	K03y0
+303905010	Other interstitial nephritis	K03y200	K03y2
+303906011	Other nephritis and nephrosis NOS	K03yz00	K03yz
+303907019	Unspecified glomerulonephritis NOS	K03z.00	K03z
+303915016	Other acute renal failure	K04y.00	K04y
+303916015	Acute renal failure NOS	K04z.00	K04z
+303946017	Renal infantilism	K080200	K0802
+303948016	Renal osteodystrophy NOS	K080z00	K080z
+303949012	Other impaired renal function disorder	K08y.00	K08y
+303960015	Impaired renal function disorder NOS	K08z.00	K08z
+304026015	Hereditary nephropathy not elsewhere classified	K0A5.00	K0A5
+304054010	Toxic nephropathy, not elsewhere classified	K0C4.00	K0C4
+304056012	Other specified nephritis, nephrosis or nephrotic syndrome	K0y..00	K0y
+304058013	Nephritis, nephrosis and nephrotic syndrome NOS	K0z..00	K0z
+304067013	Chronic pyelonephritis NOS	K100z00	K100z
+304071011	Acute pyelonephritis NOS	K101z00	K101z
+304083013	Pyelonephritis and pyonephrosis unspecified	K10y.00	K10y
+304084019	Pyelonephritis unspecified	K10y000	K10y0
+304090015	Unspecified pyelonephritis NOS	K10yz00	K10yz
+304169013	Kidney and ureter disease NOS	K13z.00	K13z
+305191012	[X]Other acute renal failure	Kyu2000	Kyu20
+305192017	[X]Other chronic renal failure	Kyu2100	Kyu21
+305569011	Renal failure following abortive pregnancy	L093.00	L093
+305575019	Uraemia following abortive pregnancy	L093400	L0934
+305944016	Unspecified renal disease in pregnancy unspecified	L162000	L1620
+305945015	Unspecified renal disease in pregnancy - delivered	L162100	L1621
+314302019	Other specified congenital cystic kidney disease	PD1y.00	PD1y
+314306016	Other congenital cystic kidney disease NOS	PD1yz00	PD1yz
+314307013	Congenital cystic kidney disease NOS	PD1z.00	PD1z
+315750010	[X]Other cystic kidney diseases	Pyu7000	Pyu70
+354317019	Other kidney disorders	K13..11	K13-1
+354320010	Nephropathy, unspecified	K03..12	K03-2
+354346014	Mixed membranous and proliferative glomerulonephritis NEC	K032y15	K032y-5
+354347017	Mesangioproliferative glomerulonephritis NEC	K032y13	K032y-3
+354349019	Hypocomplementaemic persistent glomerulonephritis NEC	K032y11	K032y-1
+354380012	Mesangiocapillary glomerulonephritis NEC	K032y14	K032y-4
+355554015	Nephropathy NOS in pregnancy without hypertension	L162.12	L162-2
+377976016	Cystic kidney disease NEC	PD11z11	PD11z-1
+395753015	Hypertensive renal disease NOS	G22z.00	G22z
+396707019	Nephritis and nephropathy unspecified	K03..11	K03-1
+396711013	Renal failure unspecified	K06..00	K06
+396713011	Other impaired renal function disorder NOS	K08yz00	K08yz
+396717012	Other kidney and ureter disorders	K13..00	K13
+396719010	Renal vascular disorders NOS	K138z00	K138z
+396721017	Other kidney and ureteric disorders NOS	K13yz00	K13yz
+398347019	Unspecified renal disease in pregnancy	L162.00	L162
+453312018	[X] Peritoneal dialysis associated peritonitis	SP05613	SP056-3
+460680012	[V]Renal dialysis status	ZV45100	ZV451
+27451000006113	Other kidney and ureteric disorders	K13y.00	K13y
+65751000006117	Vascular disorders of kidney	K138.00	K138
+73141000006114	Uraemia - post operative	SP15413	SP154-3
+73171000006118	Uraemia NOS	K06..11	K06-1
+81261000006110	Unsp nephrit synd, diff mesang prolif glomerulonephritis	K03X.00	K03X
+83331000006110	Tubulo-interstit nephritis, not specif as acute or chron	K03T.00	K03T
+84551000006113	Type 2 diabetes mellitus with nephropathy	C109C12	C109C-2
+84741000006118	Type I diabetes mellitus with nephropathy	C108D11	C108D-1
+84921000006110	Type II diabetes mellitus with nephropathy	C109C11	C109C-1
+90461000006118	Transplantation of kidney from cadaver	7B00200	7B002
+90471000006113	Transplantation of kidney from live donor	7B00100	7B001
+127091000006118	Steroid sensitive nephrotic syndrome	K013.12	K013-2
+165061000006114	Rpd prog neph syn df mesangial prolifratv glomerulonephritis	K0A1300	K0A13
+218351000000112	Post operative renal failure	SP15412	SP154-2
+228101000006113	Placement ambulatory apparatus compensation renal failure	7L1B.00	7L1B
+228121000006115	Placement ambulatory apparatus- compensate renal failure OS	7L1By00	7L1By
+228131000006117	Placement ambulatory dialysis apparatus - compens renal fail	7L1B.11	7L1B-1
+228211000006117	Placement other apparatus for compensation for renal failure	7L1C.00	7L1C
+228221000006113	Placement other apparatus- compensate for renal failure NOS	7L1Cz00	7L1Cz
+280531000006119	Non-insulin dependent diabetes mellitus with nephropathy	C109C00	C109C
+372621000000114	Allotransplantation of kidney from cadaver, heart-beating	7B00300	7B003
+375841000000114	Peritoneal dialysis NEC	7L1A600	7L1A6
+384641000006114	[X]Failure sterile precautions dur kidney dialys/other perf	U612200	U6122
+399791000006112	[X]Nephropathy induced by other drugs+biological substances	Kyu1400	Kyu14
+409591000006112	[X]Other disorders resulting/impaired renal tubular function	Kyu4000	Kyu40
+424731000006111	[X]Renal failure	Kyu2.00	Kyu2
+424761000006119	[X]Renal tubulo-interstitial diseases	Kyu1.00	Kyu1
+430101000006111	[X]Unsp nephrit synd, diff mesang prolif glomerulonephritis	Kyu0900	Kyu09
+441151000006115	Accid cut,puncture,perf,h'ge - kidney dialysis	TA02000	TA020
+455321000006114	Acut neph syn, diffuse mesangial prolifrative glomnephritis	K0A0300	K0A03
+458441000006117	Acute neph syn, diffuse mesangiocapillary glomerulonephritis	K0A0500	K0A05
+458451000006115	Acute nephritic syn, diffuse membranous glomerulonephritis	K0A0200	K0A02
+458481000006111	Acute nephritic syndrome, focal+segmental glomerular lesions	K0A0100	K0A01
+458521000006111	Acute nephrotic syndrm diffuse crescentic glomerulonephritis	K0A0700	K0A07
+460091000006111	Acute renal failure	K04..00	K04
+460151000006118	Acute renal tubular necrosis	K040.00	K040
+478131000006115	Allotransplantation of kidney from cadaver	7B00211	7B002-1
+480871000006117	Anaemia secondary to chronic renal failure	D215000	D2150
+500371000006119	Autotransplant of kidney	7B00000	7B000
+553181000006118	Chron neph syn difus mesangial prolifrtiv glomerulonephritis	K0A3300	K0A33
+553201000006117	Chron nephritic syndrom difuse membranous glomerulonephritis	K0A3200	K0A32
+554481000006111	Chronic glomerulonephritis + diseases EC	K02y000	K02y0
+555191000006119	Chronic membranoproliferative glomerulonephritis	K022.00	K022
+555201000006116	Chronic membranous glomerulonephritis	K021.00	K021
+555371000006118	Chronic neph syn difus mesangiocapillary glomerulonephritis	K0A3500	K0A35
+555381000006115	Chronic nephritic syn diffuse crescentic glomerulonephritis	K0A3700	K0A37
+555391000006117	Chronic nephritic syndrm focal+segmental glomerular lesions	K0A3100	K0A31
+556211000006112	Chronic proliferative glomerulonephritis	K020.00	K020
+581531000006115	Congenital cystic renal disease	PD1..11	PD1-1
+585761000006118	Nonobstructive reflux-associated chronic pyelonephritis	K100400	K1004
+176711000006111	Renal dialysis with complication, without blame	TB11.11	TB11-1
+177251000006119	Renal transplant with complication, without blame	TB00111	TB001-1
+177301000006114	Renal tubulo-interstitial disorder in SLE	K0B4000	K0B40
+177311000006112	Renal tubulo-interstitial disorder/ neoplastic diseases	K0B1.00	K0B1
+177321000006116	Renal tubulo-interstitial disorders in diseases EC	K0B..00	K0B
+177341000006111	Renal tubulo-interstitial disordrs in transplant rejectn	K0B5.00	K0B5
+177361000006110	Renal vascular disorders	K138.11	K138-1
+619541000006116	Dialysis for renal failure	7L1A.11	7L1A-1
+641471000006117	End stage renal failure	K05..12	K05-2
+666291000006116	Familial glomerulonephritis in Alport's syndrome	K032400	K0324
+670591000006111	Fetus or neonate affected by maternal renal/urinary disease	Q001.00	Q001
+677461000006115	Nephrotic syn difus mesangial prolifertiv glomerulonephritis	K017.00	K017
+677471000006110	Nephrotic syn,diffuse mesangiocapillary glomerulonephritis	K019.00	K019
+677481000006113	Nephrotic syn,difus endocapilary proliftv glomerulonephritis	K018.00	K018
+677561000006119	Nephrotic syndrome in systemic lupus erythematosus	K01x400	K01x4
+677941000006114	Nephritis - chronic	K02..11	K02-1
+677951000006111	Nephritis and nephropathy unspecified	K03..00	K03
+677971000006118	Nephritis unsp+membranoprolif glomerulonephritis lesion NOS	K032z00	K032z
+677981000006115	Nephritis unsp+OS membranoprolif glomerulonephritis lesion	K032y00	K032y
+678061000006111	Nephropathy - chronic	K02..12	K02-2
+678081000006118	Nephropathy induced by other drugs meds and biologl substncs	K0C1.00	K0C1
+741701000006114	Hypertensive heart&renal dis wth (congestive) heart failure	G232.00	G232
+745481000006111	Isoltd prteinur+specfd morph les df mesangiocap glomnephr	K0A4500	K0A45
+754061000006111	Kidney transplant with complication, without blame	TB00100	TB001
+754781000006116	Kidney dialysis with complication, without blame	TB11.00	TB11
+773041000006111	Insertion of ambulatory peritoneal dialysis catheter	7L1B000	7L1B0
+811521000006115	H/O: renal disease	14D..12	14D-2
+813941000006115	Haemolytic-uraemic syndrome	D111300	D1113
+821431000006113	Hereditary nephropathy NEC, minor glomerular abnormality	K0A5000	K0A50
+821441000006115	Hereditary nephropathy NEC,focal+segmnt glomerular lesion	K0A5100	K0A51
+821461000006116	Hereditary nephropathy, NEC, dense deposit disease	K0A5600	K0A56
+821471000006111	Hereditary nephropathy, unspecif morphological changes	K0A5X00	K0A5X
+821711000006113	Hereditry nephropathy NEC,difus membran glomerulnephritis	K0A5200	K0A52
+821741000006112	Heredtry nephrpthy NEC difus mesangial prolif glomnephrit	K0A5300	K0A53
+913841000006116	Type 1 diabetes mellitus with nephropathy	C10ED00	C10ED
+914261000006119	Type 2 diabetes mellitus with nephropathy	C10FC00	C10FC
+1549841000006116	Allotransplantation kidney from cadaver, heart non-beating	7B00400	7B004
+1705781000006113	Acute renal failure due to urinary obstruction	K044.00	K044
+181021000006119	Removal of ambulatory peritoneal dialysis catheter	7L1B100	7L1B1
+278834012	Other specified compensation for renal failure	7L1Ay00	7L1Ay
+303863017	Chronic rapidly progressive glomerulonephritis	K023.00	K023
+400870015	Polycystic kidney disease NOS	PD11z00	PD11z
+678091000006115	Nephropathy induced by unspec drug medicament or biol subs	K0C2.00	K0C2
+771391000006117	Insulin dependent diabetes mellitus with nephropathy	C108D00	C108D
+299665018	Hypertensive renal disease with renal failure	G222.00	G222
+305196019	[X]Other disorders of kidney and ureter	Kyu4.00	Kyu4
+460644012	[V]Kidney transplanted	ZV42000	ZV420
+305198018	[X]Other specified disorders of kidney and ureter	Kyu4100	Kyu41
+81251000006113	Unsp nephrit synd, diff endocap prolif glomerulonephritis	K03W.00	K03W
+81581000006119	Unspecif nephr synd, diff concentric glomerulonephritis	K03U.00	K03U
+641491000006116	End-stage renal disease	K0D..00	K0D
+460910019	[V]Aftercare involving intermittent dialysis	ZV56.00	ZV56
+460912010	[V]Preparatory care for dialysis	ZV56100	ZV561
+460913017	[V]Other specified aftercare involving intermittent dialysis	ZV56y00	ZV56y
+460914011	[V]Unspecified aftercare involving intermittent dialysis	ZV56z00	ZV56z
+461420012	[X]Other dialysis	ZVu3G00	ZVu3G
+1227722017	[V]Aftercare involving renal dialysis NOS	ZV56011	ZV560-1
+1227723010	[V]Aftercare involving peritoneal dialysis	ZV56y11	ZV56y-1
+77541000006113	Unspecified nephritic syndrome, dense deposit disease	K03V.00	K03V
+189131000006116	Recur+persist haematuria difus crescentic glomerulonephritis	K0A2700	K0A27
+189141000006114	Recur+persist haematuria difus membranous glomerulonephritis	K0A2200	K0A22
+189171000006118	Recur+persist haemuria df mesangial prolif glomerulnephritis	K0A2300	K0A23
+189181000006115	Recur+persist hmuria df mesangiocapilary glomerulonephritis	K0A2500	K0A25
+191861000006119	Rapid progres neph syn diffuse membranous glomerulonephritis	K0A1200	K0A12
+191881000006112	Rapid progres nephritic syn df crescentic glomerulonephritis	K0A1700	K0A17
+191891000006110	Rapid progres nephritic syn focal+segmental glomerulr lesion	K0A1100	K0A11
+191901000006114	Rapid progressive nephritic syndrome, dense deposit disease	K0A1600	K0A16
+215061000006110	Polyneuropathy in uraemia	F374A00	F374A
+215521000000116	End stage renal failure	K050.00	K050

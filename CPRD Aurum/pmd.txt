@@ -1,0 +1,304 @@
+MedCodeId	Term	CleansedReadCode	OriginalReadCode
+6839012	Polymyositis ossificans	N231400	N2314
+9822014	Spinal muscular atrophy	F151.00	F151
+131869012	Removal of foreign body from muscle	7H56700	7H567
+133866014	Orbital myositis	F4G1200	F4G12
+91494016	Muscle contracture	N238.00	N238
+93019012	Interstitial myositis	N23y000	N23y0
+49663011	Infective myositis	N230.00	N230
+50767015	Purulent myositis	N230.11	N230-1
+50768013	Suppurative myositis	N230.12	N230-2
+52463013	Polymyositis	N004.00	N004
+60313014	Excision of muscle	7H51.00	7H51
+63322014	Repair of serratus anterior muscle	7H53300	7H533
+95409010	Exploration of muscle	7H56300	7H563
+136147016	Myotubular myopathy	F390300	F3903
+137233019	Progressive myositis ossificans	N231100	N2311
+80869018	Muscle strain	N23yD00	N23yD
+275742017	Intrinsic muscle transfer	7H40J00	7H40J
+275866015	Extirpation of lesion of muscle	7H52.00	7H52
+275868019	Destruction of lesion of muscle	7H52100	7H521
+275883012	Release of contracture of muscle	7H54.00	7H54
+275894011	Release of sternomastoid muscle	7H54400	7H544
+275901010	Biopsy of muscle	7H55.00	7H55
+275902015	Biopsy of neuromuscular junction	7H55000	7H550
+275904019	Biopsy of muscle for physiological or biochemical study	7H55200	7H552
+275914011	Stretching of muscle	7H56200	7H562
+275915012	Drainage of muscle	7H56500	7H565
+275916013	Incision of muscle	7H56600	7H566
+275919018	Release of muscle origin	7H56900	7H569
+254892016	O/E-muscle hypertrophy present	2933.00	2933
+254899013	O/E - muscle tone hypertonic	2942.00	2942
+254904012	O/E - muscle tone hypotonic	2945.00	2945
+254905013	O/E - muscle tone atonic	2946.00	2946
+254906014	O/E - atonic muscle	2946.11	2946-1
+254908010	O/E - muscle tone spastic	2948.00	2948
+254910012	O/E - muscular irritability	2952.00	2952
+254911011	O/E - muscle irritable	295..11	295-1
+254915019	O/E - muscle contracture	296..00	296
+254917010	O/E - muscle contraction	2962.00	2962
+254965011	O/E - muscle power reduced	29A2.00	29A2
+254966012	O/E - muscle power unequal	29A3.00	29A3
+254967015	O/E - muscle power absent	29A4.00	29A4
+147444011	Progressive muscular atrophy	F152100	F1521
+108529013	Polymyalgia rheumatica	N20..00	N20
+297605010	Benign congenital myopathy	F390000	F3900
+297608012	Hereditary progressive muscular dystrophy	F391.00	F391
+297610014	Pelvic muscular dystrophy	F391200	F3912
+297637011	Symptomatic inflammatory myopathy in disease EC	F396.00	F396
+297639014	Myopathy due to disseminated lupus erythematosus	F396100	F3961
+297640011	Myopathy due to polyarteritis nodosa	F396300	F3963
+297641010	Myopathy due to rheumatoid arthritis	F396400	F3964
+297643013	Myopathy due to sarcoidosis	F396500	F3965
+297644019	Myopathy due to scleroderma	F396600	F3966
+297645018	Myopathy due to Sjogren's disease	F396700	F3967
+297647014	Proximal myopathy	F397.00	F397
+111210017	Toxic myopathy	F394.00	F394
+301719013	Lung disease with polymyositis	H57y100	H57y1
+112508017	Ocular muscular dystrophy	F391600	F3916
+114543015	Muscle pain	N241012	N2410-2
+311572016	Infective myositis-neck	N230000	N2300
+311573014	Infective myositis-back	N230100	N2301
+311577010	Infective myositis-hand	N230500	N2305
+311579013	Infective myositis-thigh	N230700	N2307
+311580011	Infective myositis-leg	N230800	N2308
+311582015	Muscle abscess	N230A00	N230A
+311583013	Muscle abscess-neck	N230B00	N230B
+311584019	Muscle abscess-back	N230C00	N230C
+311585018	Muscle abscess-shoulder	N230D00	N230D
+311586017	Muscle abscess-arm	N230E00	N230E
+311587014	Muscle abscess-forearm	N230F00	N230F
+311588016	Muscle abscess-hand	N230G00	N230G
+311589012	Muscle abscess-pelvis	N230H00	N230H
+311590015	Muscle abscess-thigh	N230J00	N230J
+311591016	Muscle abscess-leg	N230K00	N230K
+311592011	Muscle abscess-foot	N230L00	N230L
+311616019	Myositis in sarcoidosis	N233200	N2332
+311651010	Contracture of adductor muscle(s) of hip	N238D00	N238D
+311652015	Contracture of abductor muscle(s) of hip	N238E00	N238E
+311661015	Contracture of intrinsic muscle(s) of foot	N238N00	N238N
+311671018	Inappropriate firing of muscle	N23y500	N23y5
+311681019	Spasm of back muscles	N23yE00	N23yE
+311690014	Muscular rheumatism	N240200	N2402
+315184017	Hypoplasia of muscle	PGyy200	PGyy2
+315186015	Aplasia of muscle	PGyy400	PGyy4
+117800011	Traumatic myositis ossificans	N231200	N2312
+359459016	Dermatopolymyositis in neoplastic disease	N003100	N0031
+359513016	Giant cell arteritis with polymyalgia rheumatica	N200.00	N200
+359712012	Drug-induced myopathy	F394000	F3940
+359719015	Viral myalgia	N241300	N2413
+359747016	Muscle crush syndrome	N23yF00	N23yF
+359748014	Ischaemic infarction of muscle	N23yB00	N23yB
+359754010	Rhabdomyolysis	N233300	N2333
+393507010	Muscle transfer at elbow	7H40700	7H407
+393510015	Ankle muscle transfer	7H40900	7H409
+393517017	Transfer of wrist muscle	7H40F00	7H40F
+400310018	Muscle, ligament and fascia disorders	N23..00	N23
+400311019	Muscle calcification and ossification	N231.00	N231
+402510012	O/E - muscle atrophy present	2932.00	2932
+411815016	O/E- quadriceps muscle wasting	2932.11	2932-1
+445636019	Skeletal muscle stimulator	7H56800	7H568
+460126017	Cardiomyopathy in Duchenne muscular dystrophy	F391B00	F391B
+485565019	Plastic repair of muscle	7H53.00	7H53
+491939015	Transplantation of muscle	7H50.00	7H50
+493920016	Muscle ossification	N231.11	N231-1
+494684015	Percutaneous biopsy of muscle	7H55300	7H553
+494944014	Congenital absence of muscle and tendon	PGy0.00	PGy0
+495791019	Accessory muscle	PGy1.00	PGy1
+504320012	Transposition of iliopsoas muscle	7H40600	7H406
+1224974015	Myopathy in metabolic diseases	F398.00	F398
+158058014	Intercostal myalgia	N241011	N2410-1
+1233040016	Myopathy due to thyrotoxicosis	F395400	F3954
+1481810012	Becker muscular dystrophy	F391800	F3918
+1784692011	Juvenile dermatomyositis	N003000	N0030
+121721014	Muscular dystrophy	F39B.00	F39B
+2674494012	Catheter manometry of muscle compartment	7H56A00	7H56A
+2693434014	Microvascular free tissue transfer of flap of muscle	7H50700	7H507
+178467015	Diastasis of muscle	N23yA00	N23yA
+178743010	Congenital hereditary muscular dystrophy	F390.00	F390
+178750014	Emery-Dreifuss muscular dystrophy	F391A00	F391A
+127307018	Duchenne muscular dystrophy	F391000	F3910
+127522012	Suture of muscle	7H56400	7H564
+127990018	Oculopharyngeal muscular dystrophy	F391700	F3917
+130209011	Erb's muscular dystrophy	F391100	F3911
+1776211019	Dermatomyositis	N003.00	N003
+1778554019	Facioscapulohumeral muscular dystrophy	F391400	F3914
+2184271000000115	Acute renal failure due to non-traumatic rhabdomyolysis	K045.00	K045
+2198081000000118	Acute renal failure due to traumatic rhabdomyolysis	K04B.00	K04B
+297655019	Myopathy or muscular dystrophy NOS	F39z.00	F39z
+311696015	Myalgia and myositis unspecified	N241.00	N241
+41386013	Fibromyalgia	N248.00	N248
+84200019	Peroneal muscular atrophy	F361.00	F361
+141723016	Adult spinal muscular atrophy	F151200	F1512
+143230018	Poikilodermatomyositis	N003.11	N003-1
+158050019	Polymyalgia	N20..11	N20-1
+254914015	O/E -muscular irritability NOS	295Z.00	295Z
+254920019	O/E - muscle contracture NOS	296Z.00	296Z
+275857019	Other specified transplantation of muscle	7H50y00	7H50y
+275858012	Transplantation of muscle NOS	7H50z00	7H50z
+275862018	Partial excision of muscle NEC	7H51200	7H512
+275863011	Debridement of muscle NEC	7H51300	7H513
+275864017	Other specified excision of muscle	7H51y00	7H51y
+275865016	Excision of muscle NOS	7H51z00	7H51z
+275867012	Excision of lesion of muscle NEC	7H52000	7H520
+275870011	Extirpation of lesion of muscle NOS	7H52z00	7H52z
+275878016	Other plastic repair muscle	7H53v00	7H53v
+275879012	Other specified primary repair of muscle	7H53w00	7H53w
+275880010	Other specified secondary repair of muscle	7H53x00	7H53x
+275881014	Other specified repair of muscle	7H53y00	7H53y
+275882019	Repair of muscle NOS	7H53z00	7H53z
+275899018	Other specified release of contracture of muscle	7H54y00	7H54y
+275900011	Release of contracture of muscle NOS	7H54z00	7H54z
+275903013	Biopsy of lesion of muscle NEC	7H55100	7H551
+275905018	Other specified biopsy of muscle	7H55y00	7H55y
+275906017	Biopsy of muscle NOS	7H55z00	7H55z
+275907014	Other operations on muscle	7H56.00	7H56
+275909012	Repair of muscle NEC	7H56000	7H560
+275920012	Other specified other operation on muscle	7H56y00	7H56y
+275921011	Other operation on muscle NOS	7H56z00	7H56z
+275922016	Other specified operations on muscle	7H5y.00	7H5y
+275924015	Muscle operations NOS	7H5z.00	7H5z
+280786016	[SO]Pronator muscle	7N83300	7N833
+297125013	Unspecified spinal muscular atrophy	F151000	F1510
+297127017	Spinal muscular atrophy NOS	F151z00	F151z
+297522019	Peroneal muscular atrophy NOS	F361z00	F361z
+297602013	Muscular dystrophies and other myopathies	F39..00	F39
+297607019	Congenital hereditary muscular dystrophy NOS	F390z00	F390z
+297623019	Hereditary progressive muscular dystrophy NOS	F391z00	F391z
+297635015	Myopathy due to endocrine disease EC	F395.00	F395
+297636019	Myopathy due to endocrine disease NOS	F395z00	F395z
+297646017	Symptomatic inflammatory myopathy in disease NOS	F396z00	F396z
+297654015	Other myopathies and muscular dystrophies	F39y.00	F39y
+298835019	Strabismus due to other neuromuscular disorder	F4J7200	F4J72
+299306010	[X]Paraneoplastic neuromyopathy and neuropathy	Fyu1300	Fyu13
+299379016	[X]Other primary disorders of muscles	Fyu8100	Fyu81
+299390014	[X]Myopathy in other diseases classified elsewhere	Fyu8900	Fyu89
+299391013	[X]Mitochondrial myopathy, not elsewhere classified	Fyu8A00	Fyu8A
+299392018	[X]Inflammatory myopathy, not elsewhere classified	Fyu8B00	Fyu8B
+315169014	Other specified muscle, tendon and fascia anomaly	PGy..00	PGy
+315189010	Other anomaly of tendon, fascia or muscle NOS	PGyyz00	PGyyz
+315190018	Other muscle, tendon or fascia anomalies NOS	PGyz.00	PGyz
+315194010	Unspecified anomaly of muscle	PGz0.00	PGz0
+359639010	Muscle damage NOS	N23z.11	N23z-1
+393530016	Division of muscle NEC	7H56100	7H561
+399421019	Other specified hereditary progressive muscular dystrophy	F391y00	F391y
+400312014	Muscular calcification and ossification, unspecified	N231000	N2310
+400313016	Muscle, ligament or fascia disorder NOS	N23z.00	N23z
+400314010	Myalgia unspecified	N241000	N2410
+400939012	Other absent muscle	PGy0200	PGy02
+400940014	Other specified other anomalies of muscle, tendon and fascia	PGyy.00	PGyy
+416784015	Release of intrinsic muscle of hand	7H54600	7H546
+27731000006112	Other limb-girdle muscular dystrophy	F391300	F3913
+53311000006111	Wide excision of muscle	7H51000	7H510
+56471000006116	Zancolli transfer of wrist muscle	7H40F12	7H40F-2
+95381000006111	Transfer of forearm muscle	7H40E00	7H40E
+95431000006115	Transfer of tendon or muscle	7H40.11	7H40-1
+132561000006115	Spasm of muscle	N23y400	N23y4
+152971000006118	Seddon muscle transfer at elbow	7H40712	7H407-2
+221701000000113	Foreign body muscle granuloma	N23y100	N23y1
+297661000006114	Nontraumatic muscle rupture	N23y200	N23y2
+299731000000113	Muscle wasting NEC	N232200	N2322
+319261000006114	[SO]Adductor muscle of hip, unspecified	7N85300	7N853
+319271000006119	[SO]Adductor muscle of thigh, unspecified	7N85311	7N853-1
+319411000006112	[SO]Anterior abdominal wall muscle	7N88200	7N882
+319971000006112	[SO]Back muscle	7N88300	7N883
+320471000006116	[SO]Brachial muscle NEC	7N82311	7N823-1
+322631000006115	[SO]Extensor digitorum muscle in leg	7N86500	7N865
+322661000006112	[SO]Extensor muscle of forearm	7N83100	7N831
+322671000006117	[SO]Extensor muscle of hand	7N84600	7N846
+322881000006115	[SO]Facial muscle	7N88000	7N880
+323551000006119	[SO]Flexor digitorum muscle of foot	7N87100	7N871
+323691000006112	[SO]Flexor muscle of forearm	7N83000	7N830
+324501000006116	[SO]Hypothenar muscle, unspecified	7N84400	7N844
+324821000006112	[SO]Intercostal muscle	7N88D00	7N88D
+324911000006111	[SO]Interosseous muscle of foot	7N87400	7N874
+324921000006115	[SO]Interosseous muscle of hand	7N84500	7N845
+325491000006113	[SO]Laryngeal muscle	7N88A00	7N88A
+326521000006116	[SO]Lumbrical muscle of hand	7N84511	7N845-1
+327431000006115	[SO]Muscle NEC	7N88z00	7N88z
+327461000006112	[SO]Muscle of foot	7N87.00	7N87
+327471000006117	[SO]Muscle of foot NEC	7N87z00	7N87z
+327481000006119	[SO]Muscle of forearm	7N83.00	7N83
+327491000006116	[SO]Muscle of forearm NEC	7N83z00	7N83z
+327501000006112	[SO]Muscle of hand NEC	7N84z00	7N84z
+327511000006110	[SO]Muscle of hip or thigh	7N85.00	7N85
+327521000006119	[SO]Muscle of hip or thigh NEC	7N85z00	7N85z
+327531000006116	[SO]Muscle of lower leg	7N86.00	7N86
+327541000006114	[SO]Muscle of lower leg NEC	7N86z00	7N86z
+327551000006111	[SO]Muscle of shoulder or upper arm	7N82.00	7N82
+327561000006113	[SO]Muscle of shoulder or upper arm NEC	7N82z00	7N82z
+327571000006118	[SO]Muscle/tendon of hand	7N84.00	7N84
+327961000006119	[SO]Neck muscle	7N88100	7N881
+328571000006119	[SO]Other muscle	7N88.00	7N88
+330791000006110	[SO]Scapular rotator muscle	7N88G00	7N88G
+331301000006110	[SO]Short hallux muscle	7N87200	7N872
+331311000006113	[SO]Short hip rotator muscle	7N85011	7N850-1
+331331000006119	[SO]Short sole muscle	7N87300	7N873
+333181000006119	[SO]Specified muscle NEC	7N88y00	7N88y
+333211000006115	[SO]Specified muscle of forearm NEC	7N83y00	7N83y
+333221000006111	[SO]Specified muscle of hand NEC	7N84y00	7N84y
+333231000006114	[SO]Specified muscle of hip or thigh NEC	7N85y00	7N85y
+333241000006116	[SO]Specified muscle of lower leg NEC	7N86y00	7N86y
+333251000006119	[SO]Specified muscle of shoulder or upper arm NEC	7N82y00	7N82y
+334151000006113	[SO]Strap muscle of neck	7N88900	7N889
+334391000006117	[SO]Supinator muscle	7N83200	7N832
+334971000006117	[SO]Thenar muscle, unspecified	7N84100	7N841
+377851000006114	[X]Disorders of muscles	Nyu8.00	Nyu8
+409341000006112	[X]Other disorders of muscle in diseases CE	Nyu8A00	Nyu8A
+439851000006113	Absent muscle or tendon NOS	PGy0z00	PGy0z
+476701000006114	Alcoholic myopathy	F394100	F3941
+526641000006110	Brooks muscle transfer at elbow	7H40711	7H407-1
+532261000006110	Calcification and ossification of muscles assoc with burns	N231500	N2315
+592151000006113	Contracture of muscle	N23yC00	N23yC
+625401000006110	Distal (Gower's) muscular dystrophy	F391500	F3915
+625681000006115	Distant free flap, muscle	7H50011	7H500-1
+625751000006118	Distant microvascular transfered flap, muscle	7H50000	7H500
+631811000006111	Duchenne Aran muscular atrophy	F152111	F1521-1
+660171000006114	Extraocular muscle myopathy	F4Gy100	F4Gy1
+682621000006119	Myopathy due to Addison's disease	F395000	F3950
+682631000006116	Myopathy due to amyloid	F396000	F3960
+682641000006114	Myopathy due to Cushing's syndrome	F395100	F3951
+682691000006117	Myopathy due to malignant disease	F396200	F3962
+682701000006117	Myopathy due to myxoedema	F395300	F3953
+693601000006119	Mustard transposition of iliopsoas muscle	7H40611	7H406-1
+694051000006113	Muscle agenesis	PGy0211	PGy02-1
+694111000006111	Muscle operations	7H5..00	7H5
+701491000006117	Mitochondrial myopathy, not elsewhere classified	F39X.00	F39X
+709441000006113	Fibromyalgia	N239.00	N239
+716831000006114	Massive muscular calcification associated with paraplegia	N231011	N2310-1
+737611000006113	Local subcutaneous V-Y flap - muscle	7H50500	7H505
+737631000006119	Local transposition flap - muscle	7H50100	7H501
+738041000006117	Local rotation flap - muscle	7H50200	7H502
+738181000006112	Local subcutaneous pedicle island flap - muscle	7H50400	7H504
+738441000006111	Local advancement flap - muscle	7H50300	7H503
+742081000006112	Lippman operation for tenosynovitis of biceps brachii muscle	7H40B12	7H40B-2
+749771000006116	Latissimus dorsi muscle transfer	7H40H00	7H40H
+764301000006119	Foot muscles tendon transfer	7H40C00	7H40C
+778591000006118	Inflammatory myopathy, not elsewhere classified	F39W.00	F39W
+1767981000006116	Decompress thoracic outlet myotomy scalenus anticus muscle	7H56B00	7H56B
+1768391000006118	[SO]Muscle of chest	7N88C00	7N88C
+1786031000006117	Neuromuscular disease	F38..11	F38-1
+1786041000006110	Congenital myopathy	F390500	F3905
+180161000006117	Release intrinsic muscle of thumb	7H54700	7H547
+312591018	[X]Dermatopolymyositis, unspecified	Nyu4E00	Nyu4E
+299380018	[X]Other specified myopathies	Fyu8200	Fyu82
+312636015	[X]Other rupture of muscle (nontraumatic)	Nyu8300	Nyu83
+312637012	[X]Muscle wasting and atrophy, not elsewhere classified	Nyu8400	Nyu84
+614691000006113	Dermatopolymyositis, unspecified	N003X00	N003X
+311605014	Muscle calcification or ossification NOS	N231z00	N231z
+311606010	Muscle wasting and disuse atrophy NEC	N232.00	N232
+311609015	Muscle wasting/disuse atrophy NEC NOS	N232z00	N232z
+311610013	Other specific muscle disorder	N233.00	N233
+311617011	Other specific muscle disorder NOS	N233z00	N233z
+311648015	Contracture of other intrinsic muscle(s) of hand	N238A00	N238A
+311663017	Other muscle, ligament and fascia disorder	N23y.00	N23y
+311682014	Other muscle, ligament or fascia disorder NOS	N23yz00	N23yz
+311701010	Myositis unspecified	N241100	N2411
+311702015	Fibromyositis NOS	N241200	N2412
+311704019	Myalgia or myositis NOS	N241z00	N241z
+312580013	[X]Other dermatomyositis	Nyu4400	Nyu44
+312633011	[X]Other myositis	Nyu8000	Nyu80
+312634017	[X]Other calcification of muscle	Nyu8100	Nyu81
+312635016	[X]Other ossification of muscle	Nyu8200	Nyu82
+312638019	[X]Other specified disorders of muscle	Nyu8500	Nyu85
+312644015	[X]Disorder of muscle, unspecified	Nyu8B00	Nyu8B

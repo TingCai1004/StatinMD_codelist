@@ -1,0 +1,197 @@
+MedCodeId	Term	CleansedReadCode	OriginalReadCode	status	label
+14866014	Non-smoker	1371.11	1371-1	0	Non-smoker
+250368013	Keeps trying to stop smoking	137C.00	137C	2	Current smoker
+250372012	Trying to give up smoking	137G.00	137G	2	Current smoker
+250373019	Stopped smoking	137K.00	137K	1	Ex-smoker
+250374013	Current non-smoker	137L.00	137L	0	Non-smoker
+250375014	Rolls own cigarettes	137M.00	137M	2	Current smoker
+250385010	Date ceased smoking	137T.00	137T	1	Ex-smoker
+99639019	Cigar smoker	137J.00	137J	2	Current smoker
+136515019	Pipe smoker	137H.00	137H	2	Current smoker
+78013015	Smokers' cough	H310100	H3101	2	Current smoker
+216212011	Smoking reduced	137V.00	137V	2	Current smoker
+108938018	Cigarette smoker	137P.00	137P	2	Current smoker
+285793015	Stop smoking monitor default	9OO3.00	9OO3	2	Current smoker
+285805010	Stop smoking monitoring delete	9OO9.00	9OO9	2	Current smoker
+295257016	Tobacco dependence, continuous	E251100	E2511	2	Current smoker
+295259018	Tobacco dependence in remission	E251300	E2513	1	Ex-smoker
+338608011	Smoking cessation advice	8CAL.00	8CAL	2	Current smoker
+344793011	Cigarette consumption	137X.00	137X	2	Current smoker
+344794017	Cigar consumption	137Y.00	137Y	2	Current smoker
+344795016	Pipe tobacco consumption	137a.00	137a	2	Current smoker
+150398019	Nicotine withdrawal	E023.00	E023	2	Current smoker
+397732011	Never smoked tobacco	1371.00	1371	0	Non-smoker
+418914010	Ex-cigarette smoker	137j.00	137j	1	Ex-smoker
+457286014	Nicotine replacement therapy	8B2B.00	8B2B	2	Current smoker
+459484017	Nicotine replacement therapy refused	8I39.00	8I39	2	Current smoker
+459524018	Over the counter nicotine replacement therapy	8B3Y.00	8B3Y	2	Current smoker
+459722017	Referral to stop-smoking clinic	8HTK.00	8HTK	2	Current smoker
+503483019	Current smoker	137R.00	137R	2	Current smoker
+1484932017	Smoking cessation milestones	13p..00	13p	2	Current smoker
+1484933010	Negotiated date for cessation of smoking	13p0.00	13p0	2	Current smoker
+1484934016	Smoking status at 4 weeks	13p1.00	13p1	2	Current smoker
+1484935015	Smoking status between 4 and 52 weeks	13p2.00	13p2	2	Current smoker
+1484936019	Smoking status at 52 weeks	13p3.00	13p3	2	Current smoker
+1484937011	Nicotine replacement therapy provided free	8B3f.00	8B3f	2	Current smoker
+2474719011	Minutes from waking to first tobacco consumption	137h.00	137h	2	Current smoker
+2534083012	Carbon monoxide reading at 4 weeks	13p6.00	13p6	2	Current smoker
+2669652019	Smoking started	137Q.00	137Q	2	Current smoker
+62881000000117	DNA - Did not attend smoking cessation clinic	9N4M.00	9N4M	2	Current smoker
+265092010	Pregnancy smoking advice	67A3.00	67A3	2	Current smoker
+303501000000115	Smoking cessation advice provided by community pharmacist	8CAg.00	8CAg	2	Current smoker
+482771000000118	Smoking cessation drug therapy	745H400	745H4	2	Current smoker
+482811000000118	Nicotine replacement therapy using nicotine gum	745H100	745H1	2	Current smoker
+482831000000114	Nicotine replacement therapy using nicotine inhalator	745H200	745H2	2	Current smoker
+492511000000117	Smoking cessation therapy	745H.00	745H	2	Current smoker
+1488576014	Thinking about stopping smoking	137c.00	137c	2	Current smoker
+1488577017	Ready to stop smoking	137b.00	137b	2	Current smoker
+1488578010	Not interested in stopping smoking	137d.00	137d	2	Current smoker
+1488666019	No smokers in the household	13WK.00	13WK	0	Non-smoker
+128130017	Smoker	137P.11	137P-1	2	Current smoker
+1488870013	Nicotine replacement therapy contraindicated	8I2I.00	8I2I	2	Current smoker
+1488871012	Bupropion contraindicated	8I2J.00	8I2J	2	Current smoker
+1488872017	Bupropion refused	8I3M.00	8I3M	2	Current smoker
+1488873010	Smoking free weeks	13p4.00	13p4	2	Current smoker
+1489355012	Referral to smoking cessation advisor	8H7i.00	8H7i	2	Current smoker
+1773560017	Smoking cessation programme start date	13p5.00	13p5	2	Current smoker
+1780273014	Seen by smoking cessation advisor	9N2k.00	9N2k	2	Current smoker
+1780360012	Reason for restarting smoking	137f.00	137f	2	Current smoker
+1123541000000118	Stop smoking face to face follow-up	8HBM.00	8HBM	2	Current smoker
+1125741000000111	Brief intervention for smoking cessation	67H6.00	67H6	2	Current smoker
+250363016	Ex-trivial smoker (<1/day)	1377.00	1377	1	Ex-smoker
+250364010	Ex-light smoker (1-9/day)	1378.00	1378	1	Ex-smoker
+250365011	Ex-moderate smoker (10-19/day)	1379.00	1379	1	Ex-smoker
+250366012	Ex-heavy smoker (20-39/day)	137A.00	137A	1	Ex-smoker
+250367015	Ex-very heavy smoker (40+/day)	137B.00	137B	1	Ex-smoker
+250371017	Ex-smoker - amount unknown	137F.00	137F	1	Ex-smoker
+250387019	Tobacco consumption NOS	137Z.00	137Z	2	Current smoker
+295256013	Tobacco dependence, unspecified	E251000	E2510	2	Current smoker
+295260011	Tobacco dependence NOS	E251z00	E251z	2	Current smoker
+295951010	[X]Mental and behavioural disorder due to use of tobacco	Eu17.00	Eu17	2	Current smoker
+461114016	[V]Tobacco abuse counselling	ZV6D800	ZV6D8	2	Current smoker
+2670126018	Smoking restarted	137e.00	137e	2	Current smoker
+16261000000110	Stop smoking monitor admin.NOS	9OOZ.00	9OOZ	2	Current smoker
+21681000000118	Anti-smoking monitoring admin.	9OO..00	9OO	2	Current smoker
+21691000000116	Stop smoking monitoring admin.	9OO..12	9OO-2	2	Current smoker
+25281000000119	Stop smoking clinic admin.	9OO..11	9OO-1	2	Current smoker
+67621000006112	Very heavy smoker - 40+cigs/d	1376.00	1376	2	Current smoker
+88471000006112	Trivial smoker - < 1 cig/day	1372.00	1372	2	Current smoker
+102951000006115	Tobacco dependence	E251.00	E251	2	Current smoker
+128311000006112	Stop smoking monitor 1st lettr	9OO4.00	9OO4	2	Current smoker
+128321000006116	Stop smoking monitor 2nd lettr	9OO5.00	9OO5	2	Current smoker
+128331000006118	Stop smoking monitor 3rd lettr	9OO6.00	9OO6	2	Current smoker
+128361000006110	Stop smoking monitor phone inv	9OO8.00	9OO8	2	Current smoker
+128371000006115	Stop smoking monitor verb.inv.	9OO7.00	9OO7	2	Current smoker
+128381000006117	Stop smoking monitor.chck done	9OOA.00	9OOA	2	Current smoker
+137721000006115	Smoker - amount smoked	137..11	137-1	2	Current smoker
+137791000006118	Smoking restarted	137Q.11	137Q-1	2	Current smoker
+482791000000119	Nicotine replacement therapy using nicotine patches	745H000	745H0	2	Current smoker
+482851000000119	Nicotine replacement therapy using nicotine lozenges	745H300	745H3	2	Current smoker
+482871000000111	Other specified smoking cessation therapy	745Hy00	745Hy	2	Current smoker
+489931000000114	Smoking cessation therapy NOS	745Hz00	745Hz	2	Current smoker
+498831000006118	Attends stop smoking monitor.	9OO1.00	9OO1	2	Current smoker
+649821000006115	Ex cigar smoker	137O.00	137O	1	Ex-smoker
+649831000006117	Ex pipe smoker	137N.00	137N	1	Ex-smoker
+649841000006110	Ex smoker	137S.00	137S	1	Ex-smoker
+700121000006118	Moderate smoker - 10-19 cigs/d	1374.00	1374	2	Current smoker
+736241000000116	Smoking cessation - enhanced services administration	9kc..00	9kc	2	Current smoker
+743331000006116	Light smoker - 1-9 cigs/day	1373.00	1373	2	Current smoker
+819331000006110	Heavy smoker - 20-39 cigs/day	1375.00	1375	2	Current smoker
+998861000006112	Nicotine replacement therapy provided by community pharmacis	8BP3.00	8BP3	2	Current smoker
+1123751000000113	Non-smoker annual review - enhanced services administration	9kn..00	9kn	0	Non-smoker
+1123951000000110	Ex-smoker annual review - enhanced services administration	9km..00	9km	1	Ex-smoker
+1704491000006115	Smoking cessatn monitor template complet - enhanc serv admin	9kc0.00	9kc0	2	Current smoker
+1714541000006110	Current smoker annual review - enhanced services admin	9ko..00	9ko	2	Current smoker
+1715591000006117	Referral to NHS stop smoking service	8HkQ.00	8HkQ	2	Current smoker
+397733018	Occasional smoker	1372.11	1372-1	2	Current smoker
+397911000006114	[X]Mental and behav dis due to use of tobacco: harmful use	Eu17100	Eu171	2	Current smoker
+285792013	Refuses stop smoking monitor	9OO2.00	9OO2	2	Current smoker
+298701000000114	[V]Personal history of tobacco abuse	ZV11600	ZV116	2	Current smoker
+408878014	Fagerstrom test for nicotine dependence	38DH.00	38DH	2	Current smoker
+460828018	[V]Tobacco use	ZV4K000	ZV4K0	2	Current smoker
+2982426011	Provision of smoking cessation leaflet		ESCTPR3	2	Current smoker
+604961000006114	Current Smoker NOS		EGTON1025	2	Current smoker
+649851000006112	Ex- Rolled Tobacco Smoker		EGTON1027	1	Ex-smoker
+649861000006114	Ex-Cigarette Smoker		EGTON322	1	Ex-smoker
+852111000006118	Gradual smoking reduction		EMISQGR1	2	Current smoker
+853001000006110	Ex-smoker NOS		EGTON1028	1	Ex-smoker
+852991000006114	Ex-cigar smoker		EGTON1026	1	Ex-smoker
+854021000006115	Cigarette smoker		EGTON321	2	Current smoker
+854051000006112	Ex-pipe smoker		EGTON324	1	Ex-smoker
+854071000006119	Current smoker		EGTON326	2	Current smoker
+854111000006110	Past smoker		EGTON327	1	Ex-smoker
+854951000006113	Grade A non-smoker		EGTONGR10	0	Non-smoker
+854961000006110	Grade B light smoker (1-10/day)		EGTONGR11	2	Current smoker
+854981000006117	Grade C moderate smoker (11-20/day)		EGTONGR12	2	Current smoker
+855001000006114	Grade D heavy smoker (>20 Day)		EGTONGR13	2	Current smoker
+903981000006117	Not interested in stopping smoking		EMISQNO1	2	Current smoker
+904001000006111	Ready to stop smoking		EMISQRE12	2	Current smoker
+904021000006118	Previous smoking quit attempts		EMISQPR6	2	Current smoker
+904011000006114	Smoking cessation declaration signed by patient		EMISQSM9	2	Current smoker
+904031000006115	Thinking about stopping smoking		EMISQTH1	2	Current smoker
+904111000006113	Carbon monoxide validation confirms non-smoker		EMISQCO2	0	Non-smoker
+904121000006117	Carbon monoxide validation confirms smoker		EMISQCO3	2	Current smoker
+961581000006114	Smokes/uses tobacco products		EMISCSM1	2	Current smoker
+1009271000006118	Non Smoker - Nos		ASDFGNO1	0	Non-smoker
+1777011000006118	Reason for referral: Smoking Cessation		EMISNQRE259	2	Current smoker
+1771191000006119	Attends smoking cessation clinic not at practice		EMISNQAT12	2	Current smoker
+137711000006111	Smoker (Read codes)		EMISSMRE1	2	Current smoker
+854151000006111	Date stopped smoking		EGTON328	1	Ex-smoker
+904191000006115	Smoking cessation motivation score		EMISQSM10	2	Current smoker
+904181000006118	Smoking cessation counselling		EMISQSM12	2	Current smoker
+904201000006117	Smoking cessation confidence score		EMISQSM11	2	Current smoker
+904211000006119	Smoking cessation service patient satisfaction score		EMISQSM16	2	Current smoker
+904221000006110	Smoking cessation bupropion therapy		EMISQSM15	2	Current smoker
+904231000006113	Smoking cessation counselling by telephone		EMISQSM13	2	Current smoker
+904241000006115	Smoking cessation counselling in person		EMISQSM14	2	Current smoker
+909391000006117	[RFC] Smoking cessation		HNGZ011	2	Current smoker
+1591651000006110	Smoking cessation referral declined		EMISNQSM5	2	Current smoker
+1626121000006116	Smoking cessation drug therapy - varenicline		EMISNQSM6	2	Current smoker
+1819411000006114	Smoking increased		EMISNQSM14	2	Current smoker
+37311000006117	Other anti-smoking drug given		EMISHGT222	2	Current smoker
+852121000006114	Smoking cessation-maintain abstinence		EMISQSM17	1	Ex-smoker
+852131000006112	Smoking cessation-practice nurse support		EMISQSM18	2	Current smoker
+856371000006111	Smoking clinic		EGTONSM6	2	Current smoker
+1694421000006112	Stop smoking monitoring admin.		9OO-z366	2	Current smoker
+1758971000006113	Stop smoking monitoring invitation SMS text message sent		EMISNQST13	2	Current smoker
+1758981000006111	Stop smoking monitoring invitation first SMS text message sent		EMISNQST14	2	Current smoker
+1758991000006114	Stop smoking monitoring invitation second SMS text message sent		EMISNQST15	2	Current smoker
+1759001000006114	Stop smoking monitoring invitation third SMS text message sent		EMISNQST16	2	Current smoker
+1778181000006110	Group session: Stop smoking education programme		EMISNQGR20	2	Current smoker
+1809131000006111	Total time smoked		EMISNQTO12	2	Current smoker
+903041000006110	EX-Smoker NOS	137F.99	137F-99	1	Ex-smoker
+1780396011	Cigarette pack-years	137g.00	137g	2	Current smoker
+72373013	Passive smoker	137I.00	137I	0	Non-smoker
+342613016	Exposed to tobacco smoke at home	137I000	137I0	0	Non-smoker
+1151791000000117	Recently stopped smoking	137K000	137K0	1	Ex-smoker
+1059701000000119	Ex roll-up cigarette smoker	137l.00	137l	1	Ex-smoker
+903051000006112	Tobacco Consumption Nil	137L.99	137L-99	0	Non-smoker
+1592611000000110	Failed attempt to stop smoking	137m.00	137m	2	Current smoker
+342574011	Total time smoked	137n.00	137n	2	Current smoker
+2170961000000116	Waterpipe tobacco consumption	137o.00	137o	2	Current smoker
+459702016	Not a passive smoker	137U.00	137U	0	Non-smoker
+1563081000000115	Practice based smoking cessation programme start date	13p5000	13p50	2	Current smoker
+2462431000000110	Varenicline smoking cessation therapy offered	8B31G00	8B31G	2	Current smoker
+1750931000000118	Stop smoking service opportunity signposted	8CdB.00	8CdB	2	Current smoker
+1176421000000118	Smoking cessation advice declined	8IAj.00	8IAj	2	Current smoker
+1175011000000112	Smoking cessation programme declined	8IEK.00	8IEK	2	Current smoker
+2141561000000115	Smoking cessation drug therapy declined	8IEM.00	8IEM	2	Current smoker
+2462391000000119	Varenicline smoking cessation therapy declined	8IEM000	8IEM0	2	Current smoker
+2251871000000112	Referral to smoking cessation service declined	8IEo.00	8IEo	2	Current smoker
+2251911000000114	Referral to smoking cessation service	8T08.00	8T08	2	Current smoker
+1741641000006117	Smoking cessation ESA monitoring template completed	9kc0.11	9kc0-1	2	Current smoker
+1154471000000114	Ex-smoker annual review	9km..11	9km-1	1	Ex-smoker
+1154431000000112	Non-smoker annual review	9kn..11	9kn-1	0	Non-smoker
+1152111000000118	Current smoker annual review	9ko..11	9ko-1	2	Current smoker
+1709641000000115	Referral for smoking cessation service offered	9NS0200	9NS02	2	Current smoker
+1751721000000113	Stop smoking invitation short message service text message	9OOB.00	9OOB	2	Current smoker
+1785671000006116	Stop smoking invitation first SMS text message	9OOB000	9OOB0	2	Current smoker
+1785681000006118	Stop smoking invitation second SMS text message	9OOB100	9OOB1	2	Current smoker
+1785691000006115	Stop smoking invitation third SMS text message	9OOB200	9OOB2	2	Current smoker
+342444018	Smokes drugs in cigarette form	1V08.00	1V08	2	Current smoker
+852981000006111	Rolls own cigarettes		EGTON1024	2	Current smoker
+904041000006113	Waking time to first cigarette		EMISQWA1	2	Current smoker
+904091000006116	Date of last cigarette		EMISQDA1	1	Ex-smoker
+981841000006115	Exposure to cigarette/cigar smoke		EMISCEX15	0	Non-smoker
+342443012	Smokes drugs	13cA.00	13cA	2	Current smoker
+342445017	Smokes drugs through a pipe	1V09.00	1V09	2	Current smoker

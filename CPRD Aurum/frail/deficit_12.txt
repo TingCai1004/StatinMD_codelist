@@ -1,0 +1,135 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release	Deficit
+257523016	Ferritin level low	42R41	42R4100	165626000	257523016	NA	Anaemia & haematinic deficiency
+257553011	Serum vitamin B12 low	42T2	42T2.00	165645009	257553011	NA	Anaemia & haematinic deficiency
+291252015	Refractory anaemia without sideroblasts, so stated	B9370	B937000	189509003	291252015	NA	Anaemia & haematinic deficiency
+293006011	Folic acid deficiency	C2620	C262000	190633005	293006011	NA	Anaemia & haematinic deficiency
+293008012	Vitamin B12 deficiency	C2621	C262100	190634004	293008012	NA	Anaemia & haematinic deficiency
+293864013	Iron deficiency anaemia due to dietary causes	D001	D001.00	191128004	293864013	NA	Anaemia & haematinic deficiency
+293884012	Chlorotic anaemia	D00z1	D00z100	87522002	507623010	NA	Anaemia & haematinic deficiency
+293885013	Idiopathic hypochromic anaemia	D00z2	D00z200	191136008	293885013	NA	Anaemia & haematinic deficiency
+293948018	Combined B12 and folate deficiency anaemia	D0130	D013000	191154007	293948018	NA	Anaemia & haematinic deficiency
+294093015	Primary cold-type haemolytic anaemia	D1100	D110000	191210005	294093015	NA	Anaemia & haematinic deficiency
+294094014	Primary warm-type haemolytic anaemia	D1101	D110100	191211009	294094014	NA	Anaemia & haematinic deficiency
+294097019	Secondary cold-type haemolytic anaemia	D1102	D110200	191212002	294097019	NA	Anaemia & haematinic deficiency
+294105019	Non-autoimmune haemolytic anaemia	D111	D111.00	191216004	294105019	NA	Anaemia & haematinic deficiency
+294106018	Mechanical haemolytic anaemia	D1110	D111000	191217008	294106018	NA	Anaemia & haematinic deficiency
+294190019	Aplastic anaemia due to chronic disease	D2010	D201000	191244003	294190019	NA	Anaemia & haematinic deficiency
+294198014	Aplastic anaemia due to infection	D2012	D201200	191246001	294198014	NA	Anaemia & haematinic deficiency
+294203018	Aplastic anaemia due to toxic cause	D2014	D201400	191248000	294203018	NA	Anaemia & haematinic deficiency
+294211011	Transient hypoplastic anaemia	D2017	D201700	191251007	294211011	NA	Anaemia & haematinic deficiency
+294223017	Idiopathic aplastic anaemia	D204	D204.00	191256002	294223017	NA	Anaemia & haematinic deficiency
+294232015	Secondary sideroblastic anaemia due to disease	D2103	D210300	191261000	294232015	NA	Anaemia & haematinic deficiency
+294235018	Secondary sideroblastic anaemia due to drugs and toxins	D2104	D210400	191262007	294235018	NA	Anaemia & haematinic deficiency
+294245016	Anaemia in neoplastic disease	D212	D212.00	191265009	294245016	NA	Anaemia & haematinic deficiency
+294251014	Chronic anaemia	D214	D214.00	191268006	294251014	NA	Anaemia & haematinic deficiency
+303401012	Chronic active hepatitis	J6141	J614100	197284004	303401012	NA	Anaemia & haematinic deficiency
+344913019	Refractory anaemia	D213	D213.00	109996008	344913019	NA	Anaemia & haematinic deficiency
+251611012	H/O: anaemia - iron deficient	1451	1451.00	161456009	251611012	NA	Anaemia & haematinic deficiency
+251615015	H/O: haemolytic anaemia	1453	1453.00	161458005	251615015	NA	Anaemia & haematinic deficiency
+255522013	O/E - clinically anaemic	2C23	2C23.00	164142002	255522013	NA	Anaemia & haematinic deficiency
+397826011	H/O: blood disorder	145	145..00	266992002	397826011	NA	Anaemia & haematinic deficiency
+399193019	Deficiency anaemias	D0	D0...00	267513007	399193019	NA	Anaemia & haematinic deficiency
+399201018	Vitamin B12 deficiency anaemia due to dietary causes	D0110	D011000	267517008	399201018	NA	Anaemia & haematinic deficiency
+399217012	Constitutional aplastic anaemia with malformation	D2002	D200200	267524009	399217012	NA	Anaemia & haematinic deficiency
+399223019	Aplastic anaemia due to drugs	D2011	D201100	267527002	399223019	NA	Anaemia & haematinic deficiency
+399228011	Acute posthaemorrhagic anaemia	D211	D211.00	267530009	399228011	NA	Anaemia & haematinic deficiency
+448863016	Aplastic anaemia	D20	D20..00	306058006	448863016	NA	Anaemia & haematinic deficiency
+451077018	Anaemia in ovarian carcinoma	D2120	D212000	307726001	451077018	NA	Anaemia & haematinic deficiency
+453221019	Drug-induced autoimmune haemolytic anaemia	D1104	D110400	309742004	453221019	NA	Anaemia & haematinic deficiency
+454255014	Anaemia secondary to renal failure	D215	D215.00	310647000	454255014	NA	Anaemia & haematinic deficiency
+264785015	B12 injections - at surgery	66E5	66E5.00	170823005	264785015	NA	Anaemia & haematinic deficiency
+492446019	Thalassaemia	D104	D104.00	40108008	492446019	NA	Anaemia & haematinic deficiency
+493120017	Sideroblastic anaemia	D210	D210.00	41841004	493120017	NA	Anaemia & haematinic deficiency
+493975011	Microcytic hypochromic anaemia	D00y1	D00y100	44666001	493975011	NA	Anaemia & haematinic deficiency
+495896017	Microangiopathic haemolytic anaemia	D1111	D111100	51071000	495896017	NA	Anaemia & haematinic deficiency
+497451015	Acquired aplastic anaemia	D201	D201.00	55907008	497451015	NA	Anaemia & haematinic deficiency
+504528016	Achlorhydric anaemia	D00z0	D00z000	80875006	504528016	NA	Anaemia & haematinic deficiency
+504771011	Drug-induced haemolytic anaemia	D1114	D111400	81711008	504771011	NA	Anaemia & haematinic deficiency
+505888017	Pernicious anaemia	D010	D010.00	84027009	505888017	NA	Anaemia & haematinic deficiency
+508873014	Acquired sideroblastic anaemia	D2101	D210100	90175006	508873014	NA	Anaemia & haematinic deficiency
+1216006019	[M] Refractory anaemia with sideroblasts	BBmA	BBmA.00	128846006	1216006019	NA	Anaemia & haematinic deficiency
+1216009014	[M] Refractory anaemia with excess of blasts	BBmL	BBmL.00	128847002	1216009014	NA	Anaemia & haematinic deficiency
+2535668013	Refractory anaemia with sideroblasts	B9371	B937100	109998009	2535668013	NA	Anaemia & haematinic deficiency
+351241000000113	Hypoplastic haemolytic and renal anaemia drugs Band 1	7Q090	7Q09000	221231000000105	351241000000113	NA	Anaemia & haematinic deficiency
+351261000000114	Hypoplastic haemolytic and renal anaemia drugs Band 2	7Q091	7Q09100	221241000000101	351261000000114	NA	Anaemia & haematinic deficiency
+590121000006115	Constitutional aplastic anaemia	D200	D200.00	28975000	484030019	NA	Anaemia & haematinic deficiency
+251617011	H/O: anaemia NOS	1454	1454.00	275538002	411530016	NA	Anaemia & haematinic deficiency
+293880015	Unspecified iron deficiency anaemia	D00z	D00z.00	87522002	507616014	NA	Anaemia & haematinic deficiency
+293888010	Iron deficiency anaemia NOS	D00zz	D00zz00	87522002	507616014	NA	Anaemia & haematinic deficiency
+293924010	Other vitamin B12 deficiency anaemia NOS	D011z	D011z00	49472006	495412014	NA	Anaemia & haematinic deficiency
+293946019	Other specified megaloblastic anaemia NEC	D013	D013.00	53165003	496576014	NA	Anaemia & haematinic deficiency
+293949014	Other specified megaloblastic anaemia NEC NOS	D013z	D013z00	53165003	496576014	NA	Anaemia & haematinic deficiency
+293959010	Other specified nutritional deficiency anaemia	D01y	D01y.00	267513007	399193019	NA	Anaemia & haematinic deficiency
+293966011	Other specified other nutritional deficiency anaemia	D01yy	D01yy00	267513007	399193019	NA	Anaemia & haematinic deficiency
+293969016	Other specified nutritional deficiency anaemia NOS	D01yz	D01yz00	267513007	399193019	NA	Anaemia & haematinic deficiency
+293977017	[X]Megaloblastic anaemia NOS	D01z0	D01z000	53165003	496576014	NA	Anaemia & haematinic deficiency
+293978010	Other specified deficiency anaemias	D0y	D0y..00	267513007	399193019	NA	Anaemia & haematinic deficiency
+293981017	Deficiency anaemias NOS	D0z	D0z..00	267513007	399193019	NA	Anaemia & haematinic deficiency
+294102016	Autoimmune haemolytic anaemia NOS	D110z	D110z00	413603009	2533078010	NA	Anaemia & haematinic deficiency
+294111016	Infective haemolytic anaemia	D1115	D111500	38689004	491727016	NA	Anaemia & haematinic deficiency
+294112011	Other specified non-autoimmune haemolytic anaemia	D111y	D111y00	191216004	294105019	NA	Anaemia & haematinic deficiency
+294115013	Non-autoimmune haemolytic anaemia NOS	D111z	D111z00	191216004	294105019	NA	Anaemia & haematinic deficiency
+294139015	Acquired haemolytic anaemia NOS	D11z	D11z.00	4854004	495128014	NA	Anaemia & haematinic deficiency
+294144010	Other specified haemolytic anaemias	D1y	D1y..00	61261009	498963016	NA	Anaemia & haematinic deficiency
+294145011	Haemolytic anaemias NOS	D1z	D1z..00	61261009	498963016	NA	Anaemia & haematinic deficiency
+294148013	Aplastic and other anaemias	D2	D2...00	271737000	406638014	NA	Anaemia & haematinic deficiency
+294179012	Other specified constitutional aplastic anaemia	D200y	D200y00	267525005	399219010	NA	Anaemia & haematinic deficiency
+294227016	Aplastic anaemia NOS	D20z	D20z.00	306058006	448863016	NA	Anaemia & haematinic deficiency
+294236017	Sideroblastic anaemia NOS	D210z	D210z00	41841004	493120017	NA	Anaemia & haematinic deficiency
+294275014	Other specified other anaemia	D21yy	D21yy00	271737000	406638014	NA	Anaemia & haematinic deficiency
+294278011	Other specified anaemia NOS	D21yz	D21yz00	271737000	406638014	NA	Anaemia & haematinic deficiency
+294291012	Other anaemias NOS	D2z	D2z..00	271737000	406638014	NA	Anaemia & haematinic deficiency
+294564014	[X]Nutritional anaemias	Dyu0	Dyu0.00	66612000	500483015	NA	Anaemia & haematinic deficiency
+294567019	[X]Other iron deficiency anaemias	Dyu00	Dyu0000	87522002	507616014	NA	Anaemia & haematinic deficiency
+294571016	[X]Other vitamin B12 deficiency anaemias	Dyu02	Dyu0200	49472006	495412014	NA	Anaemia & haematinic deficiency
+294572011	[X]Other folate deficiency anaemias	Dyu03	Dyu0300	85649008	506650011	NA	Anaemia & haematinic deficiency
+294579019	[X]Vitamin B12 deficiency anaemia, unspecified	Dyu06	Dyu0600	49472006	495414010	NA	Anaemia & haematinic deficiency
+294582012	[X]Haemolytic anaemias	Dyu1	Dyu1.00	61261009	498963016	NA	Anaemia & haematinic deficiency
+294593014	[X]Other autoimmune haemolytic anaemias	Dyu15	Dyu1500	413603009	2533078010	NA	Anaemia & haematinic deficiency
+294607014	[X]Other specified anaemias	Dyu24	Dyu2400	271737000	406638014	NA	Anaemia & haematinic deficiency
+399196010	Other deficiency anaemias	D01	D01..00	267513007	399193019	NA	Anaemia & haematinic deficiency
+399198011	Other vitamin B12 deficiency anaemias	D011	D011.00	49472006	495412014	NA	Anaemia & haematinic deficiency
+399205010	Other deficiency anaemias NOS	D01z	D01z.00	267513007	399193019	NA	Anaemia & haematinic deficiency
+399206011	Thalassaemia major NEC	D1040	D104000	75451007	503017017	NA	Anaemia & haematinic deficiency
+399209016	Thalassaemia NOS	D104z	D104z00	40108008	492446019	NA	Anaemia & haematinic deficiency
+399210014	Haemoglobinuria due to haemolysis from external cause NOS	D112z	D112z00	191222008	294116014	NA	Anaemia & haematinic deficiency
+399225014	Acquired aplastic anaemia NOS	D201z	D201z00	55907008	497451015	NA	Anaemia & haematinic deficiency
+399230013	Anaemia unspecified	D21z	D21z.00	271737000	406636013	NA	Anaemia & haematinic deficiency
+508244016	Congenital hypoplastic anaemia	D2000	D200000	28975000	484030019	NA	Anaemia & haematinic deficiency
+62031000006117	Vit B12 defic anaemia due to malabsorption with proteinuria	D0111	D011100	191142007	293918016	NA	Anaemia & haematinic deficiency
+62281000006111	Vitamin B12 deficiency anaemia, unspecified	D011X	D011X00	49472006	495414010	NA	Anaemia & haematinic deficiency
+141181000006110	Sickle-cell anaemia	D106	D106.00	127040003	474022010	NA	Anaemia & haematinic deficiency
+141211000006114	Sickle-cell anaemia with crisis	D1062	D106200	417425009	2553636014	NA	Anaemia & haematinic deficiency
+315831000006119	[M]Refractory anaemia+excess of blasts with transformation	BBmB	BBmB.00	128848007	1216011017	NA	Anaemia & haematinic deficiency
+454071000006113	Acquired haemolytic anaemias	D11	D11..00	4854004	495128014	NA	Anaemia & haematinic deficiency
+480871000006117	Anaemia secondary to chronic renal failure	D2150	D215000	49708008	495474017	NA	Anaemia & haematinic deficiency
+500191000006115	Autoimmune haemolytic anaemias	D110	D110.00	413603009	2533078010	NA	Anaemia & haematinic deficiency
+510091000006118	Beta major thalassaemia	D1047	D104700	26682008	483318012	NA	Anaemia & haematinic deficiency
+731981000006116	Macrocytic anaemia unspecified cause	D0125	D012500	83414005	138355014	NA	Anaemia & haematinic deficiency
+745851000006117	Iron deficiency anaemias	D00	D00..00	87522002	507616014	NA	Anaemia & haematinic deficiency
+763231000006117	Folate-deficiency anaemia due to dietary causes	D0121	D012100	267518003	399202013	NA	Anaemia & haematinic deficiency
+763241000006110	Folate-deficiency anaemia due to liver disorders	D0124	D012400	191150003	293939011	NA	Anaemia & haematinic deficiency
+763251000006112	Folate-deficiency anaemia due to malabsorption	D0123	D012300	191149003	293938015	NA	Anaemia & haematinic deficiency
+763261000006114	Folate-deficiency anaemia NOS	D012z	D012z00	85649008	506650011	NA	Anaemia & haematinic deficiency
+763271000006119	Folate-deficiency anaemia, drug induced	D0122	D012200	191148006	293935017	NA	Anaemia & haematinic deficiency
+813861000006112	Haemolytic anaemias	D1	D1...00	61261009	498963016	NA	Anaemia & haematinic deficiency
+179151000006119	Refractory anaemia with excess of blasts with transformation	B9373	B937300	110000005	202883012	NA	Anaemia & haematinic deficiency
+179181000006110	Refractory anaemia, unspecified	B937X	B937X00	109996008	202875018	NA	Anaemia & haematinic deficiency
+294603013	[X]Anaemia in other chronic diseases classified elsewhere	Dyu22	Dyu2200	234347009	351077019	NA	Anaemia & haematinic deficiency
+294599013	[X]Aplastic and other anaemias	Dyu2	Dyu2.00	271737000	406638014	NA	Anaemia & haematinic deficiency
+293877016	Other specified iron deficiency anaemia NOS	D00yz	D00yz00	87522002	507616014	NA	Anaemia & haematinic deficiency
+294290013	Other specified anaemias	D2y	D2y..00	271737000	406638014	NA	Anaemia & haematinic deficiency
+294568012	[X]Other dietary vitamin B12 deficiency anaemia	Dyu01	Dyu0100	267517008	399201018	NA	Anaemia & haematinic deficiency
+399195014	Other specified iron deficiency anaemia	D00y	D00y.00	87522002	145104011	NA	Anaemia & haematinic deficiency
+15581000006119	Other specified anaemias	D21y	D21y.00	271737000	406638014	NA	Anaemia & haematinic deficiency
+38181000006111	Other and unspecified anaemias	D21	D21..00	271737000	406638014	NA	Anaemia & haematinic deficiency
+141251000006110	Sickle-cell anaemia with no crisis	D1061	D106100	416180004	2548681017	NA	Anaemia & haematinic deficiency
+745811000006118	Iron deficiency anaemia due to chronic blood loss	D000	D000.00	413533008	2532901013	NA	Anaemia & haematinic deficiency
+763221000006115	Folate-deficiency anaemia	D012	D012.00	85649008	506649011	NA	Anaemia & haematinic deficiency
+251614016	H/O: Anaemia vit.B12 deficient	1452	1452.00	161457000	3009146015	NA	Anaemia & haematinic deficiency
+293952018	Protein-deficiency anaemia	D014	D014.00	85746008	506707014	NA	Anaemia & haematinic deficiency
+293956015	Protein-deficiency anaemia NOS	D014z	D014z00	85746008	142125016	NA	Anaemia & haematinic deficiency
+141191000006113	Sickle-cell anaemia NOS	D106z	D106z00	127040003	3688058019	NA	Anaemia & haematinic deficiency
+141201000006111	Sickle-cell anaemia of unspecified type	D1060	D106000	127040003	3688058019	NA	Anaemia & haematinic deficiency
+479141000006117	Amino-acid deficiency anaemia	D0140	D014000	85746008	506707014	NA	Anaemia & haematinic deficiency
+186311000006115	Refractory anaemia with excess of blasts	B9372	B937200	398623004	1783650013	NA	Anaemia & haematinic deficiency
