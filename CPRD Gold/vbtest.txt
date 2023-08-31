@@ -1,0 +1,8 @@
+medcode	readcode	readterm
+7926	42T..00	Serum vitamin B12
+13723	42T1.00	Serum vitamin B12 normal
+4647	42T2.00	Serum vitamin B12 low
+18873	42T3.00	Serum vit B12 borderline
+18648	42TZ.00	Serum vitamin B12 NOS
+18526	44Lc.00	Vitamin B12 level
+18570	44Le.00	Plasma vitamin B12 level

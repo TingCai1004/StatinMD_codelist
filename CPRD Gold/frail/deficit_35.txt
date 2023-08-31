@@ -1,0 +1,13 @@
+Deficit	medcode
+Dyspnoea	1429
+Dyspnoea	6326
+Dyspnoea	7932
+Dyspnoea	31143
+Dyspnoea	2931
+Dyspnoea	4822
+Dyspnoea	2575
+Dyspnoea	19430
+Dyspnoea	21801
+Dyspnoea	7000
+Dyspnoea	741
+Dyspnoea	3092

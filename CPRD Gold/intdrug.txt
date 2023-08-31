@@ -1,0 +1,599 @@
+prodcode	productname	drugsubstance	bnfcode	bnfchapter
+63	Erythromycin 250mg gastro-resistant tablets	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+103	Erythromycin 250mg gastro-resistant capsules	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+104	Benzamycin gel (Schwarz Pharma Ltd)	Benzoyl peroxide/Erythromycin	00000000	Unknown
+105	Erythroped 250mg/5ml Liquid (Abbott Laboratories Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+184	Bezafibrate 200mg tablets	Bezafibrate	02120300	Fibrates
+201	Erythrocin 1g/vial Injection (Abbott Laboratories Ltd)	Erythromycin lactobionate	05010500	Macrolides
+318	Erymax 250mg Capsule (Elan Pharma)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+327	Erythroped a 500mg Tablet (Abbott Laboratories Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+331	Clarithromycin 125mg/5ml oral suspension	Clarithromycin	05010500	Macrolides
+342	Fluconazole 50mg capsules	Fluconazole	05020100	Triazole Antifungals
+397	Erythromycin 125mg/5ml oral suspension	Erythromycin Ethyl Succinate	05010500	Macrolides
+401	Erythromycin 500mg ec gastro-resistant tablets	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+438	Erythromycin stearate 250mg tablets	Erythromycin stearate	05010500	Macrolides
+480	Erythrocin 250mg Tablet (Abbott Laboratories Ltd)	Erythromycin stearate	05010500	Macrolides
+532	Erythroped 250mg/5ml Oral suspension (Abbott Laboratories Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+537	Clarithromycin 250mg tablets	Clarithromycin	05010500	Macrolides
+553	Erythromycin 250mg.5ml oral suspension	Erythromycin Ethyl Succinate	05010500	Macrolides
+587	Fucidin 250mg tablets (LEO Pharma)	Sodium fusidate	05010700	Other Antibacterials
+602	Bezafibrate 400mg modified-release tablets	Bezafibrate	02120300	Fibrates
+653	Ezetimibe 10mg tablets	Ezetimibe	02120000	Lipid-regulating Drugs
+681	Clarithromycin 500mg tablets	Clarithromycin	05010500	Macrolides
+733	Erythromycin ethyl succinate 500mg tablets	Erythromycin ethyl succinate	05010500	Macrolides
+762	Colchicine 500microgram tablets	Colchicine	10010450	Acute Attacks Of Gout
+765	Clarithromycin 250mg granules sachets	Clarithromycin	05010500	Macrolides
+788	Diflucan 50mg capsules (Pfizer Ltd)	Fluconazole	05020100	Triazole Antifungals
+825	Erythroped pi 125mg/5ml Oral suspension (Abbott Laboratories Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+929	Daktacort 2%/1% cream (Janssen-Cilag Ltd)	Hydrocortisone/Miconazole nitrate	13040000/13040100	Topical Corticosteroids/Topical Corticosteroids With Antimicrobials
+946	Fucidin H ointment (LEO Pharma)	Hydrocortisone acetate/Sodium fusidate	00000000	Unknown
+972	Neoral 25mg capsules (Novartis Pharmaceuticals UK Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+973	Neoral 100mg capsules (Novartis Pharmaceuticals UK Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+993	Erythroped forte 500mg/5ml Liquid (Abbott Laboratories Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+997	Erythroped pi 125mg/5ml Liquid (Abbott Laboratories Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+1040	Stiemycin 2% solution (Stiefel Laboratories (UK) Ltd)	Erythromycin	13060100	Topical Preparations For Acne
+1064	Fucidin 20mg/g ointment (LEO Pharma)	Sodium fusidate	13100102	Antibacterial Preparations Also Used Systemically (for Skin Conditions)
+1072	Erythrocin 500 500mg Tablet (Abbott Laboratories Ltd)	Erythromycin stearate	05010500	Macrolides
+1214	Bezalip 400mg Tablet (Roche Products Ltd)	Bezafibrate	02120300	Fibrates
+1215	Fenofibrate 100mg Capsule	Fenofibrate	02120300	Fibrates
+1217	Lipantil micro 200 200mg Capsule (Fournier Pharmaceuticals Ltd)	Fenofibrate micronised	02120300	Fibrates
+1309	Diflucan 150mg capsules (Pfizer Ltd)	Fluconazole	05020100	Triazole Antifungals
+1313	Daktarin 2% cream (Janssen-Cilag Ltd)	Miconazole nitrate	13100200	Antifungal Preparations (topical, For Skin Conditions)
+1324	Bezalip 200mg Tablet (Roche Products Ltd)	Bezafibrate	02120300	Fibrates
+1430	Daktacort ointment (Janssen-Cilag Ltd)	Miconazole nitrate/Hydrocortisone	13040000/13040100	Topical Corticosteroids/Topical Corticosteroids With Antimicrobials
+1497	Sodium fusidate 250mg tablets	Sodium fusidate	05010700	Other Antibacterials
+1626	Ciclosporin 100mg/ml oral solution sugar free	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+1677	Miconazole with hydrocortisone 2% with 1% Cream	Miconazole Nitrate/Hydrocortisone Acetate	13040200/13100200	Mild Topical Corticosteroids/Antifungal Preparations (topical, For Skin Conditions)
+1830	Diflucan One 150mg capsules (McNeil Products Ltd)	Fluconazole	05020000/05020100	Antifungal Drugs/Triazole Antifungals
+1892	Fluconazole 150mg capsules	Fluconazole	05020100	Triazole Antifungals
+1905	Neoral 100mg/ml oral solution (Novartis Pharmaceuticals UK Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+1966	Miconazole 100mg pessaries	Miconazole nitrate	00000000	Unknown
+1967	Gyno-Daktarin 100mg pessaries (Janssen-Cilag Ltd)	Miconazole nitrate	00000000	Unknown
+1968	Miconazole 2% cream	Miconazole nitrate	13100200	Antifungal Preparations (topical, For Skin Conditions)
+1970	Gyno-Daktarin 2% vaginal cream (Janssen-Cilag Ltd)	Miconazole nitrate	07020100	Preparations For Vaginal And Vulval Changes
+2096	Daktarin Aktiv 2% powder (McNeil Products Ltd)	Miconazole nitrate	13100200	Antifungal Preparations (topical, For Skin Conditions)
+2210	Sodium fusidate 2% ointment	Sodium fusidate	13100102	Antibacterial Preparations Also Used Systemically (for Skin Conditions)
+2215	Lopid 300mg capsules (Pfizer Ltd)	Gemfibrozil	02120300	Fibrates
+2225	Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free	Erythromycin ethyl succinate	05010500	Macrolides
+2226	Erythromycin ethyl succinate 500mg/5ml oral suspension	Erythromycin ethyl succinate	05010500	Macrolides
+2238	Miconazole 2% vaginal cream	Miconazole nitrate	07020100	Preparations For Vaginal And Vulval Changes
+2326	Erythromycin 500mg/5ml oral suspension	Erythromycin Ethyl Succinate	05010500	Macrolides
+2350	Erythromycin stearate 500mg tablets	Erythromycin stearate	05010500	Macrolides
+2376	Erythromycin ethyl succinate 250mg/5ml oral suspension	Erythromycin ethyl succinate	05010500	Macrolides
+2396	Daktarin 20mg/g oromucosal gel (Janssen-Cilag Ltd)	Miconazole	12030200	Oropharyngeal Anti-infective Drugs
+2429	Erythromycin ethyl succinate 125mg/5ml oral suspension	Erythromycin ethyl succinate	05010500	Macrolides
+2435	Lipantil 100mg Capsule (Fournier Pharmaceuticals Ltd)	Fenofibrate	02120300	Fibrates
+2625	Hydrocortisone 1% / Miconazole 2% ointment	Miconazole nitrate/Hydrocortisone	13040000/13040100	Topical Corticosteroids/Topical Corticosteroids With Antimicrobials
+2672	Zineryt lotion (LEO Pharma)	Erythromycin/Zinc acetate	13060102	Topical Antibacterials For Acne
+2719	Klaricid 250mg tablets (Abbott Laboratories Ltd)	Clarithromycin	05010500	Macrolides
+2756	Benzoyl peroxide 5% with Miconazole nitrate 2% cream	Miconazole Nitrate/Benzoyl Peroxide	13060101/13060102	Benzoyl Peroxide And Azelaic Acid For Acne/Topical Antibacterials For Acne
+2837	Ciclosporin 50mg capsules	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+2838	Ciclosporin 25mg capsules	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+2875	Hydrocortisone acetate 1% / Sodium fusidate 2% ointment	Hydrocortisone acetate/Sodium fusidate	00000000	Unknown
+3042	Erythroped pi 125mg Sachets (Abbott Laboratories Ltd)	Erythromycin Ethyl Succinate	05010500	Macrolides
+3089	Ciprofibrate 100mg tablets	Ciprofibrate	02120300	Fibrates
+3159	Fenofibrate 200mg capsules	Fenofibrate	02120300	Fibrates
+3209	Erythromid 250mg Tablet (Abbott Laboratories Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+3280	Daktarin Twin pack (Janssen-Cilag Ltd)	Miconazole Nitrate	13100200	Antifungal Preparations (topical, For Skin Conditions)
+3318	Gemfibrozil 300mg capsules	Gemfibrozil	02120300	Fibrates
+3572	Erythroped 250mg Powder (Abbott Laboratories Ltd)	Erythromycin Ethyl Succinate	05010500	Macrolides
+3736	Klaricid 125mg/5ml Oral suspension (Abbott Laboratories Ltd)	Clarithromycin	05010500	Macrolides
+3747	Acnidazil Cream (Johnson+Johnson MSD Consumer Pharmaceuticals)	Miconazole Nitrate/Benzoyl Peroxide	13060101/13060102	Benzoyl Peroxide And Azelaic Acid For Acne/Topical Antibacterials For Acne
+3896	Ciclosporin 100mg capsules	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+3920	Sandimmun 25mg capsules (Novartis Pharmaceuticals UK Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+4062	Lopid 600mg tablets (Pfizer Ltd)	Gemfibrozil	02120300	Fibrates
+4071	Diflucan 200mg capsules (Pfizer Ltd)	Fluconazole	05020100	Triazole Antifungals
+4153	Erythrolar 250mg/5ml Liquid (Lagap)	Erythromycin ethyl succinate	05010500	Macrolides
+4204	Miconazole 20mg/g oromucosal gel sugar free	Miconazole	12030200	Oropharyngeal Anti-infective Drugs
+4229	Fluconazole 200mg capsules	Fluconazole	05020100	Triazole Antifungals
+4231	Neoral 50mg capsules (Novartis Pharmaceuticals UK Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+4372	Erythroped forte 500mg Sachets (Abbott Laboratories Ltd)	Erythromycin Ethyl Succinate	05010500	Macrolides
+4489	Erycen 250mg Tablet (Berk Pharmaceuticals Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+4596	Erythroped a 1g Sachets (Abbott Laboratories Ltd)	Erythromycin Ethyl Succinate	05010500	Macrolides
+4610	Erythroped forte 500mg/5ml Oral suspension (Abbott Laboratories Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+4672	Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free	Erythromycin ethyl succinate	05010500	Macrolides
+4780	Erythromycin 40mg/ml / Zinc acetate 12mg/ml lotion	Erythromycin/Zinc acetate	13060102	Topical Antibacterials For Acne
+4891	Erythromycin 4% gel	Erythromycin	13060100	Topical Preparations For Acne
+4895	Benzoyl peroxide 5% / Erythromycin 3% gel	Benzoyl peroxide/Erythromycin	00000000	Unknown
+4920	Fenofibrate micronised 200mg capsules	Fenofibrate micronised	02120300	Fibrates
+4928	Lipantil Micro 200 capsules (Mylan)	Fenofibrate micronised	02120300	Fibrates
+5067	Isotrexin gel (Stiefel Laboratories (UK) Ltd)	Isotretinoin/Erythromycin	13060103	Topical Retinoids And Related Preparations For Acne
+5131	Daktarin 2% powder (McNeil Products Ltd)	Miconazole nitrate	13100200	Antifungal Preparations (topical, For Skin Conditions)
+5216	Bezalip mono 400mg Modified-release tablet (Roche Products Ltd)	Bezafibrate	02120300	Fibrates
+5321	Miconazole with hydrocortisone 2% with 1% Ointment	Miconazole Nitrate/Hydrocortisone Acetate	13040200/13100200	Mild Topical Corticosteroids/Antifungal Preparations (topical, For Skin Conditions)
+5357	Clarithromycin 250mg/5ml oral suspension	Clarithromycin	05010500	Macrolides
+5361	Daktarin 24mg/ml Oral gel (McNeil Products Ltd)	Miconazole	12030200	Oropharyngeal Anti-infective Drugs
+5390	Fenofibrate micronised 267mg capsules	Fenofibrate micronised	02120300	Fibrates
+5397	Eryacne 2 gel (Galderma (UK) Ltd)	Erythromycin	00000000	Unknown
+5511	Fluconazole 50mg/5ml oral suspension	Fluconazole	05020100	Triazole Antifungals
+5565	Miconazole 2% powder	Miconazole nitrate	13100200	Antifungal Preparations (topical, For Skin Conditions)
+5662	Amoxicillin 500mg / Clarithromycin 500mg / Lansoprazole 30mg triple pack	Amoxicillin Trihydrate/Lansoprazole/Clarithromycin	01030500/05010103	Proton Pump Inhibitors/Broad-spectrum Penicillins
+5687	Miconazole 0.16% dry powder spray	Miconazole nitrate	13100200	Antifungal Preparations (topical, For Skin Conditions)
+5716	Eryacne 4 gel (Galderma (UK) Ltd)	Erythromycin	13060100	Topical Preparations For Acne
+5734	Gyno-Daktarin 1200mg vaginal capsules (Janssen-Cilag Ltd)	Miconazole nitrate	07020250	Preparations For Vaginal And Vulval Candidiasis
+5857	Diflucan 50mg/5ml oral suspension (Pfizer Ltd)	Fluconazole	05020100	Triazole Antifungals
+5904	Diflucan 200mg/5ml oral suspension (Pfizer Ltd)	Fluconazole	05020100	Triazole Antifungals
+6048	Daktacort Hydrocortisone cream (McNeil Products Ltd)	Hydrocortisone/Miconazole nitrate	13040000/13040100	Topical Corticosteroids/Topical Corticosteroids With Antimicrobials
+6120	Ezetrol 10mg tablets (Merck Sharp & Dohme Ltd)	Ezetimibe	02120000	Lipid-regulating Drugs
+6121	Klaricid XL 500mg tablets (Mylan)	Clarithromycin	05010500	Macrolides
+6426	Erythromycin 2% solution	Erythromycin	13060100	Topical Preparations For Acne
+6497	Clarithromycin 500mg with metronidazole 400mg with lansoprazole 30mg triple pack	Metronidazole/Lansoprazole/Clarithromycin	01030500/05010500	Proton Pump Inhibitors/Macrolides
+6623	Klaricid 500 tablets (Abbott Laboratories Ltd)	Clarithromycin	05010500	Macrolides
+6803	Clarithromycin 500mg modified-release tablets	Clarithromycin	05010500	Macrolides
+7447	Miconazole 250mg Tablet	Miconazole Nitrate	05020000	Antifungal Drugs
+7540	Lipantil Micro 267 capsules (Mylan)	Fenofibrate micronised	02120300	Fibrates
+7552	Simvastatin 20mg / Ezetimibe 10mg tablets	Simvastatin/Ezetimibe	02120200/02120400	Ezetimibe/Statins
+7628	Fucidin intertulle sodium fusidate Impregnated gauze dressing 10cmx10cm (LEO Pharma)	Sodium Fusidate	72072000	Tulle Dressings
+8067	Miconazole Twin pack	Miconazole Nitrate	13100200	Antifungal Preparations (topical, For Skin Conditions)
+8082	Gemfibrozil 600mg tablets	Gemfibrozil	02120300	Fibrates
+8211	Benzoyl peroxide 5% with Erythromycin 3% gel	Benzoyl Peroxide/Erythromycin	13060101/13060102	Benzoyl Peroxide And Azelaic Acid For Acne/Topical Antibacterials For Acne
+8706	Modalim 100mg tablets (Sanofi)	Ciprofibrate	02120300	Fibrates
+9148	Erythromid ds 500mg Tablet (Abbott Laboratories Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+9294	Miconazole 5% Denture lacquer	Miconazole	05020000/12030200	Antifungal Drugs/Oropharyngeal Anti-infective Drugs
+9314	Hydrocortisone 1% / Miconazole 2% cream	Hydrocortisone/Miconazole nitrate	13040000/13040100	Topical Corticosteroids/Topical Corticosteroids With Antimicrobials
+9339	Fucidin intertulle 2% 2% w/v Intertulle (LEO Pharma)	Sodium Fusidate	13100102	Antibacterial Preparations Also Used Systemically (for Skin Conditions)
+9434	Erymin 250mg/5ml Oral suspension (Elan Pharma)	Erythromycin Ethyl Succinate	05010500	Macrolides
+9491	Fenofibrate micronised 67mg capsules	Fenofibrate micronised	02120300	Fibrates
+9583	Klaricid 250mg/5ml Oral suspension (Abbott Laboratories Ltd)	Clarithromycin	05010500	Macrolides
+9629	Daktarin Aktiv 0.16% spray powder (McNeil Products Ltd)	Miconazole nitrate	13100200	Antifungal Preparations (topical, For Skin Conditions)
+9639	Fenofibrate micronised 160mg tablets	Fenofibrate micronised	02120300	Fibrates
+9656	Erythromycin 2% gel	Erythromycin	00000000	Unknown
+9716	Supralip 160mg tablets (Mylan)	Fenofibrate micronised	02120300	Fibrates
+9760	Tretinoin 0.025% / Erythromycin 4% solution	Erythromycin/Tretinoin	13060103	Topical Retinoids And Related Preparations For Acne
+9903	Erythromycin estolate 250mg capsules	Erythromycin Lactobionate	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+9957	Daktarin Aktiv 2% cream (McNeil Products Ltd)	Miconazole nitrate	13100200	Antifungal Preparations (topical, For Skin Conditions)
+9997	Isotretinoin 0.05% / Erythromycin 2% gel	Isotretinoin/Erythromycin	13060103	Topical Retinoids And Related Preparations For Acne
+10172	Simvastatin 40mg / Ezetimibe 10mg tablets	Simvastatin/Ezetimibe	02120200/02120400	Ezetimibe/Statins
+10183	Simvastatin 40mg with ezetimibe 10mg tablet	Simvastatin/Ezetimibe	02120200/02120400	Ezetimibe/Statins
+10190	Erymax 250mg gastro-resistant capsules (Teva UK Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+10206	Simvastatin 80mg with ezetimibe 10mg tablet	Simvastatin/Ezetimibe	02120200/02120400	Ezetimibe/Statins
+10326	Clarithromycin 125mg granules straws	Clarithromycin	00000000	Unknown
+10389	Miconazole 1.2g Pessary	Miconazole Nitrate	07020200	Vaginal And Vulval Infections
+10634	Gyno-daktarin Tampon (Janssen-Cilag Ltd)	Miconazole Nitrate	07020200	Vaginal And Vulval Infections
+10903	Miconazole 1.2g vaginal capsules	Miconazole nitrate	07020250	Preparations For Vaginal And Vulval Candidiasis
+11433	Clarithromycin 500mg with lansoprazole 30mg and amoxicillin 500mg triple pack	Amoxicillin Trihydrate/Lansoprazole/Clarithromycin	01030500/05010103	Proton Pump Inhibitors/Broad-spectrum Penicillins
+11611	Rommix 250 EC tablets (Ashbourne Pharmaceuticals Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+11703	Miconazole 2% / Fluprednidene 0.1% cream	Miconazole nitrate/Fluprednidene acetate	00000000	Unknown
+11724	Acorvio Plus cream (Ferndale Pharmaceuticals Ltd)	Miconazole nitrate/Fluprednidene acetate	00000000	Unknown
+11810	Fluconazole 200mg/5ml oral suspension	Fluconazole	05020100	Triazole Antifungals
+11815	Simvastatin 20mg with ezetimibe 10mg tablet	Simvastatin/Ezetimibe	02120200/02120400	Ezetimibe/Statins
+11820	Clotrimazole 2% cream with Fluconazole 150mg capsules	Fluconazole/Clotrimazole	05020000/07020200	Antifungal Drugs/Vaginal And Vulval Infections
+12330	Erythromycin ethylsuccinate 1g sachets	Erythromycin Ethyl Succinate	05010500	Macrolides
+13120	Erythromycin ethyl succinate 250mg/5ml oral suspension (A A H Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+13167	Erythromycin ethyl succinate 125mg/5ml oral suspension (A A H Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+13323	Clarithromycin 500mg powder for solution for infusion vials	Clarithromycin	05010500	Macrolides
+13494	Sandimmun 100mg/ml oral solution (Novartis Pharmaceuticals UK Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+13556	Sandimmun 100mg capsules (Novartis Pharmaceuticals UK Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+13635	Erythromycin ethylsuccinate 250mg sachets	Erythromycin Ethyl Succinate	05010500	Macrolides
+13881	Aknemycin Plus solution (Almirall Ltd)	Erythromycin/Tretinoin	13060100	Topical Preparations For Acne
+14171	Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free	Erythromycin ethyl succinate	05010500	Macrolides
+14219	Simvastatin 80mg / Ezetimibe 10mg tablets	Simvastatin/Ezetimibe	02120200/02120400	Ezetimibe/Statins
+14261	Canesten Thrush Oral 150mg capsules (Bayer Plc)	Fluconazole	05020100	Triazole Antifungals
+14379	Lipantil Micro 67 capsules (Mylan)	Fenofibrate micronised	02120300	Fibrates
+14429	Erythromycin 125mg sprinkle capsules	Erythromycin	05010500	Macrolides
+14511	Erymax sprinkle 125mg Capsule (Elan Pharma)	Erythromycin	05010500	Macrolides
+14816	Klaricid Adult 250mg granules sachets (Mylan)	Clarithromycin	05010500	Macrolides
+15143	Daktarin 0.16% Spray powder (McNeil Products Ltd)	Miconazole nitrate	13100200	Antifungal Preparations (topical, For Skin Conditions)
+15290	Lansoprazole with amoxicillin and clarithromycin 30mg + 500mg + 500mg Triple pack	Amoxicillin Trihydrate/Lansoprazole/Clarithromycin	01030500/05010103	Proton Pump Inhibitors/Broad-spectrum Penicillins
+15428	Femeron 2% w/v Cream (Johnson+Johnson MSD Consumer Pharmaceuticals)	Miconazole nitrate	07020200	Vaginal And Vulval Infections
+15596	Sandimmun 50mg capsules (Novartis Pharmaceuticals UK Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+15713	Erythromycin ethylsuccinate 500mg sachets	Erythromycin Ethyl Succinate	05010500	Macrolides
+16035	Ciclosporin 10mg capsules	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+16137	Neoral 10mg capsules (Novartis Pharmaceuticals UK Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+16186	Inegy 10mg/80mg tablets (Merck Sharp & Dohme Ltd)	Simvastatin/Ezetimibe	02120200/02120400	Ezetimibe/Statins
+16693	Monistat 2% Cream (Ward Surgical & Supplies Ltd)	Miconazole nitrate	07020200	Vaginal And Vulval Infections
+16695	Daktarin 250mg Tablet (Janssen-Cilag Ltd)	Miconazole Nitrate	05020000	Antifungal Drugs
+16747	Erythroped 250mg Sachets (Abbott Laboratories Ltd)	Erythromycin Ethyl Succinate	05010500	Macrolides
+17059	Inegy 10mg/40mg tablets (Merck Sharp & Dohme Ltd)	Simvastatin/Ezetimibe	02120200/02120400	Ezetimibe/Statins
+17168	Dermonistat 2% Cream (Ward Surgical & Supplies Ltd)	Miconazole nitrate	13100200	Antifungal Preparations (topical, For Skin Conditions)
+17207	Ilosone 250mg Capsule (Dista Products Ltd)	Erythromycin Lactobionate	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+17614	Zimbacol XL 400mg tablets (Archimedes Pharma UK Ltd)	Bezafibrate	02120300	Fibrates
+17645	Clarithromycin 250mg granules straws	Clarithromycin	00000000	Unknown
+18643	Ilosone 500mg Tablet (Dista Products Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+18682	Ilosone 125mg/5ml Liquid (Dista Products Ltd)	Erythromycin Lactobionate	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+18772	Dumicoat 5% Denture lacquer (Actavis UK Ltd)	Miconazole	05020000/12030200	Antifungal Drugs/Oropharyngeal Anti-infective Drugs
+19222	Ciclosporin 2% eye drops preservative free	Ciclosporin	11080000/18010000	Miscellaneous Ophthalmic Preparations/Miscellaneous Specials
+19330	Ilosone 250mg/5ml Liquid (Dista Products Ltd)	Erythromycin Lactobionate	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+19370	Ciclosporin 50mg/ml concentrate solution infusion	Ciclosporin	01050300/08020200	Drugs Affecting The Immune Response (in Chronic Bowel Disorders)/Corticosteroids And Other Immunosuppressants
+20460	Hydrocortisone with sodium fusidate 1%with2% Ointment	Hydrocortisone Acetate/Sodium Fusidate	13040200/13100102	Mild Topical Corticosteroids/Antibacterial Preparations Also Used Systemically (for Skin Conditions)
+21020	Inegy 10mg/20mg tablets (Merck Sharp & Dohme Ltd)	Simvastatin/Ezetimibe	02120200/02120400	Ezetimibe/Statins
+21538	Daktarin 2% cream (McNeil Products Ltd)	Miconazole nitrate	13100200	Antifungal Preparations (topical, For Skin Conditions)
+21623	Femeron 1.2g Pessary (Johnson+Johnson MSD Consumer Pharmaceuticals)	Miconazole Nitrate	07020200	Vaginal And Vulval Infections
+21808	Rommix 125mg/5ml Oral suspension sugar free (Ashbourne Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+22063	Sodium fusidate 500mg powder and solvent for solution for infusion vials	Sodium fusidate	05010700	Other Antibacterials
+23017	Erycen 500mg Tablet (Berk Pharmaceuticals Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+23055	Miconazole with benzoyl peroxide 2% with 5% Cream	Miconazole Nitrate/Benzoyl Peroxide	13060101/13060102	Benzoyl Peroxide And Azelaic Acid For Acne/Topical Antibacterials For Acne
+23153	Liparol 400 XL tablets (Ashbourne Pharmaceuticals Ltd)	Bezafibrate	02120300	Fibrates
+23244	Ilotycin 250mg Tablet (Eli Lilly and Company Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+23559	Acorvio 2% cream (Ferndale Pharmaceuticals Ltd)	Miconazole nitrate	13100200	Antifungal Preparations (topical, For Skin Conditions)
+23954	Erythrolar 500mg Tablet (Lagap)	Erythromycin stearate	05010500	Macrolides
+24127	Erythromycin 250mg gastro-resistant tablets (A A H Pharmaceuticals Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+24129	Erythromycin 250mg gastro-resistant tablets (IVAX Pharmaceuticals UK Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+24220	Arpimycin 250mg/5ml Liquid (Rosemont Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+24883	Sodium fusidate 2% gauze dressing	Sodium Fusidate	13100102	Antibacterial Preparations Also Used Systemically (for Skin Conditions)
+25278	Rommix 500mg Tablet (Ashbourne Pharmaceuticals Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+25280	Tiloryth 250mg gastro-resistant capsules (Tillomed Laboratories Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+25595	Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (IVAX Pharmaceuticals UK Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+25751	Erythromycin ethylsuccinate (coated) 250mg/5ml oral suspension sugar free	Erythromycin Ethyl Succinate	05010500	Macrolides
+26059	Clarithromycin 187.5mg granules straws	Clarithromycin	00000000	Unknown
+26189	Erythromycin 1g powder for solution for infusion vials	Erythromycin lactobionate	05010500	Macrolides
+26365	Erythromycin 500mg Tablet (IVAX Pharmaceuticals UK Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+26790	Sandimmun 50mg/ml Concentrate for solution for infusion (Novartis Pharmaceuticals UK Ltd)	Ciclosporin	01050300/08020200	Drugs Affecting The Immune Response (in Chronic Bowel Disorders)/Corticosteroids And Other Immunosuppressants
+27203	Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Teva UK Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+27495	Arpimycin 125mg/5ml Liquid (Rosemont Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+27504	Primacine 500mg/5ml Liquid (Pinewood Healthcare)	Erythromycin ethyl succinate	05010500	Macrolides
+27768	Erythrolar 250mg Tablet (Lagap)	Erythromycin stearate	05010500	Macrolides
+28289	Klaricid IV 500mg powder for solution for infusion vials (Mylan)	Clarithromycin	05010500	Macrolides
+28349	Clarosip 125mg granules for oral suspension straws (Grunenthal Ltd)	Clarithromycin	00000000	Unknown
+29154	Erythromycin 250mg Capsule (Actavis UK Ltd)	Erythromycin Lactobionate	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+29213	Bezagen XL 400mg tablets (Mylan)	Bezafibrate	02120300	Fibrates
+29328	Bezafibrate 200mg tablets (A A H Pharmaceuticals Ltd)	Bezafibrate	02120300	Fibrates
+29344	Erythromycin 250mg gastro-resistant tablets (Actavis UK Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+29504	Fluconazole 2mg/ml Infusion	Fluconazole	05020000/12030200	Antifungal Drugs/Oropharyngeal Anti-infective Drugs
+30177	Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (IVAX Pharmaceuticals UK Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+30234	Erythromycin ethylsuccinate 125mg sachets	Erythromycin Ethyl Succinate	05010500	Macrolides
+30520	Primacine 125mg/5ml Liquid (Pinewood Healthcare)	Erythromycin ethyl succinate	05010500	Macrolides
+30980	Erythromycin ethyl succinate 500mg/5ml oral suspension (Kent Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+31221	Bezafibrate 200mg tablets (Mylan)	Bezafibrate	02120300	Fibrates
+31428	Retcin 250mg Tablet (DDSA Pharmaceuticals Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+31514	Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Abbott Laboratories Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+31530	Erythromycin 250mg gastro-resistant tablets (Ranbaxy (UK) Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+31689	Clarosip 187.5mg granules for oral suspension straws (Grunenthal Ltd)	Clarithromycin	00000000	Unknown
+31690	Clarosip 250mg granules for oral suspension straws (Grunenthal Ltd)	Clarithromycin	00000000	Unknown
+31783	Fenogal 200mg capsules (Genus Pharmaceuticals Ltd)	Fenofibrate	00000000	Unknown
+32438	Fucidin 500mg powder and solvent for solution for infusion vials (LEO Pharma)	Sodium fusidate	05010700	Other Antibacterials
+32898	Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+32902	Erythromycin ethyl succinate 250mg/5ml oral suspension (Kent Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+32939	Fusidic acid as fusidate sodium 250mg Tablet	Sodium Fusidate	05010700	Other Antibacterials
+33248	Erythromycin 125mg/5ml Liquid (IVAX Pharmaceuticals UK Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+33304	Kerymax 250mg gastro-resistant capsules (Kent Pharmaceuticals Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+33603	Fibrazate XL 400mg tablets (Sandoz Ltd)	Bezafibrate	02120300	Fibrates
+33685	Erythromycin 250mg gastro-resistant tablets (Teva UK Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+33686	Erythromycin 250mg gastro-resistant capsules (A A H Pharmaceuticals Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+33694	Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Mylan)	Erythromycin ethyl succinate	05010500	Macrolides
+33695	Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Mylan)	Erythromycin ethyl succinate	05010500	Macrolides
+33697	Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+33703	Erythromycin 250mg gastro-resistant tablets (Abbott Laboratories Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+33705	Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Teva UK Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+33944	Bezafibrate 200mg tablets (Teva UK Ltd)	Bezafibrate	02120300	Fibrates
+34181	Bezafibrate 400mg Modified-release tablet (Hillcross Pharmaceuticals Ltd)	Bezafibrate	02120300	Fibrates
+34189	Erythromycin 250mg Tablet (C P Pharmaceuticals Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+34231	Erythromycin 125mg/5ml Liquid (Berk Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+34277	Gemfibrozil 600mg tablets (Teva UK Ltd)	Gemfibrozil	02120300	Fibrates
+34303	Fluconazole 150mg capsules (Teva UK Ltd)	Fluconazole	05020100	Triazole Antifungals
+34307	Fluconazole 50mg capsules (A A H Pharmaceuticals Ltd)	Fluconazole	05020100	Triazole Antifungals
+34320	Fluconazole 150mg capsules (Actavis UK Ltd)	Fluconazole	05020100	Triazole Antifungals
+34329	Colchicine 500microgram tablets (UCB Pharma Ltd)	Colchicine	10010450	Acute Attacks Of Gout
+34334	Erythromycin 250mg gastro-resistant tablets (Mylan)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+34394	Clarithromycin 250mg tablets (Mylan)	Clarithromycin	05010500	Macrolides
+34457	Fluconazole 50mg capsules (Mylan)	Fluconazole	05020100	Triazole Antifungals
+34469	Colchicine 500microgram tablets (Wockhardt UK Ltd)	Colchicine	10010450	Acute Attacks Of Gout
+34479	Erythromycin 250mg gastro-resistant tablets (Sovereign Medical Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+34512	Erythromycin 250mg gastro-resistant capsules (Teva UK Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+34514	Fluconazole 150mg capsules (Mylan)	Fluconazole	05020100	Triazole Antifungals
+34533	Clarithromycin 250mg tablets (Teva UK Ltd)	Clarithromycin	05010500	Macrolides
+34608	Clarithromycin 500mg tablets (Mylan)	Clarithromycin	05010500	Macrolides
+34650	Clarithromycin 250mg tablets (A A H Pharmaceuticals Ltd)	Clarithromycin	05010500	Macrolides
+34763	Fluconazole 50mg capsules (Actavis UK Ltd)	Fluconazole	05020100	Triazole Antifungals
+34779	Erythromycin ethyl succinate 125mg/5ml oral suspension (Sandoz Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+34795	Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (IVAX Pharmaceuticals UK Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+34811	Clarithromycin 250mg/5ml oral suspension (Ranbaxy (UK) Ltd)	Clarithromycin	05010500	Macrolides
+34817	Fluconazole 50mg Capsule (Niche Generics Ltd)	Fluconazole	05020000/12030200	Antifungal Drugs/Oropharyngeal Anti-infective Drugs
+34837	Erythromycin 250mg Gastro-resistant tablet (Co-Pharma Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+34853	Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Teva UK Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+34869	Erythromycin 500mg Tablet (C P Pharmaceuticals Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+34873	Erythromycin 250mg Tablet (Berk Pharmaceuticals Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+34974	Clarithromycin 500mg tablets (Teva UK Ltd)	Clarithromycin	05010500	Macrolides
+35635	Fluconazole 50mg/25ml solution for infusion vials	Fluconazole	05020100	Triazole Antifungals
+35851	Fluconazole 50mg capsules (Ranbaxy (UK) Ltd)	Fluconazole	05020100	Triazole Antifungals
+36514	Arpimycin 250mg/5ml Oral suspension (Rosemont Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+36544	Arpimycin 125mg/5ml Oral suspension (Rosemont Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+37022	Arpimycin 500mg/5ml Liquid (Rosemont Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+37303	Miconazole Cream (Hillcross Pharmaceuticals Ltd)	Miconazole nitrate	13100200	Antifungal Preparations (topical, For Skin Conditions)
+37681	Erythrocin IV lactobionate 1g powder for solution for infusion vials (AMCo)	Erythromycin lactobionate	05010500	Macrolides
+37694	Erythromycin estolate 500mg tablets	Erythromycin Lactobionate	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+37789	Miconazole with hydrocortisone 2% with 1% Cream	Miconazole Nitrate/Hydrocortisone Acetate	13040200/13100200	Mild Topical Corticosteroids/Antifungal Preparations (topical, For Skin Conditions)
+37796	Erythromycin estolate 125mg/5ml suspension	Erythromycin Lactobionate	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+38056	Ciclosporin 50mg/1ml solution for infusion ampoules	Ciclosporin	08020200	Corticosteroids And Other Immunosuppressants
+38163	Clarithromycin 500mg tablets (A A H Pharmaceuticals Ltd)	Clarithromycin	05010500	Macrolides
+38380	Miconazole 50mg muco-adhesive buccal tablets sugar free	Miconazole	12030200	Oropharyngeal Anti-infective Drugs
+38525	Ciclosporin 2% eye ointment	Ciclosporin	11080000/18010000	Miscellaneous Ophthalmic Preparations/Miscellaneous Specials
+38997	Klaricid Paediatric 125mg/5ml oral suspension (Mylan)	Clarithromycin	05010500	Macrolides
+39007	Loramyc 50mg muco-adhesive buccal tablets (Laboratoires BioAlliance Pharma)	Miconazole	12030200	Oropharyngeal Anti-infective Drugs
+39010	Klaricid Paediatric 250mg/5ml oral suspension (Mylan)	Clarithromycin	05010500	Macrolides
+39118	Primacine 250mg/5ml Liquid (Pinewood Healthcare)	Erythromycin ethyl succinate	05010500	Macrolides
+39420	Bezalip Mono 400mg modified-release tablets (Teva UK Ltd)	Bezafibrate	02120300	Fibrates
+39576	Bezalip 200mg tablets (Teva UK Ltd)	Bezafibrate	02120300	Fibrates
+39613	Erythrocin 500 tablets (AMCo)	Erythromycin stearate	05010500	Macrolides
+39616	Erythrocin 250 tablets (AMCo)	Erythromycin stearate	05010500	Macrolides
+39623	Erythroped PI SF 125mg/5ml oral suspension (AMCo)	Erythromycin ethyl succinate	05010500	Macrolides
+39632	Erythroped A 500mg tablets (AMCo)	Erythromycin ethyl succinate	05010500	Macrolides
+39642	Erythroped Forte SF 500mg/5ml oral suspension (AMCo)	Erythromycin ethyl succinate	05010500	Macrolides
+39669	Erythroped SF 250mg/5ml oral suspension (AMCo)	Erythromycin ethyl succinate	05010500	Macrolides
+39787	Ciclosporin 0.2% eye ointment	Ciclosporin	11080000/18010000	Miscellaneous Ophthalmic Preparations/Miscellaneous Specials
+40073	Erythromycin estolate 250mg/5ml suspension	Erythromycin Lactobionate	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+40672	Daktarin 20mg/g oromucosal gel (McNeil Products Ltd)	Miconazole	12030200	Oropharyngeal Anti-infective Drugs
+40784	Clarithromycin 500mg tablets (Sandoz Ltd)	Clarithromycin	05010500	Macrolides
+41389	Erythoden 250mg/5ml Liquid (Stevenden Healthcare)	Erythromycin ethyl succinate	05010500	Macrolides
+41396	Fenofibrate micronised 200mg capsules (A A H Pharmaceuticals Ltd)	Fenofibrate micronised	02120300	Fibrates
+41453	Clarithromycin 125mg/5ml oral suspension (Ranbaxy (UK) Ltd)	Clarithromycin	05010500	Macrolides
+41584	Erythromycin 250mg/5ml Liquid (IVAX Pharmaceuticals UK Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+41604	Erythromycin 500mg Tablet (Hillcross Pharmaceuticals Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+42087	Fluconazole 200mg capsules (Teva UK Ltd)	Fluconazole	05020100	Triazole Antifungals
+42296	Erythromycin 250mg gastro-resistant tablets (Dr Reddy's Laboratories (UK) Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+42448	Deximune 50mg capsules (Dexcel-Pharma Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+42449	Deximune 100mg capsules (Dexcel-Pharma Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+42637	Deximune 25mg capsules (Dexcel-Pharma Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+42659	Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Abbott Laboratories Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+42661	Erythromycin 250mg gastro-resistant tablets (Almus Pharmaceuticals Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+42801	Bezafibrate xl 400mg Modified-release tablet (Generics (UK) Ltd)	Bezafibrate	02120300	Fibrates
+42897	Fluconazole 50mg capsules (Teva UK Ltd)	Fluconazole	05020100	Triazole Antifungals
+42924	Ciclosporin 250mg/5ml solution for infusion ampoules	Ciclosporin	08020200	Corticosteroids And Other Immunosuppressants
+43112	Dronedarone 400mg tablets	Dronedarone hydrochloride	02030202	Supraventricular Arrhythmias
+43532	Fluconazole 200mg capsules (Actavis UK Ltd)	Fluconazole	05020100	Triazole Antifungals
+43539	Fluconazole 50mg capsules (IVAX Pharmaceuticals UK Ltd)	Fluconazole	05020100	Triazole Antifungals
+43692	Fluconazole 150mg capsules (A A H Pharmaceuticals Ltd)	Fluconazole	05020100	Triazole Antifungals
+44308	Diflucan 2mg/ml Infusion (Pfizer Ltd)	Fluconazole	05020000/12030200	Antifungal Drugs/Oropharyngeal Anti-infective Drugs
+44437	Multaq 400mg tablets (Sanofi)	Dronedarone hydrochloride	02030202	Supraventricular Arrhythmias
+45240	Fluconazole 150mg Capsule (Niche Generics Ltd)	Fluconazole	05020000/12030200	Antifungal Drugs/Oropharyngeal Anti-infective Drugs
+45591	Clarie XL 500mg tablets (Teva UK Ltd)	Clarithromycin	05010500	Macrolides
+45795	Clarithromycin 125mg/5ml oral suspension (A A H Pharmaceuticals Ltd)	Clarithromycin	05010500	Macrolides
+45870	Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Pinewood Healthcare)	Erythromycin ethyl succinate	05010500	Macrolides
+46154	Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Abbott Laboratories Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+46251	Diflucan 50mg/25ml solution for infusion vials (Pfizer Ltd)	Fluconazole	05020100	Triazole Antifungals
+46395	Capimune 100mg capsules (Mylan)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+46488	Clarithromycin 500mg tablets (Ranbaxy (UK) Ltd)	Clarithromycin	05010500	Macrolides
+46637	Capimune 25mg capsules (Mylan)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+46696	Erythromycin ethyl succinate 250mg/5ml oral suspension (Sandoz Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+46923	Fluconazole 50mg capsules (Sandoz Ltd)	Fluconazole	05020100	Triazole Antifungals
+46962	Colchicine 500microgram tablets (A A H Pharmaceuticals Ltd)	Colchicine	10010450	Acute Attacks Of Gout
+47042	Ciclosporin 100mg Capsule (Hillcross Pharmaceuticals Ltd)	Ciclosporin	01050300/08020200	Drugs Affecting The Immune Response (in Chronic Bowel Disorders)/Corticosteroids And Other Immunosuppressants
+47047	Capsorin 50mg capsules (Morningside Healthcare Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+47102	Capimune 50mg capsules (Mylan)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+47126	Erythromycin ethyl succinate 125mg/5ml oral suspension (Pinewood Healthcare)	Erythromycin ethyl succinate	05010500	Macrolides
+47192	Capsorin 100mg capsules (Morningside Healthcare Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+47242	Erythromycin 250mg/5ml Liquid (C P Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+47377	Ciclosporin 25mg Capsule (Hillcross Pharmaceuticals Ltd)	Ciclosporin	01050300/08020200	Drugs Affecting The Immune Response (in Chronic Bowel Disorders)/Corticosteroids And Other Immunosuppressants
+47471	Capsorin 25mg capsules (Morningside Healthcare Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+47582	Clarithromycin 250mg tablets (Sandoz Ltd)	Clarithromycin	05010500	Macrolides
+47676	Erythromycin 500mg/5ml Liquid (C P Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+47846	Fluconazole 200mg capsules (Zentiva)	Fluconazole	05020100	Triazole Antifungals
+47935	Fenofibrate 200mg Capsule (Teva UK Ltd)	Fenofibrate micronised	02120300	Fibrates
+48017	Erythoden 125mg/5ml Liquid (Stevenden Healthcare)	Erythromycin ethyl succinate	05010500	Macrolides
+48023	Clarithromycin 500mg tablets (Actavis UK Ltd)	Clarithromycin	05010500	Macrolides
+48101	Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Focus Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+48163	Clarithromycin 250mg tablets (Actavis UK Ltd)	Clarithromycin	05010500	Macrolides
+48264	Diflucan 150mg capsules (Waymade Healthcare Plc)	Fluconazole	05020000/05020100	Antifungal Drugs/Triazole Antifungals
+48556	Ciclosporin 100mg capsules (Phoenix Healthcare Distribution Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+48763	Ciclosporin 25mg capsules (Phoenix Healthcare Distribution Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+48798	Ciclosporin 50mg capsules (Phoenix Healthcare Distribution Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+49101	Diflucan 150mg capsules (Necessity Supplies Ltd)	Fluconazole	05020100	Triazole Antifungals
+49138	Diflucan 150mg capsules (Lexon (UK) Ltd)	Fluconazole	05020100	Triazole Antifungals
+49252	Ciclosporin 0.05% eye drops 0.4ml unit dose preservative free	Ciclosporin	11080000/18010000	Miscellaneous Ophthalmic Preparations/Miscellaneous Specials
+49301	Erythrolar 500mg tablets (Ennogen Pharma Ltd)	Erythromycin stearate	05010500	Macrolides
+49609	Bezafibrate 400mg Modified-release tablet (Sandoz Ltd)	Bezafibrate	02120300	Fibrates
+49939	Clarithromycin 500mg tablets (Alliance Healthcare (Distribution) Ltd)	Clarithromycin	05010500	Macrolides
+49952	Erythromycin 250mg gastro-resistant capsules (Phoenix Healthcare Distribution Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+49958	Neoral 25mg capsules (DE Pharmaceuticals)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+49978	Erythromycin ethyl succinate 125mg/5ml oral suspension (Focus Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+50071	Fenofibrate 160mg Tablet (Teva UK Ltd)	Fenofibrate micronised	02120300	Fibrates
+50091	Diflucan 50mg capsules (Lexon (UK) Ltd)	Fluconazole	05020100	Triazole Antifungals
+50205	Erythrolar 250mg tablets (Ennogen Pharma Ltd)	Erythromycin stearate	05010500	Macrolides
+50223	Erythrocin 500 tablets (Stephar (U.K.) Ltd)	Erythromycin stearate	05010500	Macrolides
+50580	Erythromycin 250mg gastro-resistant capsules (Actavis UK Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+50693	Erythrocin 500 tablets (Sigma Pharmaceuticals Plc)	Erythromycin stearate	05010500	Macrolides
+50694	Erythromycin 250mg gastro-resistant capsules (Alliance Healthcare (Distribution) Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+50759	Daktacort 2%/1% cream (Sigma Pharmaceuticals Plc)	Hydrocortisone/Miconazole nitrate	13040000/13040100	Topical Corticosteroids/Topical Corticosteroids With Antimicrobials
+50946	Clarithromycin 250mg tablets (Sigma Pharmaceuticals Plc)	Clarithromycin	05010500	Macrolides
+50948	Erythromycin ethyl succinate 125mg/5ml oral suspension (Phoenix Healthcare Distribution Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+51154	Clarithromycin 250mg tablets (Kent Pharmaceuticals Ltd)	Clarithromycin	05010500	Macrolides
+51229	Gyno-Daktarin 2% cream (Janssen-Cilag Ltd)	Miconazole nitrate	07020250	Preparations For Vaginal And Vulval Candidiasis
+51426	Clarithromycin 500mg tablets (Accord Healthcare Ltd)	Clarithromycin	05010500	Macrolides
+51831	Clarithromycin 125mg/5ml oral suspension (Phoenix Healthcare Distribution Ltd)	Clarithromycin	05010500	Macrolides
+51984	Erythrocin 500 tablets (Mawdsley-Brooks & Company Ltd)	Erythromycin stearate	05010500	Macrolides
+52158	Clarithromycin 250mg tablets (Alliance Healthcare (Distribution) Ltd)	Clarithromycin	05010500	Macrolides
+52411	Klaricid 250mg tablets (Necessity Supplies Ltd)	Clarithromycin	05010500	Macrolides
+52428	Erythromycin 250mg gastro-resistant tablets (Phoenix Healthcare Distribution Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+52482	Zineryt lotion (Sigma Pharmaceuticals Plc)	Erythromycin/Zinc acetate	13060102	Topical Antibacterials For Acne
+52615	Neoral 100mg capsules (Sigma Pharmaceuticals Plc)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+52719	Clarithromycin 250mg tablets (Apotex UK Ltd)	Clarithromycin	05010500	Macrolides
+52743	Ciclosporin 25mg capsules (Sigma Pharmaceuticals Plc)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+52768	Diflucan 150mg capsules (DE Pharmaceuticals)	Fluconazole	05020100	Triazole Antifungals
+52814	Bezafibrate 400mg modified-release tablets (Alliance Healthcare (Distribution) Ltd)	Bezafibrate	02120300	Fibrates
+52860	Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+52906	Erythromycin 250mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+52952	Erythromycin 250mg gastro-resistant tablets (Strides Shasun (UK) Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+53004	Erythrocin 500 tablets (Necessity Supplies Ltd)	Erythromycin stearate	05010500	Macrolides
+53086	Clarithromycin 250mg tablets (DE Pharmaceuticals)	Clarithromycin	05010500	Macrolides
+53100	Zineryt lotion (DE Pharmaceuticals)	Erythromycin/Zinc acetate	13060102	Topical Antibacterials For Acne
+53109	Clarithromycin 500mg tablets (Somex Pharma)	Clarithromycin	05010500	Macrolides
+53144	Clarithromycin 250mg tablets (Wockhardt UK Ltd)	Clarithromycin	05010500	Macrolides
+53153	Clarithromycin 250mg tablets (Phoenix Healthcare Distribution Ltd)	Clarithromycin	05010500	Macrolides
+53168	Clarithromycin 125mg/5ml oral suspension (Sandoz Ltd)	Clarithromycin	05010500	Macrolides
+53175	Neoral 25mg capsules (Mawdsley-Brooks & Company Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+53176	Neoral 50mg capsules (DE Pharmaceuticals)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+53179	Clarithromycin 250mg/5ml oral suspension (Sandoz Ltd)	Clarithromycin	05010500	Macrolides
+53186	Daktarin 2% cream (DE Pharmaceuticals)	Miconazole nitrate	13100200	Antifungal Preparations (topical, For Skin Conditions)
+53250	Modalim 100mg tablets (Lexon (UK) Ltd)	Ciprofibrate	02120300	Fibrates
+53277	Fluconazole 50mg capsules (Alliance Healthcare (Distribution) Ltd)	Fluconazole	05020100	Triazole Antifungals
+53398	Clarithromycin 500mg powder for concentrate for solution for infusion vials (Mercury Pharma Group Ltd)	Clarithromycin	05010500	Macrolides
+53449	Erythrocin 500 tablets (Lexon (UK) Ltd)	Erythromycin stearate	05010500	Macrolides
+53688	Clarithromycin 250mg tablets (Ranbaxy (UK) Ltd)	Clarithromycin	05010500	Macrolides
+53703	Clarithromycin 500mg tablets (Kent Pharmaceuticals Ltd)	Clarithromycin	05010500	Macrolides
+53715	Clarithromycin 500mg tablets (Almus Pharmaceuticals Ltd)	Clarithromycin	00000000	Unknown
+53776	Clarithromycin 500mg tablets (DE Pharmaceuticals)	Clarithromycin	05010500	Macrolides
+53875	Clarithromycin 500mg tablets (Tillomed Laboratories Ltd)	Clarithromycin	05010500	Macrolides
+53969	Ciclosporin 2% eye drops	Ciclosporin	11080000/18010000	Miscellaneous Ophthalmic Preparations/Miscellaneous Specials
+53986	Erythromycin 250mg gastro-resistant tablets (Medreich Plc)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+54098	Erythroped A 500mg tablets (Lexon (UK) Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+54134	Ciclosporin 100mg capsules (Sigma Pharmaceuticals Plc)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+54208	Clarithromycin 250mg/5ml oral suspension (Sigma Pharmaceuticals Plc)	Clarithromycin	05010500	Macrolides
+54241	Clarithromycin 250mg/5ml oral suspension (A A H Pharmaceuticals Ltd)	Clarithromycin	05010500	Macrolides
+54269	Clarithromycin 250mg tablets (Somex Pharma)	Clarithromycin	05010500	Macrolides
+54472	Clarithromycin 250mg tablets (Accord Healthcare Ltd)	Clarithromycin	05010500	Macrolides
+54495	Fluconazole 50mg capsules (Wockhardt UK Ltd)	Fluconazole	05020100	Triazole Antifungals
+54529	Clarithromycin 500mg Modified-release tablet (Hillcross Pharmaceuticals Ltd)	Clarithromycin	05010500	Macrolides
+54867	Ciclosporin 50mg capsules (Sigma Pharmaceuticals Plc)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+54882	Clarithromycin 250mg tablets (Almus Pharmaceuticals Ltd)	Clarithromycin	00000000	Unknown
+54897	Clarithromycin 250mg tablets (Tillomed Laboratories Ltd)	Clarithromycin	05010500	Macrolides
+54903	Clarithromycin 125mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd)	Clarithromycin	05010500	Macrolides
+54953	Clarithromycin 500mg powder for concentrate for solution for infusion vials (Martindale Pharmaceuticals Ltd)	Clarithromycin	05010500	Macrolides
+54974	Ciclosporin 50mg capsules (Cubic Pharmaceuticals Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+54975	Ciclosporin 100mg capsules (Cubic Pharmaceuticals Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+55021	Ciclosporin 0.2% eye ointment preservative free	Ciclosporin	11080000/18010000	Miscellaneous Ophthalmic Preparations/Miscellaneous Specials
+55116	Ciclosporin 25mg capsules (Cubic Pharmaceuticals Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+55133	Erythromycin 250mg gastro-resistant capsules (Kent Pharmaceuticals Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+55148	Clarithromycin 250mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd)	Clarithromycin	05010500	Macrolides
+55300	Erythromycin 500mg Tablet (Teva UK Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+55397	Erythromycin 250mg gastro-resistant capsules (Waymade Healthcare Plc)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+55428	Clarithromycin 250mg/5ml oral suspension (Waymade Healthcare Plc)	Clarithromycin	05010500	Macrolides
+55483	Erythromycin 250mg gastro-resistant tablets (Milpharm Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+55589	Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+55652	Daktarin 2% cream (Mawdsley-Brooks & Company Ltd)	Miconazole nitrate	13100200	Antifungal Preparations (topical, For Skin Conditions)
+56203	Erythroped A 500mg tablets (Sigma Pharmaceuticals Plc)	Erythromycin ethyl succinate	05010500	Macrolides
+57219	Fenofibrate micronised 200mg capsules (Sandoz Ltd)	Fenofibrate micronised	02120300	Fibrates
+57267	Clarithromycin 125mg/5ml oral suspension (Waymade Healthcare Plc)	Clarithromycin	05010500	Macrolides
+57398	Fluconazole 200mg capsules (Sigma Pharmaceuticals Plc)	Fluconazole	05020100	Triazole Antifungals
+57489	Ciprofibrate 100mg tablets (Zentiva)	Ciprofibrate	02120300	Fibrates
+57502	Daktarin 20mg/g oromucosal gel (Waymade Healthcare Plc)	Miconazole	12030200	Oropharyngeal Anti-infective Drugs
+57526	Zineryt lotion (Dowelhurst Ltd)	Erythromycin/Zinc acetate	00000000	Unknown
+57660	Clarithromycin 250mg tablets (Almus Pharmaceuticals Ltd)	Clarithromycin	05010500	Macrolides
+58037	Clarithromycin 500mg tablets (Almus Pharmaceuticals Ltd)	Clarithromycin	05010500	Macrolides
+58175	Clarithromycin 500mg tablets (Wockhardt UK Ltd)	Clarithromycin	05010500	Macrolides
+58292	Fluconazole 150mg capsules (Sigma Pharmaceuticals Plc)	Fluconazole	05020100	Triazole Antifungals
+58381	Fluconazole 150mg capsules (Bristol Laboratories Ltd)	Fluconazole	05020100	Triazole Antifungals
+58487	Erythromycin 0.5% eye ointment	Erythromycin	11030100	Antibacterials (in Eye Preparation)
+58635	Bezalip Mono 400mg modified-release tablets (DE Pharmaceuticals)	Bezafibrate	02120300	Fibrates
+58756	Erythromycin ethyl succinate 125mg/5ml oral suspension (Waymade Healthcare Plc)	Erythromycin ethyl succinate	05010500	Macrolides
+58760	Erythroped A 500mg tablets (Necessity Supplies Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+58824	Erythromycin 250mg gastro-resistant tablets (Kent Pharmaceuticals Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+58841	Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Kent Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+58902	Clarithromycin 500mg tablets (Phoenix Healthcare Distribution Ltd)	Clarithromycin	05010500	Macrolides
+58980	Zineryt lotion (Lexon (UK) Ltd)	Erythromycin/Zinc acetate	13060102	Topical Antibacterials For Acne
+59002	Bezafibrate 400mg modified-release tablets (DE Pharmaceuticals)	Bezafibrate	02120300	Fibrates
+59017	Fluconazole 150mg capsules (Kent Pharmaceuticals Ltd)	Fluconazole	05020100	Triazole Antifungals
+59036	Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Pinewood Healthcare)	Erythromycin ethyl succinate	05010500	Macrolides
+59100	Erythromycin 250mg gastro-resistant tablets (Waymade Healthcare Plc)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+59126	Erythromycin ethyl succinate 125mg/5ml oral suspension (Kent Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+59249	Ciclosporin 50mg capsules (Colorama Pharmaceuticals Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+59250	Ciclosporin 100mg capsules (Colorama Pharmaceuticals Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+59441	Erythromycin ethyl succinate 125mg/5ml oral suspension (DE Pharmaceuticals)	Erythromycin ethyl succinate	05010500	Macrolides
+59855	Ciclosporin 0.06% eye drops preservative free	Ciclosporin	11080000/18010000	Miscellaneous Ophthalmic Preparations/Miscellaneous Specials
+60011	Fluconazole 150mg capsules (Aurobindo Pharma Ltd)	Fluconazole	05020100	Triazole Antifungals
+60190	Erythromycin 250mg gastro-resistant tablets (Waymade Healthcare Plc)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+60263	Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+60308	Erythromycin ethyl succinate 125mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+60385	Bezalip Mono 400mg modified-release tablets (Lexon (UK) Ltd)	Bezafibrate	02120300	Fibrates
+60788	Fenofibrate micronised 267mg capsules (Zentiva)	Fenofibrate micronised	02120300	Fibrates
+60805	Clarithromycin 500mg tablets (Waymade Healthcare Plc)	Clarithromycin	05010500	Macrolides
+60828	Erythromycin 250mg gastro-resistant tablets (Bristol Laboratories Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+61001	Clarithromycin 125mg/5ml oral suspension (Kent Pharmaceuticals Ltd)	Clarithromycin	05010500	Macrolides
+61223	Fluconazole 150mg capsules (Phoenix Healthcare Distribution Ltd)	Fluconazole	05020100	Triazole Antifungals
+61264	Erythromycin 250mg gastro-resistant tablets (DE Pharmaceuticals)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+61561	Erythromycin ethyl succinate 250mg/5ml oral suspension (Waymade Healthcare Plc)	Erythromycin ethyl succinate	05010500	Macrolides
+61612	Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Waymade Healthcare Plc)	Erythromycin ethyl succinate	05010500	Macrolides
+61830	Clarithromycin 125mg/5ml oral suspension (Sigma Pharmaceuticals Plc)	Clarithromycin	05010500	Macrolides
+62051	Ciclosporin 25mg capsules (Niche Pharma Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+62101	Fluconazole 200mg capsules (Relonchem Ltd)	Fluconazole	05020100	Triazole Antifungals
+62143	Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (DE Pharmaceuticals)	Erythromycin ethyl succinate	05010500	Macrolides
+62466	Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+62897	Clarithromycin 250mg/5ml oral suspension (Phoenix Healthcare Distribution Ltd)	Clarithromycin	05010500	Macrolides
+62995	Erythromycin ethyl succinate 500mg/5ml oral suspension (A A H Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+63032	Erythromycin ethyl succinate 250mg/5ml oral suspension (DE Pharmaceuticals)	Erythromycin ethyl succinate	05010500	Macrolides
+63033	Clarithromycin 250mg tablets (Waymade Healthcare Plc)	Clarithromycin	05010500	Macrolides
+63236	Klaricid 500 tablets (Necessity Supplies Ltd)	Clarithromycin	05010500	Macrolides
+63458	Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Phoenix Healthcare Distribution Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+63737	Fenofibrate micronised 267mg capsules (Sigma Pharmaceuticals Plc)	Fenofibrate micronised	02120300	Fibrates
+63798	Ciclosporin 100mg capsules (A A H Pharmaceuticals Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+64312	Erythromycin ethyl succinate 250mg/5ml oral suspension (Pinewood Healthcare)	Erythromycin ethyl succinate	05010500	Macrolides
+64503	Bezalip Mono 400mg modified-release tablets (Waymade Healthcare Plc)	Bezafibrate	02120300	Fibrates
+64511	Ikervis 0.1% eye drops 0.3ml unit dose (Santen UK Ltd)	Ciclosporin	11080000	Miscellaneous Ophthalmic Preparations
+64615	Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Waymade Healthcare Plc)	Erythromycin ethyl succinate	05010500	Macrolides
+64652	Ciclosporin 0.1% eye drops 0.3ml unit dose	Ciclosporin	11080000	Miscellaneous Ophthalmic Preparations
+64732	Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Phoenix Healthcare Distribution Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+64857	Vanquoral 100mg capsules (Teva UK Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+64858	Vanquoral 50mg capsules (Teva UK Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+64889	Fluconazole 150mg capsules (Relonchem Ltd)	Fluconazole	05020100	Triazole Antifungals
+64933	Fenofibrate micronised 267mg capsules (Ranbaxy (UK) Ltd)	Fenofibrate micronised	02120300	Fibrates
+64984	Fenofibrate micronised 160mg tablets (Phoenix Healthcare Distribution Ltd)	Fenofibrate micronised	02120300	Fibrates
+65259	Klaricid 500 tablets (Sigma Pharmaceuticals Plc)	Clarithromycin	05010500	Macrolides
+65572	Fenofibrate micronised 160mg tablets (Thornton & Ross Ltd)	Fenofibrate micronised	02120300	Fibrates
+65639	Ciclosporin 100mg capsules (J M McGill Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+65667	Erythroped A 500mg tablets (Mawdsley-Brooks & Company Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+65802	Restasis 0.05% eye drops 0.4ml unit dose (Imported (United States))	Ciclosporin	11080000/18010000	Miscellaneous Ophthalmic Preparations/Miscellaneous Specials
+65956	Erythromycin ethyl succinate 125mg/5ml oral suspension (Sigma Pharmaceuticals Plc)	Erythromycin ethyl succinate	05010500	Macrolides
+66087	Modalim 100mg tablets (Mawdsley-Brooks & Company Ltd)	Ciprofibrate	02120300	Fibrates
+66092	Clarithromycin 500mg powder for solution for infusion vials (A A H Pharmaceuticals Ltd)	Clarithromycin	05010500	Macrolides
+66197	Sacubitril 49mg / Valsartan 51mg tablets	Sacubitril/Valsartan	02050502/02050600	Angiotensin-ii Receptor Antagonists/Other Antihypertensives
+66205	Entresto 49mg/51mg tablets (Novartis Pharmaceuticals UK Ltd)	Sacubitril/Valsartan	02050502/02050600	Angiotensin-ii Receptor Antagonists/Other Antihypertensives
+66261	Entresto 24mg/26mg tablets (Novartis Pharmaceuticals UK Ltd)	Sacubitril/Valsartan	02050502/02050600	Angiotensin-ii Receptor Antagonists/Other Antihypertensives
+66308	Fluconazole 100mg/50ml solution for infusion bottles	Fluconazole	05020100	Triazole Antifungals
+66425	Bezafibrate 400mg modified-release tablets (A A H Pharmaceuticals Ltd)	Bezafibrate	02120300	Fibrates
+66469	Colchicine 500microgram tablets (Alliance Healthcare (Distribution) Ltd)	Colchicine	10010450	Acute Attacks Of Gout
+66473	Vanquoral 25mg capsules (Teva UK Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+66505	Fenofibrate 145mg / Simvastatin 40mg tablets	Simvastatin/Fenofibrate	02120300/02120400	Fibrates/Statins
+66564	Bezafibrate 400mg modified-release tablets (Phoenix Healthcare Distribution Ltd)	Bezafibrate	02120300	Fibrates
+66702	Sacubitril 24mg / Valsartan 26mg tablets	Sacubitril/Valsartan	02050502/02050600	Angiotensin-ii Receptor Antagonists/Other Antihypertensives
+66780	Fenofibrate 145mg / Simvastatin 20mg tablets	Simvastatin/Fenofibrate	02120300/02120400	Fibrates/Statins
+66785	Vanquoral 10mg capsules (Teva UK Ltd)	Ciclosporin	08020200/10010302/13050300	Corticosteroids And Other Immunosuppressants/Drugs Affecting The Immune Response In Rheumatic Disease/Drugs Affecting The Immune Response For Eczema And Psoriasis
+66819	Erythrocin 500 tablets (Waymade Healthcare Plc)	Erythromycin stearate	05010500	Macrolides
+66829	Entresto 97mg/103mg tablets (Novartis Pharmaceuticals UK Ltd)	Sacubitril/Valsartan	02050502/02050600	Angiotensin-ii Receptor Antagonists/Other Antihypertensives
+66931	Sacubitril 97mg / Valsartan 103mg tablets	Sacubitril/Valsartan	02050502/02050600	Angiotensin-ii Receptor Antagonists/Other Antihypertensives
+66942	Fluconazole 50mg capsules (Relonchem Ltd)	Fluconazole	05020100	Triazole Antifungals
+67157	Fenofibrate micronised 200mg capsules (Phoenix Healthcare Distribution Ltd)	Fenofibrate micronised	02120300	Fibrates
+67329	Lipantil Micro 267 capsules (DE Pharmaceuticals)	Fenofibrate micronised	02120300	Fibrates
+67560	Clarithromycin 250mg/5ml oral suspension (Almus Pharmaceuticals Ltd)	Clarithromycin	05010500	Macrolides
+68226	Erythromycin ethyl succinate 250mg/5ml oral suspension (Sigma Pharmaceuticals Plc)	Erythromycin ethyl succinate	05010500	Macrolides
+68367	Erythromycin ethyl succinate 500mg tablets (Dawa Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+68723	Clarithromycin 125mg/5ml oral suspension (DE Pharmaceuticals)	Clarithromycin	05010500	Macrolides
+68943	Clarithromycin 500mg tablets (Sigma Pharmaceuticals Plc)	Clarithromycin	05010500	Macrolides
+69330	Erythromycin 250mg/5ml Liquid (Rosemont Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+69403	Erythromycin 250mg gastro-resistant tablets (Genesis Pharmaceuticals Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+69480	Erythromycin 250mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+69528	Cholib 145mg/20mg tablets (Mylan)	Simvastatin/Fenofibrate	02120300/02120400	Fibrates/Statins
+70311	Erythromycin ethyl succinate 250mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+70486	Cholib 145mg/40mg tablets (Mylan)	Simvastatin/Fenofibrate	02120300/02120400	Fibrates/Statins
+70751	Bezalip Mono 400mg modified-release tablets (Sigma Pharmaceuticals Plc)	Bezafibrate	02120300	Fibrates
+70753	Daktacort 2%/1% cream (Waymade Healthcare Plc)	Hydrocortisone/Miconazole nitrate	13040100	Topical Corticosteroids With Antimicrobials
+70950	Fenofibrate micronised 200mg capsules (Waymade Healthcare Plc)	Fenofibrate micronised	02120300	Fibrates
+71016	Ciprofibrate 100mg tablets (DE Pharmaceuticals)	Ciprofibrate	02120300	Fibrates
+71033	Sodium fusidate 500mg powder and solvent for solution for infusion vials (Alliance Healthcare (Distribution) Ltd)	Sodium fusidate	05010700	Other Antibacterials
+71052	Colchicine 500microgram tablets (Kent Pharmaceuticals Ltd)	Colchicine	10010450	Acute Attacks Of Gout
+71061	Fluconazole 50mg capsules (Almus Pharmaceuticals Ltd)	Fluconazole	00000000	Unknown
+71066	Erythromycin ethyl succinate 500mg tablets (Sigma Pharmaceuticals Plc)	Erythromycin ethyl succinate	05010500	Macrolides
+71154	Klaricid Paediatric 125mg/5ml oral suspension (Dowelhurst Ltd)	Clarithromycin	05010500	Macrolides
+71200	Clarithromycin 2% eye drops preservative free	Clarithromycin	05010500/11030000	Macrolides/Anti-infective Eye Preparations
+71363	Erythrocin 500 tablets (Dowelhurst Ltd)	Erythromycin stearate	05010500	Macrolides
+71423	Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Focus Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+71435	Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Focus Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+71532	Fluconazole 400mg/200ml infusion bags	Fluconazole	05020100	Triazole Antifungals
+71680	Clarithromycin 250mg/5ml oral suspension (DE Pharmaceuticals)	Clarithromycin	05010500	Macrolides
+71853	Colchicine 500microgram tablets (DE Pharmaceuticals)	Colchicine	10010450	Acute Attacks Of Gout
+72092	Fenofibrate micronised 160mg tablets (Waymade Healthcare Plc)	Fenofibrate micronised	02120300	Fibrates
+72108	Clarithromycin 500mg powder for solution for infusion vials (Bowmed Ibisqus Ltd)	Clarithromycin	05010500	Macrolides
+72126	Clarithromycin 125mg/5ml oral suspension (Almus Pharmaceuticals Ltd)	Clarithromycin	05010500	Macrolides
+72318	Clarithromycin 500mg tablets (Milpharm Ltd)	Clarithromycin	05010500	Macrolides
+72439	Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Pinewood Healthcare)	Erythromycin ethyl succinate	05010500	Macrolides
+73384	Fenofibrate micronised 200mg capsules (DE Pharmaceuticals)	Fenofibrate micronised	02120300	Fibrates
+73385	Fenofibrate micronised 200mg capsules (Kent Pharmaceuticals Ltd)	Fenofibrate micronised	02120300	Fibrates
+73461	Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Kent Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+73491	Fenofibrate micronised 267mg capsules (A A H Pharmaceuticals Ltd)	Fenofibrate micronised	02120300	Fibrates
+73643	Fluconazole 150mg capsules (Somex Pharma)	Fluconazole	05020100	Triazole Antifungals
+73663	Erythromycin ethyl succinate 500mg/5ml oral suspension (Pinewood Healthcare)	Erythromycin ethyl succinate	05010500	Macrolides
+73717	Isotrexin gel (Mawdsley-Brooks & Company Ltd)	Isotretinoin/Erythromycin	13060100	Topical Preparations For Acne
+74009	Bezalip Mono 400mg modified-release tablets (Dowelhurst Ltd)	Bezafibrate	02120300	Fibrates
+74161	Ezetimibe 10mg tablets (Mylan)	Ezetimibe	02120000	Lipid-Regulating Drugs
+74182	Zineryt lotion (Mawdsley-Brooks & Company Ltd)	Erythromycin/Zinc acetate	13060102	Topical Antibacterials For Acne
+74355	Erythromycin 250mg gastro-resistant tablets (Sigma Pharmaceuticals Plc)	Erythromycin	05010500/13060201	Macrolides/Oral Antibacterials For Acne
+74382	Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Sigma Pharmaceuticals Plc)	Erythromycin ethyl succinate	05010500	Macrolides
+74616	Clarithromycin 250mg tablets (Milpharm Ltd)	Clarithromycin	05010500	Macrolides
+74651	Erythromycin ethyl succinate 250mg/5ml oral suspension (Actavis UK Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+74825	Lipantil Micro 200 capsules (Waymade Healthcare Plc)	Fenofibrate micronised	02120300	Fibrates
+75224	Fluconazole 150mg capsules (Ranbaxy (UK) Ltd)	Fluconazole	05020100	Triazole Antifungals
+75316	Klaricid XL 500mg tablets (Dowelhurst Ltd)	Clarithromycin	05010500	Macrolides
+75358	Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Mawdsley-Brooks & Company Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+75422	Erythromycin ethyl succinate 500mg tablets (Alliance Healthcare (Distribution) Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+75459	Aknemycin Plus solution (Lexon (UK) Ltd)	Erythromycin/Tretinoin	13060100	Topical Preparations For Acne
+75595	Erythromycin 250mg/5ml Liquid (Berk Pharmaceuticals Ltd)	Erythromycin ethyl succinate	05010500	Macrolides
+75623	Verkazia 0.1% eye drops 0.3ml unit dose (Santen UK Ltd)	Ciclosporin	11080000	Miscellaneous Ophthalmic Preparations
+75871	Clarithromycin 500mg powder for concentrate for solution for infusion vials (Hameln Pharmaceuticals Ltd)	Clarithromycin	05010500	Macrolides

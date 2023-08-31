@@ -1,0 +1,12 @@
+Deficit	medcode
+Housebound	2495
+Housebound	3703
+Housebound	10120
+Housebound	10069
+Housebound	16590
+Housebound	25724
+Housebound	18170
+Housebound	29403
+Housebound	29555
+Housebound	11099
+Housebound	25727
